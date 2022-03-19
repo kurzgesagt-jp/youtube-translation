@@ -324,7 +324,7 @@ The universe is simply not old enough
 00:04:31,081 --> 00:04:35,510
  for these supermassive black holes to have formed by eating stars and merging with each other.
 星やブラックホールを飲み込んだりしても
-こんなに大きくなれない
+こんなに大きくなれないのだ
 
 60
 00:04:35,570 --> 00:04:37,648
@@ -357,7 +357,7 @@ Our Sun is like a grain of sand next to them.
 00:04:54,636 --> 00:04:57,773
 We don't know if Quasi Stars actually existed
 Quasi星がかつて
-本当に存在したのかわからないのだが
+本当に実在したのか不明だが
 
 66
 00:04:57,802 --> 00:05:02,538
@@ -390,8 +390,8 @@ Quasi星は危ういバランスがうまれた
 71
 00:05:26,247 --> 00:05:29,940
 Gravity pressed the supermassive star together, feeding the black hole
-重力により超巨大星が押しつぶされ
-ブラックホールに食べられながら落ち込んでいく
+重力で超巨大星が押しつぶされ
+ブラックホールに食べられていく
 
 72
 00:05:29,965 --> 00:05:35,517
@@ -415,13 +415,12 @@ And so these quickly growing black holes might have been able to consume the qua
 00:05:44,805 --> 00:05:50,530
 Black holes several thousand times the mass of the Sun and wider than the entire earth.
 太陽よりも数千倍も重く
-幅も地球より大きい
+幅も地球より大きく
 
 76
 00:05:50,880 --> 00:05:55,330
 These black holes might have become the seeds for supermassive black holes.
-これらは超大質量ブラックホールと
-呼ばれる種になりえる
+超大質量ブラックホールの種にもなりえる
 
 77
 00:05:55,355 --> 00:05:56,640
@@ -460,7 +459,7 @@ In the Milky Way we have Sagittarius A Star,
 00:06:19,743 --> 00:06:25,437
 We know it sits there because we can see a number of stars being thrown around by a seemingly empty spot.
 何も見えない空間をいくつかの星が漂っているため
-我々はそのことを知っている
+我々はその存在を知っている
 
 84
 00:06:25,920 --> 00:06:31,804
@@ -547,13 +546,13 @@ The one at the center of the BL Lacertae galaxy is devouring so much material
 00:07:30,640 --> 00:07:37,250
 If Earth were orbiting this huge body, it would seem 115 times larger than our Sun in the sky…
 もし地球が公転していたら
-太陽の115倍も大きい巨体を目にするだろう
+太陽の115倍もの巨体を目にするだろうし
 
 99
 00:07:37,275 --> 00:07:41,514
  and we'd be burnt to a crisp in seconds by its glowing hot accretion disk.
-そして、光り輝く降着円盤によって
-一瞬でカリカリに焼かれることになる
+光り輝く降着円盤によって
+一瞬で黒焦げにされるだろう
 
 100
 00:07:41,920 --> 00:07:47,892
@@ -642,8 +641,8 @@ These black holes have eaten so much that they've grown to tens of billions of s
 115
 00:09:06,897 --> 00:09:14,060
  their gravity the engine for a 'quasar'- an accretion disk shining brighter than thousands of galaxies full of stars.
-その重力は銀河中の星を集めたよりも明るい
-クエーサーの動力源となっている
+その重力はクエーサーの動力源となっている
+数千の銀河よりも明るい降着円盤だ
 
 116
 00:09:14,085 --> 00:09:19,370
@@ -755,32 +754,32 @@ From the smallest possible black hole, all the way up to the largest.
 135
 00:11:25,920 --> 00:11:29,840
 Let's try something new today, we can call it: "Behind the Lies" a short behind the scenes bit
-今日は新しいことに挑戦してみたい
-「嘘の向こう側」とでも言おうか
+今日は新しいことに挑戦します
+「嘘の向こう側」とでも言いましょうか
 
 136
 00:11:29,840 --> 00:11:34,472
  about the necessary inaccuracies in this video
 この動画で必要だった
-不正確さについて説明したい
+不正確さについて説明させてください
 
 137
 00:11:34,497 --> 00:11:39,238
  because it's really not actually possible to rank black holes like trading cards.
 というのもトレーディングカードのように
-ブラックホールをランク付けすることはできない
+ブラックホールをランク付けすることはできません
 
 138
 00:11:39,440 --> 00:11:43,384
 How so? Well, while we have catalogued millions of stars,
 どうして？まあ我々は数多くの
-星をカタログ化しているが
+星をカタログ化していますが
 
 139
 00:11:43,409 --> 00:11:47,184
  we really only have good data on a couple of dozen black holes.
 ブラックホールについて十分な
-データを持っているものは数十しかない
+データを持っているものは数十しかありません
 
 140
 00:11:47,209 --> 00:11:51,113
@@ -802,7 +801,7 @@ We can only derive their properties from studying their gravitational effects on
 143
 00:11:59,062 --> 00:12:01,531
  like the orbit of stars that come close to them.
-重力の影響を調べることでしか導き出せない
+重力の影響を調べることでしか導き出せません
 
 144
 00:12:01,555 --> 00:12:04,386
@@ -813,47 +812,47 @@ This effect depends on the mass of the black hole,
 00:12:04,411 --> 00:12:07,914
  which we can approximate at the most basic level with Kepler's Laws.
 ケプラーの法則から
-基本的レベルでは概算できるが
+基本的レベルでは概算できますが
 
 146
 00:12:08,199 --> 00:12:11,729
 But this comes with huge uncertainties and error bars.
-しかしこれは大きな不確実性と訂正がともなう
+これは大きな不確実性と誤差範囲をともないます
 
 147
 00:12:12,000 --> 00:12:16,285
 Then we have to convert mass to size next, which brings new uncertainties.
-次に質量を大きさに変換する必要があるが
-新たな不確実性が生じてしまう
+次に質量を大きさに変換する必要がありますが
+新たな不確実性が生じてしまいます
 
 148
 00:12:16,720 --> 00:12:20,808
 For example, we calculated the radius from the mass using the Schwarzschild equation which for the sake of simplicity
 例えば、質量から半径を簡単に計算するために
-シュワルツシルトの方程式を使ったが
+シュワルツシルトの方程式を使いましたが
 
 149
 00:12:20,833 --> 00:12:28,526
  assumes black holes are perfectly round and don't spin: a kind of black hole that doesn't really exist.
 これはブラックホールが完全に丸く回転しないという
-実際にはありえない前提に基づいている
+実際にはありえない前提に基づいていています
 
 150
 00:12:28,796 --> 00:12:33,040
 The reality is that physics on these scales is a bit fuzzy.
 現実にはこれほどのスケールの物理学は
-まだ曖昧だ
+まだ曖昧です
 
 151
 00:12:33,040 --> 00:12:37,600
 So some of the black holes we talked about here may be way smaller or way bigger.
 なので今回説明したブラックホールは
-遥かに小さいか大きい可能性がある
+遥かに小さいか大きい可能性があります
 
 152
 00:12:37,600 --> 00:12:39,431
 We just don't know for sure.
-確かなことはわからない
+確かなことはわかりません
 
 153
 00:12:39,455 --> 00:12:44,292
@@ -865,12 +864,12 @@ We shimmied around this problem by comparing different sources with different ki
 00:12:44,317 --> 00:12:51,120
  to arrive at a standardized list that allowed us to be as accurate as humanly possible.
 可能な限り正確なリストを
-作ることでこの問題に取り組んだつもりだが
+作ることでこの問題に取り組んだつもりですが
 
 155
 00:12:51,120 --> 00:12:53,539
 You can look at all of this in our source doc.
-これらは全て概要欄から確認できる
+これらは全て概要欄から確認できます
 
 156
 00:12:53,753 --> 00:12:58,085
@@ -881,13 +880,13 @@ As a result this script was written with the tears of experts
 157
 00:12:58,109 --> 00:13:01,279
  we drove crazy with our obsession for the best values they could live with.
-彼らの涙で書かれたものなのだ
+彼らの涙で書かれたものなのです
 
 158
 00:13:01,600 --> 00:13:06,358
 In this process, tons of stuff got cut and didn't make it into the final video
 このやり方により大量の
-内容がカットされたが
+内容がカットされましたが
 
 159
 00:13:06,383 --> 00:13:09,449
