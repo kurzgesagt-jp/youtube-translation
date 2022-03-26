@@ -1,425 +1,349 @@
 1
 00:00:00,800 --> 00:00:04,000
-The largest things in the universe are black holes.
 宇宙で最大のものはブラックホールだ
 
 2
 00:00:04,000 --> 00:00:06,666
-In contrast to things like planets or stars they have no physical size limit,
 恒星や惑星と異なり
 
 3
 00:00:06,690 --> 00:00:11,109
- and can literally grow endlessly.
 ブラックホールは物理的限界がなく無限に成長できる
 
 4
 00:00:11,134 --> 00:00:15,710
-Although in reality specific things need to happen to create different kinds of black holes,
 だが、とても小さいものから最大のものまで
 
 5
 00:00:15,742 --> 00:00:20,190
- from really tiny ones to the largest single things in the universe.
 それらが形成されるには
 とある条件を満たす必要がある
 
 6
 00:00:20,400 --> 00:00:26,439
-So how do black holes grow and how large is the largest of them all?
 ではブラックホールはどのように成長し
 最大のものはどれほど大きいだろう
 
 7
 00:00:34,560 --> 00:00:38,320
-This video will not discuss how black holes work or how they form 
 今回はブラックホールの仕組みや作り方については扱わない
 
 8
 00:00:38,345 --> 00:00:42,585
-since we've looked at that in detail in our black hole and neutron star series,
 過去のブラックホールや中性子星の動画で
 詳しく扱ったので
 
 9
 00:00:42,610 --> 00:00:44,450
- you can check them out afterwards.
 興味があればどうぞ
 
 10
 00:00:44,475 --> 00:00:48,516
-For now we are interested in finding the largest thing in the universe.
 とりあえず
 今回は宇宙で最大のモノを見つけるのが目的だ
 
 11
 00:00:48,549 --> 00:00:51,275
-Let us start really, really small.
 まずは本当に小さいものから始めよう
 
 12
 00:00:51,822 --> 00:00:53,568
-Primordial Black holes
 【原始ブラックホール】
 
 13
 00:00:53,920 --> 00:00:57,817
-The smallest kind of black holes may or may not exist.
 このブラックホールは存在するかもしれないし
 しないかもしれない
 
 14
 00:00:57,842 --> 00:01:03,407
-If they do, they are probably the oldest objects in the universe, older even than atoms.
 もし、していれば
 それは原子よりも古く宇宙最古の存在かもしれない
 
 15
 00:01:03,432 --> 00:01:08,663
-They would have formed just after the big bang, when the universe was so dense with violent energy,
 ビッグバンの直後
 猛烈なエネルギーが非常に密集していたころ
 
 16
 00:01:08,688 --> 00:01:14,455
- that any tiny pocket that was just slightly more dense than its neighbors could produce a black hole.
 周囲より密度の高い場所には
 このブラックホールが形成されたかもしれない
 
 17
 00:01:14,480 --> 00:01:19,649
-The smallest Primordial Black Hole that could still be around would be a trillion kilograms or so,
 原始ブラックホールの重さは
 1兆kgとかそれくらいで
 
 18
 00:01:19,674 --> 00:01:21,586
- the mass of a big mountain.
 だいたい大きな山くらいだが
 
 19
 00:01:21,731 --> 00:01:24,697
-And yet they would be no bigger than a proton.
 体積は陽子よりも小さい
 
 20
 00:01:24,944 --> 00:01:29,575
-A Primordial Black hole with the mass of earth would barely be larger than a coin.
 原始ブラックホールは地球くらい重かったとしても
 大きさはコインくらいになる
 
 21
 00:01:29,600 --> 00:01:34,237
-This makes them very hard to find, so we haven't actually observed any yet
 だからとても見つけにくく
 実際に見つけたことはない
 
 22
 00:01:34,262 --> 00:01:35,303
- – if they exist
 もし存在するなら
 
 23
 00:01:35,328 --> 00:01:40,402
- they may even be the mysterious dark matter that holds galaxies together.
 銀河を束ねる謎の物質、ダークマターは
 原始ブラックホールなのかも
 
 24
 00:01:40,720 --> 00:01:45,402
-Let's move on to the kinds of black holes that we know for sure ARE out there.
 次に存在が確信できる種類のブラックホールに移ろう
 
 25
 00:01:45,680 --> 00:01:47,545
-Stellar Black Holes
 【恒星ブラックホール】
 
 26
 00:01:48,880 --> 00:01:53,899
-To make a black hole we need to compress enough matter so that it collapses into itself.
 ブラックホールができるには
 自身が崩壊するくらい物質を圧縮する必要があり
 
 27
 00:01:53,925 --> 00:01:58,243
-After that, the more mass we throw at it, the larger it becomes.
 あとは何かを投げ入れるほど大きくなる
 
 28
 00:01:58,267 --> 00:02:03,346
-In today's universe, only the most violent cosmic events can create the necessary conditions,
 今日では、宇宙規模の暴力的イベントのみが
 ブラックホールの形成条件を満たす
 
 29
 00:02:03,371 --> 00:02:09,237
- such as the merger of neutron stars or when the core of a very massive star collapses in a supernova.
 例えば中性子星同士の衝突や
 超新星爆発などだ
 
 30
 00:02:09,262 --> 00:02:11,027
-To have a unit to work with here,
 ここで重さの目安として
 
 31
 00:02:11,052 --> 00:02:16,541
- we'll use the mass of our sun, about 2 million trillion trillion kilograms.
 200万×1兆×1兆kgを擁する
 太陽を単位(太陽質量)としよう
 
 32
 00:02:16,785 --> 00:02:20,955
-The smallest known black hole has 2.7 times the mass of the sun
 既知の最小のブラックホールは重さ太陽2.7個分で
 
 33
 00:02:20,979 --> 00:02:26,475
- which works out as a sphere around 16 km in diameter, large enough to cover Paris.
 大きさは16kmとパリを囲むくらいだ
 
 34
 00:02:27,156 --> 00:02:33,060
-Another lightweight black hole is the companion to the V723 Mon red giant star.
 軽いブラックホールは
 赤色巨星 V723Mon の伴星もいる
 
 35
 00:02:33,190 --> 00:02:38,558
-This star is 24 times larger than our sun, 30 million kilometer in diameter.
 この星は太陽の24個分の大きさで
 直径3000万kmにもなるのだが
 
 36
 00:02:38,593 --> 00:02:44,587
-And yet, it is thrown around by a tiny black hole just 17.2 km wide.
 それでもわずか17.2kmほどの
 ミニブラックホールに振り回されている
 
 37
 00:02:44,612 --> 00:02:50,810
-This tiny thing bullying the star is so much smaller that we can barely even show them in comparison.
 このいたずらっ子はとても小さく
 並べて見せることもできない
 
 38
 00:02:51,280 --> 00:02:56,019
-One of the largest known stellar black holes is M33 X-7.
 最大の恒星ブラックホールの一つが
 M33 X-7 だ
 
 39
 00:02:56,043 --> 00:03:01,736
-It currently spends its time eating a 70 solar mass blue giant, bit by bit.
 70太陽質量を持つ青色巨星を
 ちびちび食べながら過ごしている
 
 40
 00:03:01,760 --> 00:03:06,322
-As all that stolen matter circles towards the black hole, like water going down a drain,
 水が排水口から排出されるように
 物質は回りながら吸い込まれており
 
 41
 00:03:06,346 --> 00:03:12,416
- friction heats it up to temperatures high enough to shine 500,000 times brighter than our Sun!
 摩擦熱によって熱せられた星屑は
 太陽の50万倍も光り輝いている
 
 42
 00:03:12,440 --> 00:03:17,200
-And yet, X-7 is 'only' 15.65 solar masses and 92 km wide,
 それでも X-7 は"たった"15.65太陽質量であり
 
 43
-00:03:17,200 --> 00:03:22,143 just big enough to cast a shadow on Corsica.
- just big enough to cast a shadow on Corsica.
+00:03:17,200 --> 00:03:22,143
 幅92kmと、コルシカ島にちょうど影を落とす
 くらいの大きさしかない
 
 44
 00:03:22,880 --> 00:03:29,654
-To grow much larger, black holes have to either devour a lot of stars or better, merge with one another.
 もっと大きくなるには周囲の星をむさぼり食べるか
 他のブラックホールを取り込まなければならない
 
 45
 00:03:29,679 --> 00:03:33,694
-The instruments that make it possible to detect these mergers are very new
 これらを検出できる技術は最近開発されたため
 
 46
 00:03:33,719 --> 00:03:37,436
- so we are currently discovering a lot of exciting things.
 現在人類は多くのエキサイティングな発見をしている
 
 47
 00:03:37,473 --> 00:03:42,600
-Like two massive black holes that we detected in a galaxy 17 billion lightyears away.
 例えば170億光年離れた銀河で検出された
 2つの巨大なブラックホールのように
 
 48
 00:03:43,039 --> 00:03:45,327
-As they spun around each other violently,
 お互いがあまりに激しく回転するため
 
 49
 00:03:45,352 --> 00:03:54,101
- they released more energy in the form of gravitational waves than the combined light from all the stars in the milky way in 4400 years.
 放出された重力波によるエネルギーは
 天の川銀河が4400年間に放った光よりも大きかった
 
 50
 00:03:54,381 --> 00:03:58,261
-The new black hole they formed is about the size of Germany
 この新しいブラックホールは
 だいたいドイツくらいの大きさで
 
 51
 00:03:58,295 --> 00:04:00,817
- and is 142 solar masses.
 重さは142太陽質量だ
 
 52
 00:04:01,159 --> 00:04:04,674
-And here we hit a curious gap in scale.
 ここに奇妙なギャップがある
 
 53
 00:04:04,935 --> 00:04:08,965
-There are lots of black holes up to 150 solar masses.
 150太陽質量までのブラックホールは
 たくさん見つかるが
 
 54
 00:04:08,990 --> 00:04:11,683
-And then there is nothing for a long time.
 それより重いブラックホールは見当たらず
 
 55
 00:04:11,707 --> 00:04:16,571
-Until we suddenly hit black holes, that are millions of times more massive.
 突如それらより途方もなく重いブラックホールが現れる
 
 56
 00:04:16,669 --> 00:04:22,866
-Which is a bit confusing, because we had this idea that black holes are consistently growing and growing.
 これには困惑する、なぜならブラックホールは
 連続的に成長し続けると考えられるのだが
 
 57
 00:04:22,936 --> 00:04:28,829
-But for the most massive black holes this process is not fast enough to explain their existence today.
 しかし連続的成長は巨大なブラックホールの形成を
 説明するためには遅すぎるのも事実だ
 
 58
 00:04:28,854 --> 00:04:31,056
-The universe is simply not old enough
 単純に宇宙の年齢が足りないため
 
 59
 00:04:31,081 --> 00:04:35,510
- for these supermassive black holes to have formed by eating stars and merging with each other.
 星やブラックホールを飲み込んだりしても
 こんなに大きくなれないのだ
 
 60
 00:04:35,570 --> 00:04:37,648
-Something else must have happened.
 つまり何か他のことが起きたに違いない
 
 61
 00:04:37,680 --> 00:04:41,063
-To explain how we got the largest black holes in the universe,
 宇宙最大のブラックホールについて説明するためには
 
 62
 00:04:41,088 --> 00:04:45,845
- we might need the largest stars that ever existed: Quasi Stars.
 かつての最大の星が必要かもしれない
 Quasi星だ
 
 63
 00:04:45,971 --> 00:04:50,751
-To get a sense of scale, we can compare them to the largest stars that exist today.
 スケール感を掴むために
 現時点で最大の星と比べてみよう
 
 64
 00:04:50,775 --> 00:04:54,147
-Our Sun is like a grain of sand next to them.
 我々の太陽は隣りにある砂粒のようなものだ
 
 65
 00:04:54,636 --> 00:04:57,773
-We don't know if Quasi Stars actually existed
 Quasi星がかつて
 本当に実在したのか不明だが
 
 66
 00:04:57,802 --> 00:05:02,538
- but they are an interesting concept when it comes to supercharging black hole development.
 これが巨大ブラックホールを
 開発したという考えは面白い
 
 67
 00:05:02,823 --> 00:05:05,920
-The idea is that the matter in the early universe was so dense
 初期の宇宙は密度がとても高かったので
 
 68
 00:05:05,920 --> 00:05:10,407
- that quasi stars could grow to thousands of times the mass of our sun.
 Quasi星は太陽の何万倍も成長した可能性がある
 
 69
 00:05:10,432 --> 00:05:18,834
-The cores of these stars might have been crushed by their own weight so much to actually collapse into black holes while the star was still forming.
 その星のコアはブラックホールとなるほど
 自重によって押しつぶされており
 
 70
 00:05:18,866 --> 00:05:26,207
-In contrast to stars today that would destroy themselves in the process, inside quasi stars, a deadly balance could emerge.
 今日の自爆してしまう星とは対象的に
 Quasi星は危ういバランスがうまれた
 
 71
 00:05:26,247 --> 00:05:29,940
-Gravity pressed the supermassive star together, feeding the black hole
 重力で超巨大星が押しつぶされ
 ブラックホールに食べられていく
 
 72
 00:05:29,965 --> 00:05:35,517
- and heating the material falling in to such a degree that the radiation pressure kept the star stable.
 そのとき発生した熱による放射圧が
 星の状態を保ったと考えられている
 
 73
 00:05:35,542 --> 00:05:41,151
-And so these quickly growing black holes might have been able to consume the quasi star
 今日の恒星ブラックホールよりも
 遥かに成長できたのは
 
 74
 00:05:41,175 --> 00:05:44,750
- for millions of years and grow far bigger than any modern stellar black hole.
 このようにQuasi星を
 高速に消費できたからかもしれない
 
 75
 00:05:44,805 --> 00:05:50,530
-Black holes several thousand times the mass of the Sun and wider than the entire earth.
 太陽よりも数千倍も重く
 幅も地球より大きく
 
 76
 00:05:50,880 --> 00:05:55,330
-These black holes might have become the seeds for supermassive black holes.
 超大質量ブラックホールの種にもなりえる
 
 77
@@ -429,485 +353,400 @@ Supermassive black holes
 
 78
 00:05:56,640 --> 00:06:02,815
-So now, we arrive at the kings of our universe, the largest single bodies in existence.
 ようやく、宇宙の王に到達した
 存在する最大の一個体だ
 
 79
 00:06:03,275 --> 00:06:06,883
-The centers of most galaxies contain a super massive black hole,
 だいたいの銀河の中心には
 超大質量ブラックホールが存在する
 
 80
 00:06:06,907 --> 00:06:09,057
- and they are monstrous.
 奴らはモンスターだ
 
 81
 00:06:09,200 --> 00:06:16,115
-In the Milky Way we have Sagittarius A Star,
 天の川銀河にも、いて座A*という
 約400万太陽質量の
 
 82
 00:06:16,156 --> 00:06:19,561
- a super massive black hole with about 4 million solar masses that is calm and collected and just does its thing.
 超大質量ブラックホールがある
 
 83
 00:06:19,743 --> 00:06:25,437
-We know it sits there because we can see a number of stars being thrown around by a seemingly empty spot.
 何も見えない空間をいくつかの星が漂っているため
 我々はその存在を知っている
 
 84
 00:06:25,920 --> 00:06:31,804
-And despite its incredible mass, it's radius is still only 17 times our sun.
 その信じがたい重さにもかかわらず
 半径は太陽の17倍しかない
 
 85
 00:06:32,296 --> 00:06:37,244
-Smaller than most giant stars, but millions of times more massive.
 大きさは殆どの巨星よりも小さいが
 重さは何百万倍も重い
 
 86
 00:06:37,680 --> 00:06:42,575
-Because Supermassive black holes are so massive and located at the center of galaxies,
 超大質量ブラックホールは非常に重く
 銀河の中心にあるため
 
 87
 00:06:42,600 --> 00:06:46,315
- many people imagine them as being a bit like the Sun in the solar system.
 太陽系における太陽のような存在だと
 思っているかもしれない
 
 88
 00:06:46,584 --> 00:06:50,838
-An anchor that glues everything else together and forces it into an orbit.
 すべてを軌道上に抑え込むアンカー
 
 89
 00:06:50,863 --> 00:06:52,720
-But this is a misconception. 
 だがそれは誤解だ
 
 90
 00:06:53,040 --> 00:06:58,134
-While the sun makes up 99.86% of all the mass in the solar system,
 太陽が太陽系において
 99.86%の質量を占めるのに対し
 
 91
 00:06:58,159 --> 00:07:04,841
- SuperMassive Black Holes usually only have 0.001% of the mass of their galaxy.
 超大質量ブラックホールは銀河の
 たった0.001%分の質量しかない
 
 92
 00:07:05,166 --> 00:07:09,387
-The billions of stars in galaxies are not gravitationally bound to them,
 銀河の星々は
 ブラックホールの重力に縛られておらず
 
 93
 00:07:09,412 --> 00:07:14,069
- instead it is the gravitational effect of dark matter which holds them together.
 代わりにダークマターの
 重力効果によって結びついている
 
 94
 00:07:14,640 --> 00:07:17,913
-Many supermassive black holes aren't gentle giants,
 超大質量ブラックホールの多くは
 ただの穏やかな巨人ではなく
 
 95
 00:07:17,937 --> 00:07:21,520
- especially when they are feeding on the clouds of mass in their galaxy.
 銀河内の質量を食べている
 
 96
 00:07:21,838 --> 00:07:26,357
-The one at the center of the BL Lacertae galaxy is devouring so much material
 とかげ座BL銀河の中心にあるブラックホールは
 多くの物質をむさぼり食べることで
 
 97
 00:07:26,382 --> 00:07:30,423
- that it produces jets of plasma accelerated to nearly the speed of light.
 ほぼ光速まで加速された
 プラズマジェットを射出している
 
 98
 00:07:30,640 --> 00:07:37,250
-If Earth were orbiting this huge body, it would seem 115 times larger than our Sun in the sky…
 もし地球が公転していたら
 太陽の115倍もの巨体を目にするだろうし
 
 99
 00:07:37,275 --> 00:07:41,514
- and we'd be burnt to a crisp in seconds by its glowing hot accretion disk.
 光り輝く降着円盤によって
 一瞬で黒焦げにされるだろう
 
 100
 00:07:41,920 --> 00:07:47,892
-At this point black holes become so large that stars seem ridiculously tiny compared to them.
 この時点ですでにブラックホールは
 星とは比較にならないほど大きく見える
 
 101
 00:07:48,480 --> 00:07:57,623
-The galaxy Cygnus A has a super massive black hole with 2.5 billion solar masses and 14.7 billion km wide,
 はくちょう座A銀河の中心には25億太陽質量
 幅147億kmの超大質量ブラックホールがある
 
 102
 00:07:57,648 --> 00:08:04,735
-which would mean that if it took the place of our Sun, it would swallow all the planets and stretch halfway to the edge of our Solar 
 これはもし太陽に取って代わった場合
 すべての惑星を余裕で飲み込むくらい大きい
 
 103
 00:08:05,140 --> 00:08:08,082
-It is devouring so much mass and material
 あまりに多くの物質を飲み込むため
 
 104
 00:08:08,107 --> 00:08:11,428
- that it churns its disk into a kind of magnetic funnel,
 円盤の一部は漏斗型の磁場を形成し
 
 105
 00:08:11,453 --> 00:08:18,819
- spewing gas out making tremendous radio lobes, towering over the galaxy, half a million light years in diameter.
 吐き出されたガスは銀河にそびえ立つ
 直径50万光年の電波ローブとなる
 
 106
 00:08:18,844 --> 00:08:22,303
-That is 2.5 Milkyways wide.
 天の川銀河系2.5個分の幅だ
 
 107
 00:08:22,835 --> 00:08:28,015
-Another pretty large Super Massive Black hole sits in the galaxy Messier 87.
 他には M87 銀河の超大質量ブラックホールがある
 
 108
 00:08:28,261 --> 00:08:34,267
-It has 6.5 billion solar masses and was the first black hole we got an actual photo of.
 65億太陽質量をもち
 初めて撮影に成功したブラックホールだ
 
 109
 00:08:34,292 --> 00:08:39,401
-Or rather of the glowing gas around the edge of a menacing shadow.
 まあ実際に撮影されたのは
 影の周りで光り輝くガスだが
 
 110
 00:08:39,679 --> 00:08:45,218
-This sphere of darkness is so large that it covers our entire Solar System.
 この暗黒の影はあまりに大きく
 太陽系をすっぽり覆うほどの大きさだ
 
 111
 00:08:45,520 --> 00:08:49,954
-And yet, there is a scale even above these kinds of objects...
 それでも、上には上がいる
 
 112
 00:08:50,640 --> 00:08:53,415
-Ultramassive black holes
 【極大質量ブラックホール】
 
 113
 00:08:55,520 --> 00:09:01,501
-Now we reach the most massive black holes, perhaps the largest single bodies that will ever exist.
 ようやく最大のブラックホール
 おそらく存在する最大の単一体に到達した
 
 114
 00:09:01,840 --> 00:09:06,849
-These black holes have eaten so much that they've grown to tens of billions of solar masses,
 これらのブラックホールはあまりに多くを飲み込み
 太陽の数百億倍にも成長した
 
 115
 00:09:06,897 --> 00:09:14,060
- their gravity the engine for a 'quasar'- an accretion disk shining brighter than thousands of galaxies full of stars.
 その重力はクエーサーの動力源となっている
 数千の銀河よりも明るい降着円盤だ
 
 116
 00:09:14,085 --> 00:09:19,370
-So massive that they deserve a title of their own - Ultramassive Black Holes.
 あまりに巨大なので固有の称号を得るにふさわしい
 極大質量ブラックホールだ
 
 117
 00:09:19,680 --> 00:09:26,707
-The Ultra Massive Black Hole at the center of galaxy OJ 287 is 18 billion solar masses.
 OJ287 銀河の中心には
 180億太陽質量をもつブラックホールがある
 
 118
 00:09:26,864 --> 00:09:34,101
-It is so big that it has a Super Massive black hole, nearly forty times larger than sagittarius A star, orbiting it!
 あまりにも巨大であり、いて座A*の40倍も
 重いブラックホールが公転しているほどだ
 
 119
 00:09:34,475 --> 00:09:38,993
-This thing defies imagination and is really hard to compare to anything.
 想像を絶するものであり
 何かと比較することすら難しい
 
 120
 00:09:39,280 --> 00:09:44,110
-It can comfortably fit three Solar Systems side by side inside of it.
 太陽系3個をすっぽり並べて収容できる
 
 121
 00:09:44,480 --> 00:09:49,040
-Let us end this insane competition and get to the king of kings.
 この狂った競争を終わらせるため
 王の中の王を紹介しよう
 
 122
 00:09:49,040 --> 00:09:54,369
-TON 618, a black hole that we can observe consuming galaxies worth of matter
 TON618 は銀河一つ分に相当する
 物質を消費したブラックホールで
 
 123
 00:09:54,394 --> 00:10:00,663
- is shining with the brightness of a hundred trillion stars, visible from 18 billion light years away.
 恒星数百兆個分の輝きは
 180億光年先からでも観測できるほど
 
 124
 00:10:01,040 --> 00:10:04,947
-It has an incredible 66 billion solar masses.
 重さは驚異の660億太陽質量だ
 
 125
 00:10:04,971 --> 00:10:06,771
-A black hole so large
 あまりにも大きいため
 
 126
 00:10:06,796 --> 00:10:11,594
- that it would take light a week to reach the singularity after crossing the event horizon.
 事象の地平線を超えてから
 特異点に到着するまで1週間もかかり
 
 127
 00:10:11,784 --> 00:10:15,990
-About 11 Solar Systems could sit inside of it side by side.
 太陽系なら11個ほど並べて置ける
 
 128
 00:10:16,403 --> 00:10:19,904
-It may very well be the largest single body in the universe.
 宇宙で最大の単一体である可能性が高いが
 
 129
 00:10:19,928 --> 00:10:22,845
-But in reality, it is probably even larger.
 しかし実際には更に大きいだろう
 
 130
 00:10:23,280 --> 00:10:29,076
-Since TON 618 is so far away, we only see what it looked like 10 billion years ago.
 TON618 は遠く離れているので
 我々が見ている姿は100億年前のものだ
 
 131
 00:10:29,725 --> 00:10:35,503
-In any case, black holes are scary and mysterious and gigantic.
 いずれにせよ、ブラックホールは恐ろしく
 神秘的であり巨大だ
 
 132
 00:10:35,868 --> 00:10:40,660
-They will be here after everything else dies, and growing larger and larger.
 すべての星が死んだあとも
 成長し続けるだろう
 
 133
 00:10:41,200 --> 00:10:43,859
-So now let us do the trip again.
 さあ、もう一度見てみよう
 
 134
 00:10:44,192 --> 00:10:49,371
-From the smallest possible black hole, all the way up to the largest.
 最小のブラックホールから
 最大のものまで
 
 135
 00:11:25,920 --> 00:11:29,840
-Let's try something new today, we can call it: "Behind the Lies" a short behind the scenes bit
 今日は新しいことに挑戦します
 「嘘の向こう側」とでも言いましょうか
 
 136
 00:11:29,840 --> 00:11:34,472
- about the necessary inaccuracies in this video
 この動画で必要だった
 不正確さについて説明させてください
 
 137
 00:11:34,497 --> 00:11:39,238
- because it's really not actually possible to rank black holes like trading cards.
 というのもトレーディングカードのように
 ブラックホールをランク付けすることはできません
 
 138
 00:11:39,440 --> 00:11:43,384
-How so? Well, while we have catalogued millions of stars,
 どうして？まあ我々は数多くの
 星をカタログ化していますが
 
 139
 00:11:43,409 --> 00:11:47,184
- we really only have good data on a couple of dozen black holes.
 ブラックホールについて十分な
 データを持っているものは数十しかありません
 
 140
 00:11:47,209 --> 00:11:51,113
-That's because black hole gazing wasn't really a thing until 50 years ago
 というのも、ブラックホールを注視することは
 50年前までなかったためであり
 
 141
 00:11:51,137 --> 00:11:54,400
- – and technically still isn't, because we can't see black holes.
 なにより技術的には目には見えないので
 
 142
 00:11:54,400 --> 00:11:59,037
-We can only derive their properties from studying their gravitational effects on the matter around them,
 その性質は、接近した星の軌道など
 周囲の物質に対する
 
 143
 00:11:59,062 --> 00:12:01,531
- like the orbit of stars that come close to them.
 重力の影響を調べることでしか導き出せません
 
 144
 00:12:01,555 --> 00:12:04,386
-This effect depends on the mass of the black hole,
 この効果はブラックホールの質量に依存し
 
 145
 00:12:04,411 --> 00:12:07,914
- which we can approximate at the most basic level with Kepler's Laws.
 ケプラーの法則から
 基本的レベルでは概算できますが
 
 146
 00:12:08,199 --> 00:12:11,729
-But this comes with huge uncertainties and error bars.
 これは大きな不確実性と誤差範囲をともないます
 
 147
 00:12:12,000 --> 00:12:16,285
-Then we have to convert mass to size next, which brings new uncertainties.
 次に質量を大きさに変換する必要がありますが
 新たな不確実性が生じてしまいます
 
 148
 00:12:16,720 --> 00:12:20,808
-For example, we calculated the radius from the mass using the Schwarzschild equation which for the sake of simplicity
 例えば、質量から半径を簡単に計算するために
 シュワルツシルトの方程式を使いましたが
 
 149
 00:12:20,833 --> 00:12:28,526
- assumes black holes are perfectly round and don't spin: a kind of black hole that doesn't really exist.
 これはブラックホールが完全に丸く回転しないという
 実際にはありえない前提に基づいていています
 
 150
 00:12:28,796 --> 00:12:33,040
-The reality is that physics on these scales is a bit fuzzy.
 現実にはこれほどのスケールの物理学は
 まだ曖昧です
 
 151
 00:12:33,040 --> 00:12:37,600
-So some of the black holes we talked about here may be way smaller or way bigger.
 なので今回説明したブラックホールは
 遥かに小さいか大きい可能性があります
 
 152
 00:12:37,600 --> 00:12:39,431
-We just don't know for sure.
 確かなことはわかりません
 
 153
 00:12:39,455 --> 00:12:44,292
-We shimmied around this problem by comparing different sources with different kinds of values and using different mass calculations
 様々な出典や様々な種類の値
 様々な質量計算を使用し
 
 154
 00:12:44,317 --> 00:12:51,120
- to arrive at a standardized list that allowed us to be as accurate as humanly possible.
 可能な限り正確なリストを
 作ることでこの問題に取り組んだつもりですが
 
 155
 00:12:51,120 --> 00:12:53,539
-You can look at all of this in our source doc.
 これらは全て概要欄から確認できます
 
 156
 00:12:53,753 --> 00:12:58,085
-As a result this script was written with the tears of experts
 結果としてこの脚本は
 専門家たちが納得できる最高のものを求めて
 
 157
 00:12:58,109 --> 00:13:01,279
- we drove crazy with our obsession for the best values they could live with.
 彼らの涙で書かれたものなのです
 
 158
 00:13:01,600 --> 00:13:06,358
-In this process, tons of stuff got cut and didn't make it into the final video
 このやり方により大量の
 内容がカットされましたが
 
 159
 00:13:06,383 --> 00:13:09,449
- – but luckily we found a way to not waste all of it:
 幸いなことにそれらを
 無駄にしない方法も見つけました
 
 160
 00:13:09,840 --> 00:13:16,080
-We created a lot of black hole merch, spanning the whole range from somewhat bonkers to more serious.
 馬鹿馬鹿しいものから真面目なものまで
 ブラックホールグッズを作りました
 
 161
 00:13:16,080 --> 00:13:19,163
-This way we get to explore a topic from different angles
 このようにすることで
 様々な角度からトピックスを探索でき
 
 162
 00:13:19,188 --> 00:13:25,038
- – and you get to continue having fun with black holes after this video ends.
 この動画が終了したあとも
 ブラックホールを楽しむことができるのです
