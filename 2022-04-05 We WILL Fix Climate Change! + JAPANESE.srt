@@ -450,7 +450,7 @@ And it has plummeted in rich countries like the UK and US.
 英米のような富裕国では急落している
 
 83
-00:05:34,119 --> 00:05:41,3541
+00:05:34,119 --> 00:05:41,354
 Since 2015 three-quarters of planned coal plants have been canceled
 and 44 countries have committed to stop building them.
 2015年以降、石炭発電所の計画の3/4が中止となり
@@ -643,7 +643,7 @@ The cheaper they get, the more people use them. And so on.
 117
 00:08:03,496 --> 00:08:05,200
 We can see the impact already:
-影響は確認済みだ
+影響は確認済みで
 
 118
 00:08:05,200 --> 00:08:09,766
@@ -654,12 +654,12 @@ The domestic CO2 output of rich countries is falling without a major recession.
 119
 00:08:10,000 --> 00:08:14,497
 Since the 2000, the EU as a whole shows a 21% decrease,
-2000年以降、EU全体では21%
+2000年以降、EU全体では21％
 
 120
 00:08:14,521 --> 00:08:19,674
 Italy 28%, the UK 35%, Denmark 43%.
-イタリアで28%、イギリスで35%、デンマークで43%も減少している
+イタリアで28％、イギリスで35％、デンマークで43％も減少している
 
 121
 00:08:19,880 --> 00:08:25,099
@@ -680,36 +680,36 @@ In the past this was an inconvenient truth
 124
 00:08:30,658 --> 00:08:36,105
 Which led to fierce arguments between developing and developed countries about the fairness of reducing emissions
-そのため国際間で激論が交わされた
+そのため国の間で激論が交わされた
 排出量低減は貧困の維持を意味し
 
 125
 00:08:36,130 --> 00:08:38,236
 while their populations were still poor.
-公平性に問題があった
+公平性に問題があったが
 
 126
 00:08:38,260 --> 00:08:43,584
 But in the last decade we have seen that it IS possible to increase prosperity without increasing emissions.
-しかしこの10年で経済成長は
+この10年で経済成長は
 排出を増やさなくても可能だとわかった
 
 127
 00:08:43,609 --> 00:08:49,602
 missions in the Czech Republic dropped 13% while their GDP grew by 27%!
-チェコ共和国は排出量を13%低減したにもかかわらず
-GDPは27%成長した
+チェコ共和国は排出量を13％低減したにもかかわらず
+GDPは27％成長した
 
 128
 00:08:49,626 --> 00:08:56,426
 France reduced their CO2 emissions by 14% while increasing GDP by 15%!
-フランスは排出量を14%低減した一方
-GDPは15%増加した
+フランスは排出量を14％低減した一方
+GDPは15％増加し
 
 129
 00:08:56,619 --> 00:09:00,826
 Romania saw an 8% decrease and 35% growth!
-ルーマニアも8%減少し、35%成長した
+ルーマニアも8％減少し、35％成長した
 
 130
 00:09:01,122 --> 00:09:04,163
@@ -719,12 +719,12 @@ And even the largest economy on earth - the USA
 131
 00:09:04,202 --> 00:09:09,350
 - decreased emissions by 4% while growing their GDP by 26%!
-排出量は4%減少した一方GDPは26%成長している
+排出量は4％減少した一方GDPは26％成長している
 
 132
 00:09:09,760 --> 00:09:12,029
 Some of you may call this a numbers trick.
-これらを数字上のトリックだと言う者もいるだろう
+これらを数字上のトリックと言う者もいるだろう
 
 133
 00:09:12,053 --> 00:09:15,280
@@ -779,7 +779,7 @@ They can skip most of the high emission phase that today's rich countries went t
 143
 00:09:42,960 --> 00:09:47,938
 We are at the point where not decarbonizing is a bad business decision.
-我々は既に脱炭素しないという決定が
+我々は脱炭素しないという決定が
 非合理であるという地点にいる
 
 144
@@ -806,7 +806,7 @@ and costs around $600 to remove one ton of CO2 from the atmosphere.
 148
 00:10:02,734 --> 00:10:06,511
 As investment pours in and the technology matures and begins to scale,
-投資が行われ技術が成熟し
+投資が行われ技術が成熟して
 規模が拡大すると
 
 149
@@ -832,7 +832,7 @@ Well let us not get carried away here
 153
 00:10:17,957 --> 00:10:22,829
 We are still doing way too little and technology will not magically solve everything.
-我々の行動はまだあまりにも少なく
+我々の行動はまだ少なく
 技術も魔法のようにはいかない
 
 154
@@ -843,19 +843,19 @@ We need to use fewer resources and use them longer,
 155
 00:10:25,717 --> 00:10:31,501
 design consumer goods that are repairable and durable and decrease our energy requirements.
-修理可能で長持ちする消費財を作り
+修理可能で長持ちする製品を作り
 使用エネルギーを削減する必要がある
 
 156
 00:10:31,525 --> 00:10:35,535
 We need much better infrastructure, agriculture and cities.
 またインフラ、農業、街づくりを
-もっと改善する必要がある
+改善する必要がある
 
 157
 00:10:35,559 --> 00:10:40,092
 It will still be hard work, especially to get the right policies passed and enacted.
-特に適切な政策を可決・成立させるのは
+特に適切な政策を成立させるのは
 相変わらず難題だが
 
 158
@@ -889,7 +889,7 @@ So is it ok to feel hopeful again?
 163
 00:11:02,448 --> 00:11:04,798
 The situation is still dire and serious,
-状況は悲惨かつ深刻だ
+状況はいまだ深刻だ
 
 164
 00:11:04,822 --> 00:11:08,310
@@ -899,7 +899,7 @@ so what is the point of focusing on this side of the story?
 165
 00:11:08,856 --> 00:11:11,574
 The Trap of Hopelessness
-絶望という罠
+【絶望という罠】
 
 166
 00:11:12,196 --> 00:11:16,352
@@ -982,7 +982,7 @@ Changes to our industrial system are gaining momentum,
 00:12:08,161 --> 00:12:13,646
 technology gets better and cheaper, climate change has become a key issue in most free elections.
 技術は安く高度になり
-気候変動は殆どの自由選挙で重要な争点となってきた
+気候変動は多くの自由選挙で重要な争点となってきた
 
 181
 00:12:13,671 --> 00:12:16,709
@@ -1054,13 +1054,13 @@ then it's that progress is being made
 00:13:04,571 --> 00:13:09,484
 and that dire scenarios are just predictions – not our sealed fate.
 悲惨なシナリオは単なる予想であって
-未来が確定しているわけではないのだ
+未来が確定したわけではないのだ
 
 194
 00:13:09,508 --> 00:13:15,412
 As of 2022, based on current global policies, we will end up in a 3 degrees world.
 2022年現在、世界的な政策に基づくと
-我々は 3℃ の世界に行き着くが
+我々は3℃の世界に行き着くが
 
 195
 00:13:15,906 --> 00:13:19,182
@@ -1075,7 +1075,7 @@ Now it is our job to yet again prove the predictions wrong
 197
 00:13:21,867 --> 00:13:26,870
 To turn that 3 degrees into a 2 degrees and then see where we can go from there.
-3℃ を 2℃ にし、そこからさらに
+3℃を2℃にし、さらに
 未来を希求する必要がある
 
 198
@@ -1109,14 +1109,14 @@ That taking action today is worth it.
 203
 00:13:43,174 --> 00:13:49,032
 And that despite powerful industries doing everything to delay it, society is changing.
-強力な産業界がいかなる遅滞工作をしようとも
+強力な産業界がいかなる遅滞工作に勤しもうと
 社会は変わりつつある
 
 204
 00:13:49,206 --> 00:13:52,525
 If you need a more concrete roadmap of what you can do personally
 もし自分に何ができるのか
-より具体的なロードマップを知りたければ
+具体的なロードマップを知りたければ
 
 205
 00:13:52,550 --> 00:13:56,399
@@ -1220,7 +1220,7 @@ This way you learn something almost without you noticing it.
 00:15:04,376 --> 00:15:11,077
 And tiny step by step you'll build up your long-term understanding of science and get closer to your STEM goals.
 小さな積み重ねが科学への理解を深め
-STEM教育の目標に近づいていくことでしょう
+STEM教育の目標に近づくことでしょう
 
 224
 00:15:11,102 --> 00:15:13,894
@@ -1258,7 +1258,7 @@ Kurzgesagt は一見不可能と思えるものを
 230
 00:15:35,280 --> 00:15:38,570
 – Brilliant can help you acquire the skills to do that.
-Brilliant はその手伝いをしてくれます
+Brilliant はその手伝いをしてくれるでしょう
 
 231
 00:15:38,598 --> 00:15:45,136
@@ -1279,4 +1279,3 @@ Discover the world around you
 00:15:54,842 --> 00:15:59,495
 Travel with your friends
 - 友と旅立とう -
-
