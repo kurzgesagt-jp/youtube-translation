@@ -51,7 +51,7 @@ It seems humanity can't overcome its greed and obsession with short term profit 
 10
 00:00:34,873 --> 00:00:36,318
 to save itself.
-保身のためだ（★生物的に、自らの生存のための判断を優先してしまう、というニュアンスだと思っていますが…）
+保身のためだ
 
 11
 00:00:36,720 --> 00:00:40,767
@@ -113,7 +113,7 @@ Tedトークへようこそ
 21
 00:01:27,588 --> 00:01:30,774
 – check out our detailed sources afterwards to learn more.
-詳細は概要欄の情報源リンクから（★直訳は秒間文字数が酷いことになる、日本ユーザーにソースの存在知ってもらうことだけを重視してみた）
+詳細は概要欄の情報源リンクから
 
 22
 00:01:31,040 --> 00:01:34,940
@@ -152,7 +152,7 @@ As of 2022 the global average temperature has risen 1.2 degrees celsius compared
 00:02:00,240 --> 00:02:04,972
 Limiting warming to 1.5 degrees was the most ambitious goal of the Paris agreement
 1.5℃までに抑えるのが
-パリ協定での最大目標だったが（★現実目標は2℃で、可能なら1.5℃を目指すというのがパリ協定）
+パリ協定での最大目標だったが
 
 
 29
@@ -251,7 +251,7 @@ that it may become unable to support our large human population and billions may
 46
 00:03:08,667 --> 00:03:11,786
 leaving the rest on a hostile alien planet.
-残りは見知らぬ過酷な惑星に残されるかも（★見知らぬ過酷な惑星、は変わり果てた地球だと思うのですが、確信持てず）
+残りは見知らぬ過酷な惑星に残されるかも
 
 47
 00:03:12,118 --> 00:03:14,981
@@ -464,7 +464,7 @@ Ten years ago that would have seemed like wishful thinking,
 85
 00:05:44,240 --> 00:05:47,897
 but today we can say with confidence: Coal is dying.
-今は断言できる：石炭は死につつある（★以前も問題になった、自信を持って言える→断言できるの言い換えです。文字数削減には重要ですが、どうでしょ？）
+今は断言できる：石炭は死につつある
 
 86
 00:05:47,921 --> 00:05:50,240
@@ -489,7 +489,7 @@ Renewable electricity has shown explosive progress.
 90
 00:05:59,687 --> 00:06:03,142
 In a mere decade wind energy got three times cheaper.
-たった10年で風力発電は3倍安く（★3倍安い、という言い回しに違和感あり）
+たった10年で風力発電は3倍安く
 
 91
 00:06:03,280 --> 00:06:06,356
@@ -616,7 +616,7 @@ Enormous amounts of human ingenuity are being brought to bear on this problem
 00:07:40,567 --> 00:07:45,244
 with more and more people deciding to prioritize preventing rapid climate change.
 人類の膨大な創意工夫が
-問題解決に活用される（★文のつながりを考え、英文との対応を無視して訳の順番を入れ替えてます）
+問題解決に活用される
 
 113
 00:07:45,771 --> 00:07:50,398
