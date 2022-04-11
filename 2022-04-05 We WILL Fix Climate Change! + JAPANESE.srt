@@ -1,953 +1,1281 @@
 1
 00:00:00,904 --> 00:00:03,285
 Our home is burning.
+我が家が燃えている
 
 2
 00:00:03,310 --> 00:00:06,316
-Rapid climate change is destabilizing our world.
+Rapid climate change is destabilizing our world.  
+急速な気候変動が世界を脅かしている
 
 3
 00:00:06,341 --> 00:00:10,166
-It seems our emissions will not fall quickly enough to avoid runaway warming
+It seems our emissions will not fall quickly enough to avoid runaway warming 
+排出の削減は温暖化の抑止には不十分そうで
 
 4
 00:00:10,191 --> 00:00:14,017
 and we may soon hit tipping points that will lead to the collapse of ecosystems
+生態系が崩壊する臨界点も近そうだし
+
 
 5
 00:00:14,042 --> 00:00:16,165
 and our civilization.
+人類の文明も危うい
 
 6
 00:00:16,761 --> 00:00:20,920
 While scientists, activists and much of the younger generation urge action,
+科学者、活動家、多数の若者が
+行動を促すものの
 
 7
 00:00:20,945 --> 00:00:24,752
 it appears most politicians are not committed to do anything meaningful
+ほとんどの政治家は
+意味ある活動に取り組まず
 
 8
 00:00:24,777 --> 00:00:29,349
 while the fossil fuel industry still works actively against change.
+化石燃料産業は依然として
+変化を強く拒んでいる
 
 9
 00:00:29,374 --> 00:00:34,849
 It seems humanity can't overcome its greed and obsession with short term profit and personal gain
+人類は短期的・個人的な利益への欲望と執着を
+克服できない
 
 10
 00:00:34,873 --> 00:00:36,318
 to save itself.
+保身のためだ（★生物的に、自らの生存のための判断を優先してしまう、というニュアンスだと思っていますが…）
 
 11
 00:00:36,720 --> 00:00:40,767
 And so for many the future looks grim and hopeless.
+多くの人には
+未来は厳しく絶望的にみえる
 
 12
 00:00:40,983 --> 00:00:44,038
 Young people feel particularly anxious and depressed.
+特に若者は不安で憂鬱だ
 
 13
 00:00:44,063 --> 00:00:49,063
 Instead of looking ahead to a lifetime of opportunity they wonder if they will even have a future
+想像するのは未来のチャンスではなく
+「未来があるのか」や
 
 14
 00:00:49,103 --> 00:00:51,797
 or if they should bring kids into this world.
+「こんな世界に子供を産むべきか」だ
 
 15
 00:00:52,080 --> 00:00:58,198
 It's an age of doom and hopelessness and giving up seems the only sensible thing to do.
+今は破滅と絶望の時代であり
+諦めることだけが賢明な行動に見える
 
 16
 00:00:58,484 --> 00:01:01,111
 But that's not true.
+だが、それは真実ではない
 
 17
 00:01:01,136 --> 00:01:06,019
 You are not doomed. Humanity is not doomed.
+あなたの破滅も
+人類の破滅も確定していないのだ
 
 18
 00:01:13,549 --> 00:01:18,833
 Despite the seriousness of the situation, for years positive trends have accumulated
+深刻な状況の一方
+ポジティブな動向も長期的に蓄積されており
 
 19
 00:01:18,858 --> 00:01:24,341
 and there is finally some good news and a clear path towards our collective climate goals.
+気候の共通目標への好材料と
+明確な道筋がついに整ってきた
 
 20
 00:01:24,366 --> 00:01:27,564
 Welcome to our Ted talk, please watch this video to the end
+Tedトークへようこそ
+最後まで視聴してください
 
 21
 00:01:27,588 --> 00:01:30,774
 – check out our detailed sources afterwards to learn more.
+詳細は概要欄の情報源リンクから（★直訳は秒間文字数が酷いことになる、日本ユーザーにソースの存在知ってもらうことだけを重視してみた）
 
 22
 00:01:31,040 --> 00:01:34,940
 Ok! Let’s start with the scariest things.
+よし！まずは最も恐ろしい内容から
 
 23
 00:01:35,440 --> 00:01:37,807
 Canceling the Apocalypse
+【終末を拒否する】
 
 24
 00:01:38,160 --> 00:01:43,837
 Some of the most widely shared stories about Climate Change are that it is an existential threat
+気候変動を人類存亡の危機とする捉え方が
+広く共有されている
 
 25
 00:01:43,862 --> 00:01:48,312
 – the end of human civilization and maybe even our own extinction event.
+文明の終焉、そして人類の絶滅まであると
 
 26
 00:01:48,337 --> 00:01:52,796
 And that it is basically unavoidable now. But what does science actually say?
+もはや終末は不可避とされるが
+科学者の見解はどうだろう？
 
 27
 00:01:53,040 --> 00:02:00,039
 As of 2022 the global average temperature has risen 1.2 degrees celsius compared to preindustrial times.
+2022年現在、世界の平均気温は
+産業革命以前に比べて1.2℃上昇している
 
 28
 00:02:00,240 --> 00:02:04,972
 Limiting warming to 1.5 degrees was the most ambitious goal of the Paris agreement
+1.5℃までに抑えるのが
+パリ協定での最大目標だったが（★現実目標は2℃で、可能なら1.5℃を目指すというのがパリ協定）
+
 
 29
 00:02:04,997 --> 00:02:07,363
 but we are not likely to meet it.
+実現できそうにない
 
 30
 00:02:07,387 --> 00:02:11,120
 Already with the warming we have today, hot places will get hotter,
+すでに現時点の温暖化で
+暑い地域はより暑く
 
 31
 00:02:11,120 --> 00:02:17,191
 wet places wetter and the risk and strength of extreme weather events increase significantly.
+湿潤な地域はより湿潤となり
+異常気象のリスクと程度は有意に増加している
 
 32
 00:02:17,440 --> 00:02:21,909
 Warming beyond 2 degrees makes all of these extremes more extreme,
+2℃を超える温暖化は
+現状をさらに悪化させる
 
 33
 00:02:21,934 --> 00:02:27,001
 extreme weather events more common with more ecosystems under major pressure.
+異常気象はより一般的になり
+生態系への圧力も強まって
 
 34
 00:02:27,025 --> 00:02:29,207
 Some will not survive.
+存続できない種も出る
 
 35
 00:02:29,520 --> 00:02:33,920
 At 3 degrees significant parts of earth, especially in developing countries,
+3℃上昇するとかなりの地域
+特に途上国で
 
 36
 00:02:33,920 --> 00:02:36,819
 might become unable to feed their populations.
+人口を養えなくなるかも
 
 37
 00:02:36,843 --> 00:02:39,282
 Heat waves will become a major global issue.
+熱波が世界の重要課題となり
 
 38
 00:02:39,440 --> 00:02:42,228
 Large scale natural systems will break down.
+自然界の仕組みの大枠が破壊される
 
 39
 00:02:42,252 --> 00:02:46,743
 The scale and frequency of hurricanes, fires and droughts will further increase
+ハリケーン、山火事、干ばつの
+規模と頻度がさらに増加し
 
 40
 00:02:46,767 --> 00:02:49,112
 and cause trillions in damage.
+膨大な被害を招く
 
 41
 00:02:49,136 --> 00:02:52,913
 Poor regions and subsistence farmers will be hit the hardest.
+貧しい地域や自給自足の農家は特に深刻で
 
 42
 00:02:52,937 --> 00:02:56,469
 Hundreds of millions of people will need to leave their homes.
+何億人もが移住を迫られるだろう
 
 43
 00:02:56,640 --> 00:02:59,987
 In the 4-8 degree range the apocalypse begins
+4-8℃の上昇で終末が始まる
 
 44
 00:03:00,011 --> 00:03:03,312
 – the hothouse earth, where things change so quickly,
+温室状態の地球は
+物事の変化が激しく
 
 45
 00:03:03,336 --> 00:03:08,637
 that it may become unable to support our large human population and billions may perish,
+人口を養いきれなくなって
+数十億人が滅び
 
 46
 00:03:08,667 --> 00:03:11,786
 leaving the rest on a hostile alien planet.
+残りは見知らぬ過酷な惑星に残されるかも（★見知らぬ過酷な惑星、は変わり果てた地球だと思うのですが、確信持てず）
 
 47
 00:03:12,118 --> 00:03:14,981
 A decade ago, for lack of action and perspective,
+10年前、行動と展望の欠如から
 
 48
 00:03:15,006 --> 00:03:18,817
 many scientists assumed a 4+ degree world was our future
+多くの科学者は
+4℃以上増加する未来を想定し
 
 49
 00:03:18,842 --> 00:03:23,141
 and a lot of public communication focused on exactly this future path.
+多くの広報は
+まさにこの未来に焦点をあてていた
 
 50
 00:03:23,520 --> 00:03:28,615
 Luckily, it's much less likely that this version of the apocalypse will come to pass.
+幸運にも
+このような終末の可能性は低くなっている
 
 51
 00:03:29,120 --> 00:03:31,374
 If current climate policies stagnate,
+現在の気候政策が停滞すると
 
 52
 00:03:31,398 --> 00:03:36,349
 we're likely to end up with warming 3 degrees celsius by 2100.
+2100年までに3℃の温暖化で終わりそうだ
 
 53
 00:03:36,640 --> 00:03:40,833
 Which is scary and tragic and far from acceptable.
+これは恐ろしく、悲劇的で
+受け入れられないが
 
 54
 00:03:40,857 --> 00:03:44,130
 But this is actually good news – how?
+いいニュースでもある
+―なぜか？
 
 55
 00:03:44,154 --> 00:03:51,434
 In the last decade, we have seen enough progress that most scientists now think that we have likely avoided apocalyptic climate change.
+この10年で、多くの科学者が
+終末的な気候変動は回避されたという立場になった
 
 56
 00:03:51,640 --> 00:03:54,252
 Although substantial risk still remains,
+まだ大きなリスクは残るが
 
 57
 00:03:54,276 --> 00:03:58,219
 we can pretty confidently say that humanity isn't going anywhere.
+人類は滅亡しないと自信を持って言える
 
 58
 00:03:58,243 --> 00:04:02,278
 Civilization might have to change, but it will endure.
+文明は変化を強いられるが
+滅びはしない
 
 59
 00:04:02,643 --> 00:04:09,482
 Which begs the question: What has changed over the last ten years and is this really good news?
+ここで疑問が生じる
+この10年での変化とは？それは本当に吉報なのか？
 
 60
 00:04:09,507 --> 00:04:11,342
 The Invisible Shift
+【見えない変化】
 
 61
 00:04:11,760 --> 00:04:13,551
 You probably know this story:
+次の内容はご存じかもしれない
 
 62
 00:04:13,575 --> 00:04:17,633
 The last decade has been an immense failure for climate policies around the world.
+「過去10年、世界の気候政策は大失敗だった」
 
 63
 00:04:17,831 --> 00:04:22,160
 Instead of passing comprehensive, binding bills that would meaningfully reduce emissions
+「排出削減に効果的で拘束力のある法案を通さず」
 
 64
 00:04:22,160 --> 00:04:24,339
 we mostly did: nothing.
+「ほぼ何もしないことを選んだ」
 
 65
 00:04:24,363 --> 00:04:27,940
 A lost decade with one negative record after another.
+「相次ぐネガティブ記録の
+失われた10年だった」
 
 66
 00:04:27,964 --> 00:04:32,612
 And this story is true and it is one reason why so many people are giving up.
+この内容は正しいし
+多くにとって諦める根拠だ
 
 67
 00:04:32,636 --> 00:04:34,782
 But it is not the whole picture.
+だが、これが全てではない
 
 68
 00:04:34,960 --> 00:04:41,120
 Despite the lack of climate policies and ongoing lobbying and misinformation campaigns from the fossil fuel industries,
+気候政策の欠如や
+化石燃料産業によるロビー活動と情報攪乱の一方
 
 69
 00:04:41,120 --> 00:04:43,266
 there was a lot of progress.
+多くの進展もあったのだ
 
 70
 00:04:43,290 --> 00:04:47,359
 Let us go back 20 years to see why today is so different:
+現状の変化を見るため
+20年前に戻ろう
 
 71
 00:04:48,000 --> 00:04:50,603
 Between 2000 and 2010,
+2000年-2010年
 
 72
 00:04:50,627 --> 00:04:53,872
 greenhouse gas emissions had grown by 24%,
+温室効果ガスの排出量は24％増加し
 
 73
 00:04:53,897 --> 00:04:57,233
 three times as much as the increase in the previous decade.
+過去10年の増加量の3倍だった
 
 74
 00:04:57,257 --> 00:05:01,282
 Subsidies for fossil fuels aimed at promoting economic growth,
+経済成長のための
+化石燃料への補助金が
 
 75
 00:05:01,306 --> 00:05:04,138
 caused a colossal increase in their consumption.
+消費量を激増させたのだ
 
 76
 00:05:04,320 --> 00:05:08,800
 For emerging countries like China and India coal was the cheapest fuel for growth
+中国やインド等の新興国には
+石炭は最も安価な燃料で
 
 77
 00:05:08,800 --> 00:05:12,375
 while rich countries showed little interest in changing their ways.
+豊かな国々も変わろうとしなかった
 
 78
 00:05:12,400 --> 00:05:15,721
 In 2010, many people expected these trends to continue.
+2010年、この傾向が続くと多数が思った
 
 79
 00:05:15,745 --> 00:05:20,004
 Instead of decreasing fossil fuel use its consumption would rise.
+化石燃料の利用は低下でなく増加するのだと
 
 80
 00:05:20,199 --> 00:05:23,350
 The next decade turned out to be very different though.
+だが次の10年は全く違った
 
 81
-00:05:23,839 --> 00:05:26,771
+00:05:23,839 --> 00:05:30,128
 First of all, coal burning in emerging countries like India
+has been slowed down or leveled off, like in China.
+まず、インドなど新興国での石炭利用は
+中国のように安定または低下しており
 
 82
-00:05:26,796 --> 00:05:30,128
-has been slowed down or leveled off, like in China.
-
-83
 00:05:30,152 --> 00:05:33,805
 And it has plummeted in rich countries like the UK and US.
+英米のような富裕国では急落している
+
+83
+00:05:34,119 --> 00:05:41,354
+Since 2015 three-quarters of planned coal plants have been canceled
+and 44 countries have committed to stop building them.
+2015年以降、石炭発電所の計画の3/4が中止となり
+44ヵ国が新設を見送った
 
 84
-00:05:34,119 --> 00:05:37,901
-Since 2015 three-quarters of planned coal plants have been canceled
-
-85
-00:05:37,925 --> 00:05:41,354
-and 44 countries have committed to stop building them.
-
-86
 00:05:41,544 --> 00:05:44,240
 Ten years ago that would have seemed like wishful thinking,
+10年前なら楽観論だが
 
-87
+85
 00:05:44,240 --> 00:05:47,897
 but today we can say with confidence: Coal is dying.
+今は断言できる：石炭は死につつある（★以前も問題になった、自信を持って言える→断言できるの言い換えです。文字数削減には重要ですが、どうでしょ？）
 
-88
+86
 00:05:47,921 --> 00:05:50,240
 It is just not competitive anymore.
+もはや競争力がない
 
-89
+87
 00:05:50,240 --> 00:05:53,197
 Because technologies we thought would remain expensive
+当面は高価だろうという技術が
 
-90
+88
 00:05:53,221 --> 00:05:55,712
 matured rapidly instead.
+急速に成熟したからだ
 
-91
+89
 00:05:55,990 --> 00:05:59,663
 Renewable electricity has shown explosive progress.
+再生可能エネルギーは爆発的に進歩した
 
-92
+90
 00:05:59,687 --> 00:06:03,142
 In a mere decade wind energy got three times cheaper.
+たった10年で風力発電は3倍安く（★3倍安い、という言い回しに違和感あり）
 
-93
+91
 00:06:03,280 --> 00:06:06,356
 Solar electricity is now ten times cheaper!
+太陽光は10倍安くなっている
 
-94
+92
 00:06:06,519 --> 00:06:09,928
 Cheaper than coal or any other fossil-fuel burning power plant,
+これは石炭や他の化石燃料の発電より安い
 
-95
+93
 00:06:09,952 --> 00:06:15,115
 despite the massive subsidies and global infrastructure propping up fossil fuels.
+化石燃料には世界的なインフラと
+巨額の補助金があるのにだ
 
-96
+94
 00:06:15,440 --> 00:06:22,428
 25 times more solar and nearly 5 times more wind electricity is produced today compared with ten years ago,
+10年前と比べ、太陽光発電は25倍
+風力発電は5倍近く行われているが
 
-97
+95
 00:06:22,453 --> 00:06:24,911
 which is of course not nearly enough.
+もちろん全く十分でない
+
+96
+00:06:24,935 --> 00:06:29,163
+One of the biggest obstacles is the variability of their power output.
+最大の障害の一つは
+その出力のバラつきだ
+
+97
+00:06:29,188 --> 00:06:34,894
+Renewables need a lot of energy storage to be a reliable power source,
+like expensive batteries.
+再生可能エネルギーの信頼獲得には
+高級バッテリーのような貯蔵先が多数必要だ
 
 98
-00:06:24,935 --> 00:06:29,163
-Renewables need a lot of energy storage to be a reliable power source,
-
-99
-00:06:29,188 --> 00:06:32,960
-energy storage to be
-a reliable power source,
-
-100
-00:06:32,960 --> 00:06:34,894
-like expensive batteries.
-
-101
 00:06:34,918 --> 00:06:40,320
 Amazingly battery prices have decreased by 97% in the past 30 years,
+驚くべきことに
+バッテリーの価格低下は過去30年で97％
 
-102
+99
 00:06:40,320 --> 00:06:42,663
 60% in the last decade alone
+10年だけでも60％で
 
-103
+100
 00:06:42,688 --> 00:06:46,615
 – which will serve all kinds of green technology like electric cars.
+電気自動車など
+全てのグリーンテクノロジーに有用だ
 
-104
+101
 00:06:46,875 --> 00:06:51,015
 You might say, well that's great but didn't Kurzgesagt's last climate video
+素晴らしいことだが
+Kurzgesagtの前回の気候動画の主張は
 
-105
+102
 00:06:51,040 --> 00:06:57,978
 say that while wind and solar are nice, we need nothing less than a fundamental transition of our global industrial system?
+「風力や太陽光は重要だが
+産業システムの根本的な転換が最重要」では？
 
-106
+103
 00:06:58,002 --> 00:07:02,160
 Yes but luckily the shift goes beyond just the energy sector.
+その通りだが
+幸運にも躍進はエネルギー部門だけではない
 
-107
+104
 00:07:02,160 --> 00:07:07,274
 Throughout the economy people are working on improving current technology to lower emissions.
+経済全体で
+人々は排出削減への技術改善に取り組んだ
 
-108
-00:07:07,680 --> 00:07:10,769
+105
+00:07:07,680 --> 00:07:13,790
 We're rapidly replacing old incandescent light bulbs
-
-109
-00:07:10,801 --> 00:07:13,790
 with LEDs that are ten times more efficient.
+古い白熱電球を、効率10倍のLEDへと
+急速に置き換えている
 
-110
+106
 00:07:13,920 --> 00:07:19,224
 In 2020 about 7 out of 10 new cars in Norway were electric or hybrid
+2020年、新車の10台中7台が
+電気自動車かハイブリッド車だった
 
-111
+107
 00:07:19,264 --> 00:07:22,611
 – In 2021 it was already 8 out of 10.
+2021年には10台中8台だ
 
-112
+108
 00:07:22,889 --> 00:07:29,840
 And the list goes on, from electric heating and better insulation to ships traveling at half speed to save fuel.
+改善リストは、電気暖房や断熱材の改善から
+速度を半分にして燃料を節約する船まで続く
 
-113
+109
 00:07:29,840 --> 00:07:33,295
 Wherever you look you find scientists, engineers and entrepreneurs
+どこにでも科学者、技術者、起業家がいて
 
-114
+110
 00:07:33,320 --> 00:07:36,238
 trying to solve some aspect of climate change.
+気候変動の関係に取り組んでいる
 
-115
+111
 00:07:36,434 --> 00:07:40,542
 Enormous amounts of human ingenuity are being brought to bear on this problem
+急速な気候変動の抑制を
+人々が重視するほどに
 
-116
+112
 00:07:40,567 --> 00:07:45,244
 with more and more people deciding to prioritize preventing rapid climate change.
+人類の膨大な創意工夫が
+問題解決に活用される（★文のつながりを考え、英文との対応を無視して訳の順番を入れ替えてます）
 
-117
+113
 00:07:45,771 --> 00:07:50,398
 Solutions for low-carbon production of cement, electronics and steel,
+セメント、電子機器、鉄鋼の
+低炭素での生産方法や
 
-118
+114
 00:07:50,423 --> 00:07:54,678
 and innovations like artificial meat and carbon capture are in the works.
+人工肉や炭素回収等の技術革新が進行中だ
 
-119
+115
 00:07:54,702 --> 00:07:59,738
 The more of these technologies we deploy; the cheaper new and better technology gets.
+これら技術を導入するほど
+優れた新技術の価格が下がる
 
-120
+116
 00:08:00,068 --> 00:08:03,337
 The cheaper they get, the more people use them. And so on.
+安価なら需要も増え、という具合だ
 
-121
+117
 00:08:03,496 --> 00:08:05,200
 We can see the impact already:
+影響は確認済みで
 
-122
+118
 00:08:05,200 --> 00:08:09,766
 The domestic CO2 output of rich countries is falling without a major recession.
+大きな不況もなく
+富裕国のCO2排出量は減少している
 
-123
+119
 00:08:10,000 --> 00:08:14,497
 Since the 2000, the EU as a whole shows a 21% decrease,
+2000年以降、EU全体では21％
 
-124
+120
 00:08:14,521 --> 00:08:19,674
 Italy 28%, the UK 35%, Denmark 43%.
+イタリアで28％、イギリスで35％、デンマークで43％も減少している
 
-125
+121
 00:08:19,880 --> 00:08:25,099
 But the best news may be that emissions are no longer necessarily coupled with economic growth.
+更に良い知らせは排出が
+成長と連動しなくなったことにある
 
-126
+122
 00:08:25,377 --> 00:08:28,386
 In the past this was an inconvenient truth
+かつて、豊かになるためには
 
-127
+123
 00:08:28,410 --> 00:08:30,633
 – to get richer, you had to emit more.
+排出量を増やす必要があった
 
-128
+124
 00:08:30,658 --> 00:08:36,105
 Which led to fierce arguments between developing and developed countries about the fairness of reducing emissions
+そのため国の間で激論が交わされた
+排出量低減は貧困の維持を意味し
 
-129
+125
 00:08:36,130 --> 00:08:38,236
-while their populations
+while their populations were still poor.
+公平性に問題があったが
 
-130
+126
 00:08:38,260 --> 00:08:43,584
 But in the last decade we have seen that it IS possible to increase prosperity without increasing emissions.
+この10年で経済成長は
+排出を増やさなくても可能だとわかった
 
-131
+127
 00:08:43,609 --> 00:08:49,602
-Emissions in the Czech Republic dropped 13% while their GDP grew by 27%!
+missions in the Czech Republic dropped 13% while their GDP grew by 27%!
+チェコ共和国は排出量を13％低減したにもかかわらず
+GDPは27％成長した
 
-132
-00:08:49,626 --> 00:08:56,595
+128
+00:08:49,626 --> 00:08:56,426
 France reduced their CO2 emissions by 14% while increasing GDP by 15%!
+フランスは排出量を14％低減した一方
+GDPは15％増加し
 
-133
-00:08:56,619 --> 00:09:01,098
+129
+00:08:56,619 --> 00:09:00,826
 Romania saw an 8% decrease and 35% growth!
+ルーマニアも8％減少し、35％成長した
 
-134
+130
 00:09:01,122 --> 00:09:04,163
 And even the largest economy on earth - the USA
+そして最大の経済大国アメリカでさえ
 
-135
+131
 00:09:04,202 --> 00:09:09,350
 - decreased emissions by 4% while growing their GDP by 26%!
+排出量は4％減少した一方GDPは26％成長している
 
-136
+132
 00:09:09,760 --> 00:09:12,029
 Some of you may call this a numbers trick.
+これらを数字上のトリックと言う者もいるだろう
 
-137
+133
 00:09:12,053 --> 00:09:15,280
 That rich countries are just exporting emissions to poorer nations
+豊かな国は製造業などの排出量の多い汚れ仕事を
 
-138
+134
 00:09:15,305 --> 00:09:18,751
 by moving the dirty parts of their economies like manufacturing.
+貧しい国に押し付けているに過ぎないと
 
-139
+135
 00:09:18,776 --> 00:09:21,423
 But even when we account for all of our imported goods,
+しかしたとえすべての輸入品を考慮に入れたとしても
 
-140
+136
 00:09:21,447 --> 00:09:23,881
 the numbers still look positive!
+この数字は依然プラスとなる
 
-141
+137
 00:09:23,905 --> 00:09:27,936
 It's no longer a matter of having to choose between prosperity and the climate
+もはや一昔前の、繁栄と気候のどちらを取るか
 
-142
+138
 00:09:27,960 --> 00:09:29,855
 as it seemed to be a decade ago.
+というような問題ではないのだ
 
-143
+139
 00:09:30,093 --> 00:09:32,336
 Developing countries will profit from that
+途上国は後追いのおかげで
 
-144
+140
 00:09:32,360 --> 00:09:36,643
 because as rich countries pay for the expensive development of green technologies,
+富裕国が開発費用を負担した技術を
 
-145
+141
 00:09:36,667 --> 00:09:38,686
 they can adopt them more cheaply.
+格安で導入できる
 
-146
+142
 00:09:38,710 --> 00:09:42,730
 They can skip most of the high emission phase that today's rich countries went through.
+彼らは最も排出量の高かった工程をスキップできるのだ
 
-147
+143
 00:09:42,960 --> 00:09:47,938
 We are at the point where not decarbonizing is a bad business decision.
+我々は脱炭素しないという決定が
+非合理であるという地点にいる
 
-148
+144
 00:09:48,480 --> 00:09:52,284
 And we haven't even really talked about solutions like carbon capture.
+炭素回収のような解決策については
+まだ十分に議論されていない
 
-149
+145
 00:09:52,560 --> 00:09:55,016
 In 2000 it didn't really exist.
+2000年時点では存在すらしていなかったが
 
-150
+146
 00:09:55,041 --> 00:09:57,953
 In 2022 that technology does exist
+2022年現在、これらの技術は存在し
 
-151
+147
 00:09:57,978 --> 00:10:02,454
 and costs around $600 to remove one ton of CO2 from the atmosphere.
+1トンCO2を除去するのに600ドルかかっている
 
-152
+148
 00:10:02,734 --> 00:10:06,511
 As investment pours in and the technology matures and begins to scale,
+投資が行われ技術が成熟して
+規模が拡大すると
 
-153
+149
 00:10:06,536 --> 00:10:10,248
 it is likely that these costs will plummet over the next few decades.
+コストは今後急落すると思われる
 
-154
+150
 00:10:10,273 --> 00:10:12,891
 So everything's fine then?
+つまり、何も問題はないのだろうか？
 
-155
+151
 00:10:12,915 --> 00:10:14,590
 Well let us not get carried away here
+まあ、そうは問屋が卸さない
 
-156
+152
 00:10:14,614 --> 00:10:17,932
 - all of these processes are great but not nearly fast enough.
+これらの技術は素晴らしいが速度が足りない
 
-157
+153
 00:10:17,957 --> 00:10:22,829
 We are still doing way too little and technology will not magically solve everything.
+我々の行動はまだ少なく
+技術も魔法のようにはいかない
 
-158
+154
 00:10:22,854 --> 00:10:25,693
 We need to use fewer resources and use them longer,
+我々は資源を節約し長く使い
 
-159
+155
 00:10:25,717 --> 00:10:31,501
 design consumer goods that are repairable and durable and decrease our energy requirements.
+修理可能で長持ちする製品を作り
+使用エネルギーを削減する必要がある
 
-160
+156
 00:10:31,525 --> 00:10:35,535
 We need much better infrastructure, agriculture and cities.
+またインフラ、農業、街づくりを
+改善する必要がある
 
-161
+157
 00:10:35,559 --> 00:10:40,092
 It will still be hard work, especially to get the right policies passed and enacted.
+特に適切な政策を成立させるのは
+相変わらず難題だが
 
-162
+158
 00:10:40,117 --> 00:10:45,905
 But for the first time ever, there are a few trendlines pointing solidly in the right direction.
+いつくかの傾向は
+正しい方向を示し始めたのだ
 
-163
+159
 00:10:45,930 --> 00:10:51,013
 And now imagine – If all of this was achieved without proper financial and political support
+想像したい
+もしこれらが適切な財政及び政治的支援なく
 
-164
+160
 00:10:51,037 --> 00:10:53,452
 and despite fossil fuel lobbying
+化石燃料のロビー活動にも関わらず達成されたとしたら
 
-165
+161
 00:10:53,477 --> 00:10:59,832
 – just think what humanity can do when climate change finally gets the political attention and funding it needs.
+考えてほしい、気候変動が政治的注目と
+資金を得たとき人類に何ができるかを
 
-166
+162
 00:10:59,856 --> 00:11:02,448
 So is it ok to feel hopeful again?
+うん、やっぱり希望が見えてきそう？
 
-167
+163
 00:11:02,448 --> 00:11:04,798
 The situation is still dire and serious,
+状況はいまだ深刻だ
 
-168
+164
 00:11:04,822 --> 00:11:08,310
 so what is the point of focusing on this side of the story?
+じゃあ、この側面に注目する理由は？
 
-169
+165
 00:11:08,856 --> 00:11:11,574
 The Trap of Hopelessness
+【絶望という罠】
 
-170
+166
 00:11:12,196 --> 00:11:16,352
 Climate change can feel overwhelming and make your future seem bleak.
+気候変動に圧倒され
+未来は暗いと思うことがある
 
-171
+167
 00:11:16,595 --> 00:11:23,232
 The sadness and hopelessness that many people feel is real and very destructive because it causes apathy.
+悲しみや絶望感は現実であり
+破壊を見過ごす無関心へと繋がりがちだ
 
-172
+168
 00:11:23,257 --> 00:11:26,234
 Apathy that is only serving the fossil fuel industry
+無関心とは化石燃料産業を救うものであり
 
-173
+169
 00:11:26,259 --> 00:11:29,157
 that is still delaying change however it can.
+彼らはできる限り変化を遅らせようとしている
 
-174
+170
 00:11:29,198 --> 00:11:32,766
 In a sense they have weaponized hopelessness.
+ある意味、彼らは絶望を武器としているのだ
 
-175
+171
 00:11:33,033 --> 00:11:37,529
 We are now in phase 4 in the public debate about rapid climate change action:
+我々は急速な気候変動に対して第4段階目にいる
 
-176
+172
 00:11:37,870 --> 00:11:41,134
 Phase 1 was: Climate Change is not real.
+第1段階は
+「気候変動は事実ではない」
 
-177
+173
 00:11:41,284 --> 00:11:45,711
 Phase 2 was: Climate Change is real but not caused by humans.
+第2段階は「気候変動は事実だ
+しかし人類が原因ではない」
 
-178
+174
 00:11:45,742 --> 00:11:50,440
 Phase 3 was: Climate Change may be caused by humans but it's not that bad.
+第3段階は「気候変動は人類が原因だ
+しかしさほど悪いことではない」
 
-179
+175
 00:11:50,465 --> 00:11:54,214
 Phase 4 is: Climate Change is no longer avoidable.
+第4段階は
+「気候変動は避けられない」
 
-180
+176
 00:11:54,238 --> 00:11:57,288
 We are doomed and it doesn't matter what we do.
+「人類がなにをしようともう手遅れだ」
 
-181
+177
 00:11:57,684 --> 00:12:02,167
 If we want the world to change, we first need to believe that change is possible.
+もし世界を変えたいと望むなら
+まず変化が可能だと信じる必要があり
 
-182
+178
 00:12:02,191 --> 00:12:05,092
 And we have an abundance of evidence that it is.
+実際それが可能であると示す証拠も持っている
 
-183
+179
 00:12:05,229 --> 00:12:08,136
 Changes to our industrial system are gaining momentum,
+変化に対し、産業は勢いを増し
 
-184
+180
 00:12:08,161 --> 00:12:13,646
 technology gets better and cheaper, climate change has become a key issue in most free elections.
+技術は安く高度になり
+気候変動は多くの自由選挙で重要な争点となってきた
 
-185
+181
 00:12:13,671 --> 00:12:16,709
 As more and more younger people move into influential positions,
+多くの若者達が影響力をもつにつれ
 
-186
+182
 00:12:16,733 --> 00:12:20,118
 they prioritize climate change and work on new solutions.
+気候変動は優先され
+新しい解決策への取り組みも増えている
 
-187
+183
 00:12:20,339 --> 00:12:23,807
 In 2022 most governments not only acknowledge it
+2022年では多くの政府が
 
-188
+184
 00:12:23,831 --> 00:12:29,160
 but set their own net zero goals – in democratic and autocratic countries.
+ネットゼロを目標としている
+民主的あるいは専制的政治体系にかかわらずだ
 
-189
+185
 00:12:29,484 --> 00:12:34,424
 The results of years of fighting a steep uphill battle are now clearly visible.
+険しい道程を長年戦い続けてきた成果が
+今はっきりと現れているのだ
 
-190
+186
 00:12:34,455 --> 00:12:40,470
 The pressure needs to keep increasing, to make sure that the promises made today are actually kept!
+今日の約束が本当に守られるよう
+圧力をかけ続ける必要がある
 
-191
+187
 00:12:41,137 --> 00:12:46,770
 Climate doomerism is the equivalent of giving up even though you can still prevent not just the worst case
+気候破滅主義は諦めることに等しい
+まだ我々が最悪のケースを防げるばかりか
 
-192
+188
 00:12:46,795 --> 00:12:51,096
 but also mitigate most of the bad things, make changes in time to adapt better
+多くの悪影響を和らげ
+変化を間に合わせ
 
-193
+189
 00:12:51,120 --> 00:12:53,624
 and prevent the poorest from suffering.
+まだ貧困層の苦痛すら防げるのに
 
-194
+190
 00:12:53,649 --> 00:12:57,970
 That is why hopelessness and apathy are so dangerous.
+これこそ絶望と無関心が危険な理由だ
 
-195
+191
 00:12:58,128 --> 00:13:01,759
 If the last, in many ways wasted decade, has shown anything,
+もしこの10年間が無駄だったと感じられたとしても
 
-196
+192
 00:13:01,783 --> 00:13:04,547
 then it's that progress is being made
+それは進歩があったということであり
 
-197
+193
 00:13:04,571 --> 00:13:09,484
 and that dire scenarios are just predictions – not our sealed fate.
+悲惨なシナリオは単なる予想であって
+未来が確定したわけではないのだ
 
-198
+194
 00:13:09,508 --> 00:13:15,412
 As of 2022, based on current global policies, we will end up in a 3 degrees world.
+2022年現在、世界的な政策に基づくと
+我々は3℃の世界に行き着くが
 
-199
+195
 00:13:15,906 --> 00:13:19,182
 Now it is our job to yet again prove the predictions wrong
+この予想も誤りだったと証明する必要がある
 
-200
+196
 00:13:19,206 --> 00:13:21,843
 – despite how serious and urgent things are.
+いかに事態が深刻で緊急であったとしても
 
-201
+197
 00:13:21,867 --> 00:13:26,870
 To turn that 3 degrees into a 2 degrees and then see where we can go from there.
+3℃を2℃にし、さらに
+未来を希求する必要がある
 
-202
+198
 00:13:26,894 --> 00:13:28,875
 For that we need hope.
+そのためにも、希望が必要だ
 
-203
+199
 00:13:29,280 --> 00:13:32,888
 And we hope we gave you that today, at least a little.
+そして今回、我々が少しでも
+それを視聴者に与えられたらと願う
 
-204
+200
 00:13:32,912 --> 00:13:36,837
 That you feel that things are serious but also that you have a future.
+事態は深刻だが
+未来もあるのだと感じてもらえたなら
 
-205
+201
 00:13:37,019 --> 00:13:40,378
 That you can have kids without dooming them or the world.
+子供を持つことができ
+その未来も世界も破滅する宿命にないのだと
 
-206
+202
 00:13:40,557 --> 00:13:43,149
 That taking action today is worth it.
+今、行動を起こすことはそれだけの価値がある
 
-207
+203
 00:13:43,174 --> 00:13:49,032
 And that despite powerful industries doing everything to delay it, society is changing.
+強力な産業界がいかなる遅滞工作に勤しもうと
+社会は変わりつつある
 
-208
+204
 00:13:49,206 --> 00:13:52,525
 If you need a more concrete roadmap of what you can do personally
+もし自分に何ができるのか
+具体的なロードマップを知りたければ
 
-209
+205
 00:13:52,550 --> 00:13:56,399
 – we are working on a follow up video to talk about that in greater detail.
+現在詳細なビデオを制作中なので期待してほしい
 
-210
+206
 00:13:57,053 --> 00:14:00,749
 Doomerism, inactivity and weaponized hopelessness
+破滅主義、無関心と絶望こそが
 
-211
+207
 00:14:00,774 --> 00:14:05,078
 are the only trump cards left for the powers that don't want change.
+変化を望まない者たちの切り札だ
 
-212
+208
 00:14:05,102 --> 00:14:07,291
 Don't let them win.
+奴らを勝たせてはならない
 
-213
-00:14:10,521 --> 00:14:12,649
+209
+00:14:10,521 --> 00:14:12,800
 We are still excited about the future.
+我々は未来にワクワクしています
 
-214
+210
 00:14:12,907 --> 00:14:17,071
 And we think one of the best things you can do to keep your optimism and curiosity up
+そして楽観と好奇心を持ち続けるための方法の一つは
 
-215
+211
 00:14:17,096 --> 00:14:19,072
 is to learn new things.
+新しいことを学ぶことです
 
-216
+212
 00:14:19,258 --> 00:14:23,785
 If you don't know where to start, our friends from Brilliant.org have got you covered.
+何から始めればいいのかわかない人は
+Brilliant.orgにお任せください
 
-217
+213
 00:14:23,810 --> 00:14:28,370
 Brilliant makes math and science accessible and fun with a hands-on approach.
+Brilliantは数学や科学を
+楽しく身近に学ぶことができます
 
-218
+214
 00:14:28,395 --> 00:14:30,738
 More than 60 interactive courses like
+60以上の対話的な
 
-219
+215
 00:14:30,762 --> 00:14:33,705
 „The joy of problem solving“ or „Scientific thinking“
+「問題解決の喜び」や「科学的思考」
+といったコースが
 
-220
+216
 00:14:33,729 --> 00:14:37,486
 give you the tools to crack problems in math, science and computer science
+あなたに数学や科学の問題に
+対処するための道具を与えてくれ
 
-221
+217
 00:14:37,510 --> 00:14:42,737
 that are all designed to get your intuition going and give you plenty of aha-experience.
+これらは全て直感を刺激しあっと驚く
+体験ができるよう設計されています
 
-222
+218
 00:14:43,111 --> 00:14:47,719
 Lessons will surprise you with storytelling, code-writing tasks and interactive challenges
+レッスンはあなたを驚かせるストーリーや
+対話的なチャレンジなど
 
-223
+219
 00:14:47,744 --> 00:14:51,309
 – basically using whatever keeps you interested and entertained.
+興味や楽しさを与えられる方法に満ちています
 
-224
+220
 00:14:51,333 --> 00:14:56,105
 All the content is interactive: instead of just reading and listening to explanations,
+全てのコンテンツは対話的であり
+単に読んだり聞いたりするだけではなく
 
-225
+221
 00:14:56,130 --> 00:15:00,965
 you drag and drop, manipulate shapes and diagrams, make selections and answer questions.
+ドラッグ＆ドロップしたり、図形を操作したり
+質問に答えたり
 
-226
+222
 00:15:01,497 --> 00:15:04,352
 This way you learn something almost without you noticing it.
+気づかないうちに何かを学んでいるかも
 
-227
+223
 00:15:04,376 --> 00:15:11,077
 And tiny step by step you'll build up your long-term understanding of science and get closer to your STEM goals.
+小さな積み重ねが科学への理解を深め
+STEM教育の目標に近づくことでしょう
 
-228
+224
 00:15:11,102 --> 00:15:13,894
 To start looking at the world of science from a different perspective,
+科学の世界を別の視点から見るためには
 
-229
+225
 00:15:13,918 --> 00:15:17,568
-go to Brilliant.org/Nutshell and sign up for free.
+go to brilliant.org/nutshell and sign up for free.
+brilliant.org/nutshell にアクセスしてください
+登録は無料です
 
-230
+226
 00:15:18,079 --> 00:15:21,131
 And there's an extra perk for kurzgesagt viewers:
+さらに Kurzgesagt 視聴者には特別特典
 
-231
+227
 00:15:21,155 --> 00:15:25,704
 the first 200 people to use the link get 20% off their annual membership,
+先着200名まで20%オフの年間メンバーシップにご招待
 
-232
+228
 00:15:25,729 --> 00:15:30,675
 which unlocks all of Brilliant's courses in math, science, and computer science.
+数学、科学、コンピューターなど全てのコースに
+ご利用いただけます
 
-233
+229
 00:15:30,700 --> 00:15:35,255
 At kurzgesagt we love to create things that seem impossible at first
+Kurzgesagt は一見不可能と思えるものを
+形にすることが大好きです
 
-234
+230
 00:15:35,280 --> 00:15:38,570
 – Brilliant can help you acquire the skills to do that.
+Brilliant はその手伝いをしてくれるでしょう
 
-235
+231
 00:15:38,598 --> 00:15:45,136
 Continue your quest for knowledge with Kurzgesagt
+- Kurzgesagt と知識の冒険へ出かけよう -
 
-236
+232
 00:15:45,161 --> 00:15:49,764
 Explore your creativity
+- 創造性を探究し -
 
-237
+233
 00:15:49,789 --> 00:15:54,817
 Discover the world around you
+- 身の回りの奇跡を発見し -
 
-238
+234
 00:15:54,842 --> 00:15:59,495
 Travel with your friends
-
+- 友と旅立とう -
