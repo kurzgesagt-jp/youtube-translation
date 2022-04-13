@@ -682,7 +682,7 @@ In the past this was an inconvenient truth
 00:08:30,658 --> 00:08:36,105
 Which led to fierce arguments between developing and developed countries about the fairness of reducing emissions
 そのため国の間で激論が交わされた
-排出量低減は貧困の維持を意味し
+排出量低減は貧困国の停滞を意味し
 
 125
 00:08:36,130 --> 00:08:38,236
@@ -698,19 +698,19 @@ But in the last decade we have seen that it IS possible to increase prosperity w
 127
 00:08:43,609 --> 00:08:49,602
 missions in the Czech Republic dropped 13% while their GDP grew by 27%!
-チェコ共和国は排出量を13％低減したにもかかわらず
+チェコ共和国は13％の排出削減を達成しつつ
 GDPは27％成長した
 
 128
 00:08:49,626 --> 00:08:56,426
 France reduced their CO2 emissions by 14% while increasing GDP by 15%!
-フランスは排出量を14％低減した一方
+フランスは14％排出量低減した一方
 GDPは15％増加し
 
 129
 00:08:56,619 --> 00:09:00,826
 Romania saw an 8% decrease and 35% growth!
-ルーマニアも8％減少し、35％成長した
+ルーマニアも8％の減少と、35％の成長だ
 
 130
 00:09:01,122 --> 00:09:04,163
@@ -720,7 +720,7 @@ And even the largest economy on earth - the USA
 131
 00:09:04,202 --> 00:09:09,350
 - decreased emissions by 4% while growing their GDP by 26%!
-排出量は4％減少した一方GDPは26％成長している
+排出は4％減少した一方GDPは26％成長している
 
 132
 00:09:09,760 --> 00:09:12,029
@@ -740,12 +740,12 @@ by moving the dirty parts of their economies like manufacturing.
 135
 00:09:18,776 --> 00:09:21,423
 But even when we account for all of our imported goods,
-しかしたとえすべての輸入品を考慮に入れたとしても
+しかし全ての輸入品を考慮に入れたとしても
 
 136
 00:09:21,447 --> 00:09:23,881
 the numbers still look positive!
-この数字は依然プラスとなる
+この値は依然プラスとなる
 
 137
 00:09:23,905 --> 00:09:27,936
@@ -775,7 +775,7 @@ they can adopt them more cheaply.
 142
 00:09:38,710 --> 00:09:42,730
 They can skip most of the high emission phase that today's rich countries went through.
-彼らは最も排出量の高かった工程をスキップできるのだ
+最も高排出だった工程をスキップできるのだ
 
 143
 00:09:42,960 --> 00:09:47,938
@@ -828,7 +828,7 @@ Well let us not get carried away here
 152
 00:10:14,614 --> 00:10:17,932
 - all of these processes are great but not nearly fast enough.
-これらの技術は素晴らしいが速度が足りない
+これらの進展は素晴らしいが速度が足りない
 
 153
 00:10:17,957 --> 00:10:22,829
@@ -839,7 +839,7 @@ We are still doing way too little and technology will not magically solve everyt
 154
 00:10:22,854 --> 00:10:25,693
 We need to use fewer resources and use them longer,
-我々は資源を節約し長く使い
+我々は資源を節約し
 
 155
 00:10:25,717 --> 00:10:31,501
@@ -868,19 +868,19 @@ But for the first time ever, there are a few trendlines pointing solidly in the 
 159
 00:10:45,930 --> 00:10:51,013
 And now imagine – If all of this was achieved without proper financial and political support
-想像したい
-もしこれらが適切な財政及び政治的支援なく
+思い出してほしい
+これらは適切な財政及び政治的支援もなく
 
 160
 00:10:51,037 --> 00:10:53,452
 and despite fossil fuel lobbying
-化石燃料のロビー活動にも関わらず達成されたとしたら
+化石燃料のロビー活動にも関わらず達成されたのだ
 
 161
 00:10:53,477 --> 00:10:59,832
 – just think what humanity can do when climate change finally gets the political attention and funding it needs.
 考えてほしい、気候変動が政治的注目と
-資金を得たとき人類に何ができるかを
+資金を得たとき何ができるかを
 
 162
 00:10:59,856 --> 00:11:02,448
@@ -911,8 +911,8 @@ Climate change can feel overwhelming and make your future seem bleak.
 167
 00:11:16,595 --> 00:11:23,232
 The sadness and hopelessness that many people feel is real and very destructive because it causes apathy.
-悲しみや絶望感は現実であり
-破壊を見過ごす無関心へと繋がりがちだ
+人々の悲しみや絶望感は切実かつ破壊的で
+無関心へとつながる
 
 168
 00:11:23,257 --> 00:11:26,234
@@ -922,7 +922,7 @@ Apathy that is only serving the fossil fuel industry
 169
 00:11:26,259 --> 00:11:29,157
 that is still delaying change however it can.
-彼らはできる限り変化を遅らせようとしている
+できる限り変化を遅らせたいからだ
 
 170
 00:11:29,198 --> 00:11:32,766
@@ -972,12 +972,12 @@ If we want the world to change, we first need to believe that change is possible
 178
 00:12:02,191 --> 00:12:05,092
 And we have an abundance of evidence that it is.
-実際それが可能であると示す証拠も持っている
+実際それが可能であると示す証拠も豊富だ
 
 179
 00:12:05,229 --> 00:12:08,136
 Changes to our industrial system are gaining momentum,
-変化に対し、産業は勢いを増し
+産業構造の変化は勢いを増し
 
 180
 00:12:08,161 --> 00:12:13,646
@@ -1005,7 +1005,7 @@ In 2022 most governments not only acknowledge it
 00:12:23,831 --> 00:12:29,160
 but set their own net zero goals – in democratic and autocratic countries.
 ネットゼロを目標としている
-民主的あるいは専制的政治体系にかかわらずだ
+民主主義国も独裁国もだ
 
 185
 00:12:29,484 --> 00:12:34,424
@@ -1022,8 +1022,8 @@ The pressure needs to keep increasing, to make sure that the promises made today
 187
 00:12:41,137 --> 00:12:46,770
 Climate doomerism is the equivalent of giving up even though you can still prevent not just the worst case
-気候破滅主義は諦めることに等しい
-まだ我々が最悪のケースを防げるばかりか
+気候破滅論は諦めることに等しい
+まだ我々は最悪のケースを防げるし
 
 188
 00:12:46,795 --> 00:12:51,096
@@ -1044,7 +1044,7 @@ That is why hopelessness and apathy are so dangerous.
 191
 00:12:58,128 --> 00:13:01,759
 If the last, in many ways wasted decade, has shown anything,
-もしこの10年間が無駄だったと感じられたとしても
+この10年間を無駄と感じたとしても
 
 192
 00:13:01,783 --> 00:13:04,547
@@ -1061,7 +1061,7 @@ and that dire scenarios are just predictions – not our sealed fate.
 00:13:09,508 --> 00:13:15,412
 As of 2022, based on current global policies, we will end up in a 3 degrees world.
 2022年現在、世界的な政策に基づくと
-我々は3℃の世界に行き着くが
+我々は+3℃の世界に行き着くが
 
 195
 00:13:15,906 --> 00:13:19,182
@@ -1087,20 +1087,20 @@ For that we need hope.
 199
 00:13:29,280 --> 00:13:32,888
 And we hope we gave you that today, at least a little.
-そして今回、我々が少しでも
-それを視聴者に与えられたらと願う
+そしてこの動画で
+少しでも希望が伝わっていれば嬉しい
 
 200
 00:13:32,912 --> 00:13:36,837
 That you feel that things are serious but also that you have a future.
 事態は深刻だが
-未来もあるのだと感じてもらえたなら
+未来はあるのだと
 
 201
 00:13:37,019 --> 00:13:40,378
 That you can have kids without dooming them or the world.
-子供を持つことができ
-その未来も世界も破滅する宿命にないのだと
+破滅の宿命はなく
+子を産んでいいのだと
 
 202
 00:13:40,557 --> 00:13:43,149
@@ -1122,12 +1122,12 @@ If you need a more concrete roadmap of what you can do personally
 205
 00:13:52,550 --> 00:13:56,399
 – we are working on a follow up video to talk about that in greater detail.
-現在詳細なビデオを制作中なので期待してほしい
+現在詳細な動画を制作中なので期待してほしい
 
 206
 00:13:57,053 --> 00:14:00,749
 Doomerism, inactivity and weaponized hopelessness
-破滅主義、無関心と絶望こそが
+破滅論、無関心と絶望こそが
 
 207
 00:14:00,774 --> 00:14:05,078
