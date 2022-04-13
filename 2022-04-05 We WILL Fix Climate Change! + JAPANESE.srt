@@ -18,7 +18,6 @@ It seems our emissions will not fall quickly enough to avoid runaway warming
 and we may soon hit tipping points that will lead to the collapse of ecosystems
 生態系が崩壊する臨界点も近そうだし
 
-
 5
 00:00:14,042 --> 00:00:16,165
 and our civilization.
@@ -67,8 +66,8 @@ Young people feel particularly anxious and depressed.
 13
 00:00:44,063 --> 00:00:49,063
 Instead of looking ahead to a lifetime of opportunity they wonder if they will even have a future
-想像するのは未来のチャンスではなく
-「未来があるのか」や
+想像するのは未来の展望ではなく
+そもそも「未来があるのか」や
 
 14
 00:00:49,103 --> 00:00:51,797
@@ -107,8 +106,8 @@ and there is finally some good news and a clear path towards our collective clim
 20
 00:01:24,366 --> 00:01:27,564
 Welcome to our Ted talk, please watch this video to the end
-Tedトークへようこそ
-最後まで視聴してください
+ようこそTedトークへ
+最後までお付き合いを
 
 21
 00:01:27,588 --> 00:01:30,774
@@ -123,7 +122,7 @@ Ok! Let’s start with the scariest things.
 23
 00:01:35,440 --> 00:01:37,807
 Canceling the Apocalypse
-【終末を拒否する】
+【終末を回避する】
 
 24
 00:01:38,160 --> 00:01:43,837
@@ -208,7 +207,7 @@ Heat waves will become a major global issue.
 38
 00:02:39,440 --> 00:02:42,228
 Large scale natural systems will break down.
-自然界の仕組みの大枠が破壊される
+自然環境の枠組みが破壊される
 
 39
 00:02:42,252 --> 00:02:46,743
@@ -234,7 +233,7 @@ Hundreds of millions of people will need to leave their homes.
 43
 00:02:56,640 --> 00:02:59,987
 In the 4-8 degree range the apocalypse begins
-4-8℃の上昇で終末が始まる
+4～8℃の上昇で終末が始まる
 
 44
 00:03:00,011 --> 00:03:03,312
@@ -251,7 +250,8 @@ that it may become unable to support our large human population and billions may
 46
 00:03:08,667 --> 00:03:11,786
 leaving the rest on a hostile alien planet.
-残りは見知らぬ過酷な惑星に残されるかも
+生存者は一変した過酷な地球に
+取り残されるかも
 
 47
 00:03:12,118 --> 00:03:14,981
@@ -267,7 +267,7 @@ many scientists assumed a 4+ degree world was our future
 49
 00:03:18,842 --> 00:03:23,141
 and a lot of public communication focused on exactly this future path.
-多くの広報は
+多くの意識啓発は
 まさにこの未来に焦点をあてていた
 
 50
@@ -354,7 +354,7 @@ we mostly did: nothing.
 65
 00:04:24,363 --> 00:04:27,940
 A lost decade with one negative record after another.
-「相次ぐネガティブ記録の
+「悪化の報告が相次ぐ
 失われた10年だった」
 
 66
@@ -388,7 +388,7 @@ Let us go back 20 years to see why today is so different:
 71
 00:04:48,000 --> 00:04:50,603
 Between 2000 and 2010,
-2000年-2010年
+2000年年から2010年の間
 
 72
 00:04:50,627 --> 00:04:53,872
@@ -425,7 +425,7 @@ while rich countries showed little interest in changing their ways.
 78
 00:05:12,400 --> 00:05:15,721
 In 2010, many people expected these trends to continue.
-2010年、この傾向が続くと多数が思った
+2010年、この傾向が続くと多くの人が思った
 
 79
 00:05:15,745 --> 00:05:20,004
@@ -489,12 +489,12 @@ Renewable electricity has shown explosive progress.
 90
 00:05:59,687 --> 00:06:03,142
 In a mere decade wind energy got three times cheaper.
-たった10年で風力発電は3倍安く
+たった10年で風力発電のコストは1/3に
 
 91
 00:06:03,280 --> 00:06:06,356
 Solar electricity is now ten times cheaper!
-太陽光は10倍安くなっている
+太陽光は1/10になっている
 
 92
 00:06:06,519 --> 00:06:09,928
@@ -529,7 +529,7 @@ One of the biggest obstacles is the variability of their power output.
 Renewables need a lot of energy storage to be a reliable power source,
 like expensive batteries.
 再生可能エネルギーの信頼獲得には
-高級バッテリーのような貯蔵先が多数必要だ
+バッテリーのような高価な貯蔵先が必要だ
 
 98
 00:06:34,918 --> 00:06:40,320
@@ -582,7 +582,7 @@ with LEDs that are ten times more efficient.
 106
 00:07:13,920 --> 00:07:19,224
 In 2020 about 7 out of 10 new cars in Norway were electric or hybrid
-2020年、新車の10台中7台が
+2020年、ノルウェイでは新車の10台中7台が
 電気自動車かハイブリッド車だった
 
 107
