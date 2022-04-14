@@ -682,7 +682,7 @@ In the past this was an inconvenient truth
 00:08:30,658 --> 00:08:36,105
 Which led to fierce arguments between developing and developed countries about the fairness of reducing emissions
 そのため国の間で激論が交わされた
-排出量低減は貧困国の停滞を意味し
+排出削減は貧困国の停滞を意味し
 
 125
 00:08:36,130 --> 00:08:38,236
@@ -704,7 +704,7 @@ GDPは27％成長した
 128
 00:08:49,626 --> 00:08:56,426
 France reduced their CO2 emissions by 14% while increasing GDP by 15%!
-フランスは14％排出量低減した一方
+フランスは14％排出を低減した一方
 GDPは15％増加し
 
 129
@@ -851,7 +851,7 @@ design consumer goods that are repairable and durable and decrease our energy re
 00:10:31,525 --> 00:10:35,535
 We need much better infrastructure, agriculture and cities.
 またインフラ、農業、街づくりを
-改善する必要がある
+改善する必要もある
 
 157
 00:10:35,559 --> 00:10:40,092
@@ -863,7 +863,7 @@ It will still be hard work, especially to get the right policies passed and enac
 00:10:40,117 --> 00:10:45,905
 But for the first time ever, there are a few trendlines pointing solidly in the right direction.
 いつくかの傾向は
-正しい方向を示し始めたのだ
+正しい方向を示し始めた
 
 159
 00:10:45,930 --> 00:10:51,013
@@ -927,7 +927,7 @@ that is still delaying change however it can.
 170
 00:11:29,198 --> 00:11:32,766
 In a sense they have weaponized hopelessness.
-ある意味、彼らは絶望を武器としているのだ
+ある意味、彼らは絶望を武器としている
 
 171
 00:11:33,033 --> 00:11:37,529
@@ -1158,12 +1158,12 @@ is to learn new things.
 00:14:19,258 --> 00:14:23,785
 If you don't know where to start, our friends from Brilliant.org have got you covered.
 何から始めればいいのかわかない人は
-Brilliant.orgにお任せください
+Brilliant.org にお任せください
 
 213
 00:14:23,810 --> 00:14:28,370
 Brilliant makes math and science accessible and fun with a hands-on approach.
-Brilliantは数学や科学を
+Brilliant は数学や科学を
 楽しく身近に学ぶことができます
 
 214
