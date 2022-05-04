@@ -6,8 +6,8 @@ A war has been going on for billions of years
 2
 00:00:03,650 --> 00:00:08,420
 that breeds well armed monsters, who struggle with other monsters for survival. 
-武装した怪物たちを生み
-生存をかけて戦わせている
+武装した怪物が生まれては
+生存をかけて戦っている
 
 3
 00:00:08,420 --> 00:00:13,490
@@ -29,7 +29,7 @@ But there are exceptions.
 6
 00:00:19,550 --> 00:00:28,320
 Naegleria fowleri is an amoeba that has not only developed a deadly taste for human brains but is also a match for our defences
-Naegleria fowleriというアメーバは
+Naegleria fowleri というアメーバは
 人間の脳を食べて死に至らせ、免疫系にも対応する
 
 7
@@ -46,7 +46,7 @@ What happens when this monster enters your body?
 9
 00:00:42,940 --> 00:00:45,530
 Naegleria fowleri is an amoeba, 
-Naegleria fowleriはアメーバだ
+Naegleria fowleri はアメーバだ
 
 10
 00:00:45,530 --> 00:00:50,030
@@ -63,13 +63,13 @@ It is a voracious hunter of bacteria and other critters that it devours whole an
 12
 00:00:56,850 --> 00:01:02,440
 Like many amoebea it is able to transform into different stages that help it survive,
-他のアメーバと同様、Naegleria fowleriは
+他のアメーバと同様、Naegleria fowleri は
 生存のために変形できる
 
 13
 00:01:02,440 --> 00:01:06,630
 but most of the time Naegleria fowleri is in its trophozoite stage, 
-ほとんどの場合、Naegleria fowleriは栄養体で
+ほとんどの場合、Naegleria fowleri は栄養体で
 
 14
 00:01:06,630 --> 00:01:09,630
@@ -111,7 +111,7 @@ So in the summer, when humans seek to cool off and enjoy themselves,
 
 21
 00:01:34,050 --> 00:01:38,630
-the chances are highest that both species will interact.
+the chances are highest that both species will interact.
 アメーバと遭遇する可能性が
 最大になるのだ
 
@@ -129,13 +129,13 @@ millions of people regularly have contact with the amoeba, especially in warmer 
 24
 00:01:45,210 --> 00:01:48,320
 and many people even seem to have antibodies against it.  
-その多くが抗体すら持たないようだ
+抗体を持つ人が多数ですらあるようだ
 
 25
 00:01:48,320 --> 00:01:52,790
 And this is mostly ok, you can even swallow it without consequences.
 まあ概ね問題はなく
-水を飲んでさえ感染回避は可能だ
+感染せずに飲み込むことすら可能だ
 
 26
 00:01:52,790 --> 00:02:00,610
@@ -157,7 +157,7 @@ and that isn’t really a big deal.
 29
 00:02:08,000 --> 00:02:10,910
 But Naegleria fowleri is different. 
-だがNaegleria fowleriは違う
+だが Naegleria fowleri は違う
 
 30
 00:02:10,910 --> 00:02:17,160
@@ -173,9 +173,8 @@ First of all, the amoeba doesn’t really want to be inside your nose
 
 32
 00:02:21,980 --> 00:02:26,030
-as it is not really looking for trouble, it just wants to eat a few bacteria.  
+as it is not really looking for trouble, it just wants to eat a few bacteria.  
 細菌を少し食べたいだけで
-
 トラブルは求めていないのに
 
 33
@@ -186,7 +185,7 @@ Instead it is greeted by your natural defenses.
 34
 00:02:29,390 --> 00:02:37,530
 Unfortunately for humans, Naegleria fowleri happens to be exceptionally good at generally flying under the radar of your immune system.  
-困ったことに、Naegleria fowleriはなぜか
+困ったことに、Naegleria fowleri はなぜか
 免疫系のレーダーを潜り抜けるのが非常にうまい
 
 35
@@ -204,7 +203,7 @@ a slime filled with chemicals that kill or stun possible invaders or alert immun
 37
 00:02:46,430 --> 00:02:49,830
 But Naegleria fowleri is not particularly bothered by them 
-だがNaegleria fowleriは特に困らない
+だが Naegleria fowleri は特に困らない
 
 38
 00:02:49,830 --> 00:02:55,350
@@ -269,7 +268,8 @@ Naegleria fowleri は偶然にも
 
 49
 00:03:35,700 --> 00:03:41,470
-And it seems to attract them irresistibly, a little like moths that are attracted by light.
+And it seems to attract them irresistibly, a little like moths that are attracted by light.
+
 その伝達物質に強く惹きつけられる
 
 光に蛾が集まるように
@@ -283,7 +283,7 @@ So as your olfactory nerve cells do their job, using plenty of acetylcholine to 
 51
 00:03:47,140 --> 00:03:49,680
 Naegleria fowleri enters your tissue. 
-Naegleria fowleriが
+Naegleria fowleri が
 組織に侵入するのだ
 
 52
@@ -325,7 +325,7 @@ or by literally ripping parts of them off and devouring them.
 00:04:15,230 --> 00:04:20,680
 But the Naegleria fowleri train is still on track  and while the Neutrophil attacks slow them down, 
 だが、好中球の攻撃で遅れても
-アメーバは軌道に乗っており
+アメーバの進路に変更はなく
 
 59
 00:04:20,680 --> 00:04:24,350
@@ -347,8 +347,8 @@ This process can take between one and nine days and you’ll probably not notice
 62
 00:04:32,680 --> 00:04:38,510
 Until the amoebae reach the olfactory bulb, the center of smell and entrance to your brain.
-嗅覚の中枢であり、脳の入り口である嗅球に
-たどり着くまでの間だ
+しかしそれも嗅覚の中枢であり
+脳の入り口である嗅球にたどり着くまでの話だ
 
 63
 00:04:38,510 --> 00:04:41,340
@@ -363,8 +363,8 @@ and they all release that wonderful acetylcholine.
 
 65
 00:04:45,770 --> 00:04:52,290
-Naegleria fowleri initiates a massacre and releases an onslaught of various attack molecules.  
-Naegleria fowleriは大虐殺を始め
+Naegleria fowleri initiates a massacre and releases an onslaught of various attack molecules.  
+Naegleria fowleri は大虐殺を始め
 様々な攻撃分子を猛烈に放出する
 
 66
@@ -382,8 +382,8 @@ But Naegleria fowleri is now multiplying - and it's also becoming really creepy.
 68
 00:05:04,390 --> 00:05:11,160
  In a feeding frenzy it can develop up to a dozen suckers called food cups, that look like giant eerie mouths. 
-食欲が暴走し、フードカップが1ダースも作られる
-巨大で不気味な、口のような吸盤だ
+食欲が暴走し、巨大で不気味な
+口のような吸盤が多くて1ダースほど作られる
 
 69
 00:05:11,160 --> 00:05:18,240
@@ -395,7 +395,7 @@ The amoebae engage your brain cells, suck them in and rip large “bites” out 
 00:05:18,240 --> 00:05:23,410
 Now things escalate quickly and the disease that will kill you sets in.
 事態は急速にエスカレートし
-死に至る病が発祥する
+死に至る病が発症する
 
 71
 00:05:23,410 --> 00:05:31,810
@@ -440,19 +440,18 @@ A fierce battle ensues.
 78
 00:05:58,590 --> 00:06:04,830
 Naegleria fowleri can actually fight back, itself attacking and killing many immune cells.
-Naegleria fowleriも反撃でき
+Naegleria fowleri も反撃でき
 多くの免疫細胞を攻撃し死滅させる
 
 79
 00:06:04,830 --> 00:06:09,580
-The immune system now throws everything it has at the invader but in vain.
-免疫系は全てを侵略者にぶつけるが
+The immune system now throws everything it has at the invader but in vain.
+免疫系は全てを侵略者にぶつけるが
 無駄に終わる 
 
 80
 00:06:09,580 --> 00:06:15,310
 The complement system, tiny protein bombs that can kill intruders on their own, are easily disabled. 
-
 侵入者を殺せる小さなタンパク爆弾
 「補体系」も容易に無効化される
 ★1行目が補体系の説明であるというのが何か伝わりづらい気がして、カギカッコをつけました。
@@ -481,7 +480,7 @@ All the while the amoebae continue to multiply, fight and devour your brain cell
 
 85
 00:06:32,270 --> 00:06:35,660
-A disastrous chain reaction is taking place.  
+A disastrous chain reaction is taking place.  
 悲惨な連鎖反応が生じる
 
 86
@@ -498,7 +497,7 @@ Which directs large amounts of fluid from your bloodstream into the site of an i
 
 88
 00:06:45,150 --> 00:06:50,590
-So as the battle rages on without a clear winner, more and more fluid enters the brain.
+So as the battle rages on without a clear winner, more and more fluid enters the brain.
 決着が遅れるほど
 さらに体液が脳に流れ込んでいくのだ
 
@@ -506,7 +505,7 @@ So as the battle rages on without a clear winner, more and more fluid enters the
 00:06:50,590 --> 00:06:54,630
 At this point the human will feel symptoms that quickly escalate.  
 ここで人間は
-症状の急激な加速を感じる
+症状の急激な悪化を感じる
 
 90
 00:06:54,630 --> 00:06:59,900
@@ -581,7 +580,7 @@ about how an amoeba that usually enjoys its life in open water, is able to overc
 00:07:51,720 --> 00:07:56,910
 So how worried do you need to be about this horrifying killer amoeba?
 では、この恐るべき殺人アメーバを
-どれだけ警戒すべきか！？
+どれだけ警戒すべきか？
 
 103
 00:07:56,910 --> 00:07:58,580
@@ -619,7 +618,7 @@ it also needs to get a good grip and it also has to make its way through the fir
 109
 00:08:20,220 --> 00:08:26,050
 Ultimately Naegleria fowleri is neither evil nor a huge public health risk.
-結局、Naegleria fowleriは
+結局、Naegleria fowleri は
 悪魔でも公衆衛生上の巨大リスクでもない
 
 110
@@ -641,7 +640,7 @@ and until we find a way to treat it,
 113
 00:08:34,020 --> 00:08:42,080
 Naegleria fowleri will continue to be this vague and horrifying thing, hunting in puddles and lakes and sometimes pools. 
-Naegleria fowleri は水たまりや池、
+Naegleria fowleri は水たまりや池
 たまにプールにいる脅威の怪物のままだ
 
 114
@@ -652,17 +651,20 @@ Usually for bacteria. And very occasionally, for people.
 
 115
 00:08:50,470 --> 00:08:53,820
-- Oh hey, who are you?
+- Oh hey, who are you?
+
 「あれ、あなたは誰？」
 
 116
 00:08:53,820 --> 00:08:57,390
-It is me, your existential dread!
+It is me, your existential dread!
+
 「俺だよ、お前の実存的恐怖だよ」
 
 117
 00:08:57,390 --> 00:08:59,250
-- Uhm, ok.
+- Uhm, ok.
+
 「ふーん、そう」
 
 118
@@ -750,7 +752,7 @@ so we can put thousands of hours into our videos and release them for free,
 133
 00:10:05,130 --> 00:10:11,280
 you can get these and many many more amazing posters or shirts or so many more things in our shop. 
-紹介した品や、素晴らしいポスターやシャツなどが
+紹介した商品や、素晴らしいポスターやシャツなどが
 公式ショップに多数あります
 
 134
