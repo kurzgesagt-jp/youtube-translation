@@ -39,7 +39,7 @@ In short, they are relative.
 00:00:37,842 --> 00:00:43,765
 Matter bends space and bent space tells matter how to move.
 物質は空間を曲げ
-空間は物質を動かす
+空間は物質の動き方を決める
 
 9
 00:00:43,789 --> 00:00:48,408
@@ -68,7 +68,7 @@ Places with so much mass that the universe formed a 'no-go' zone
 13
 00:01:04,225 --> 00:01:06,526
 where the rules change.
-立入禁止が形成されるのだ
+"立入禁止"が形成されるのだ
 
 14
 00:01:06,768 --> 00:01:10,875
@@ -157,13 +157,13 @@ We still can observe black holes because of their effect on matter.
 00:02:14,438 --> 00:02:19,300
 Things can orbit black holes just as they can orbit the sun or a planet.
 太陽や惑星のように
-ブラックホールも物質を振り回す
+ブラックホールも物質を周回させる
 
 30
 00:02:19,325 --> 00:02:24,235
 Many black holes have discs of matter orbiting outside the event horizon.
 多くのブラックホールの外側を
-円盤状の物質が周回している
+物質が円盤状に周回している
 
 31
 00:02:24,259 --> 00:02:26,871
@@ -238,8 +238,8 @@ The stronger the gravity, the slower time passes.
 44
 00:03:18,985 --> 00:03:24,800
 While you watch the universe above you speed up, those far away will watch you in slow motion.
-あなたが宇宙の加速を眺めているとき
-観測者はあなたがスローに見える
+宇宙の加速を眺めているあなたは
+観測者にはスローモーションに見える
 
 45
 00:03:24,961 --> 00:03:31,094
@@ -251,7 +251,7 @@ If you chose to fly away from the black hole, you might find that eons have pass
 00:03:31,119 --> 00:03:37,386
 a freakish one-way time-travel trip to the future where your loved ones are long dead.
 愛する者もとっくに亡くなった
-一方向のみの時間跳躍を体験できる
+一方通行の時間跳躍を体験できる
 
 47
 00:03:37,660 --> 00:03:41,194
@@ -273,8 +273,8 @@ Because your feet are closer to the black hole than your head
 50
 00:03:48,022 --> 00:03:52,173
 they feel a stronger pull of gravity, enough to pull you apart.
-重力により引き離されるほど
-強く引っ張られる
+下半身がモゲそうなほど
+重力で強く引っ張られる
 
 51
 00:03:52,315 --> 00:03:58,336
@@ -370,7 +370,7 @@ If anything could escape it could create all sorts of time travel paradoxes
 67
 00:04:59,015 --> 00:05:01,506
 and issues that break the universe.
-宇宙が破壊されてしまうかも
+宇宙が破綻してしまうかも
 
 68
 00:05:01,531 --> 00:05:06,446
@@ -381,7 +381,7 @@ As scary as the event horizon is, it keeps us safe from that drama.
 69
 00:05:06,699 --> 00:05:09,771
 Whether you have survived this long doesn't really matter,
-今のあなたの生死は
+今やあなたの生死は
 実はどうでも良くて
 
 70
@@ -642,7 +642,7 @@ Like a rushing whirlpool of spacetime, the tide is irresistible
 00:08:19,129 --> 00:08:23,350
 and black hole makes you orbit it whether you want to or not.
 望もうと望むまいと
-近づくものはぐるぐる回しにされる
+ぐるぐる回しにされる
 
 117
 00:08:23,669 --> 00:08:29,416
@@ -812,7 +812,7 @@ There is no good concept for our brains to grasp these time scales.
 00:10:30,681 --> 00:10:34,053
 Will we ever truly understand black holes?
 ブラックホールを
-理解できるようになるのか
+真に理解でき
 
 147
 00:10:34,078 --> 00:10:36,478
@@ -827,7 +827,7 @@ No one knows.
 149
 00:10:38,209 --> 00:10:43,888
 We can only see their outsides, and the theories we have probably get their insides wrong.
-我らはまだ外側を見ることしかできず
+我々はまだ外側を見ることしかできず
 内側の理解は間違っているだろう
 
 150
@@ -876,7 +876,7 @@ you can do so by getting one of the many black hole related things the Kurzgesag
 158
 00:11:15,768 --> 00:11:21,646
 Like our Black Hole Infographic Poster that teaches you all the Black Hole basics.
-ブラックホールの全てお教えてくれる
+ブラックホールの全てを教えてくれる
 インフォグラフィックのポスターや
 
 159
