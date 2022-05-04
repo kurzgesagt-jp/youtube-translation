@@ -1,0 +1,772 @@
+﻿1
+00:00:00,000 --> 00:00:03,650
+A war has been going on for billions of years 
+数十億年も続いている戦争があり
+
+2
+00:00:03,650 --> 00:00:08,420
+that breeds well armed monsters, who struggle with other monsters for survival. 
+武装した怪物たちを生み
+生存をかけて戦わせている
+
+3
+00:00:08,420 --> 00:00:13,490
+Having no particular interest in us, most of them are relatively harmless,
+人類に特段の関心はなく
+ほとんどは比較的無害だ
+
+4
+00:00:13,490 --> 00:00:16,920
+as our immune systems deal with their weapons easily. 
+免疫系が彼らの武器を
+簡単に処理できる
+
+5
+00:00:16,920 --> 00:00:19,550
+But there are exceptions.
+だが、例外もある
+
+6
+00:00:19,550 --> 00:00:28,320
+Naegleria fowleri is an amoeba that has not only developed a deadly taste for human brains but is also a match for our defences
+Naegleria fowleriというアメーバは
+人間の脳を食べて死に至らせ、免疫系にも対応する
+
+7
+00:00:28,320 --> 00:00:31,100
+and stars in dramatic headlines. 
+劇的な見出しを飾るスターだ
+
+8
+00:00:31,100 --> 00:00:35,100
+What happens when this monster enters your body?
+この怪物が体内に侵入したら
+何がおきるのか？
+
+9
+00:00:42,940 --> 00:00:45,530
+Naegleria fowleri is an amoeba, 
+Naegleria fowleriはアメーバだ
+
+10
+00:00:45,530 --> 00:00:50,030
+a microbe with a nucleus, one of the smallest lifeforms on earth.
+核を持つ微生物であり
+地球上で最小の生物の一つだ
+
+11
+00:00:50,030 --> 00:00:56,850
+It is a voracious hunter of bacteria and other critters that it devours whole and rips into pieces.
+アメーバは、細菌や他の生物を丸のみして細断する
+獰猛なハンターだ
+
+12
+00:00:56,850 --> 00:01:02,440
+Like many amoebea it is able to transform into different stages that help it survive,
+他のアメーバと同様、Naegleria fowleriは
+生存のために変形できる
+
+13
+00:01:02,440 --> 00:01:06,630
+but most of the time Naegleria fowleri is in its trophozoite stage, 
+ほとんどの場合、Naegleria fowleriは栄養体で
+
+14
+00:01:06,630 --> 00:01:09,630
+during which it looks like a squishy blob with tiny arms 
+小さな腕を持つグニャグニャの塊で
+
+15
+00:01:09,630 --> 00:01:13,130
+and hunts, divides and thrives.
+それが狩り、分裂し、繁栄している
+
+16
+00:01:13,130 --> 00:01:18,380
+Its natural home is in fresh water: ponds, rivers, lakes and hot springs. 
+本来の生息場所は淡水で
+池、川、湖、温水などだが
+
+17
+00:01:18,380 --> 00:01:24,320
+ But unfortunately it also feels happy in pipes, swimming pools, fountains or spas 
+残念ながら、居心地のいい場所には
+パイプ、プール、噴水、温泉などもある
+
+18
+00:01:24,320 --> 00:01:26,460
+when they are not properly treated.
+適切な処置が無い場合だ
+
+19
+00:01:26,460 --> 00:01:30,140
+The warmer the water, the more it thrives and multiplies. 
+水温が高いほど
+盛んに繁殖していく
+
+20
+00:01:30,140 --> 00:01:34,050
+So in the summer, when humans seek to cool off and enjoy themselves, 
+だから、人間が涼しさと楽しさを求める夏は
+
+21
+00:01:34,050 --> 00:01:38,630
+the chances are highest that both species will interact.
+アメーバと遭遇する可能性が
+最大になるのだ
+
+22
+00:01:38,630 --> 00:01:40,650
+Because this makes it hard to avoid, 
+だから回避は難しく
+
+23
+00:01:40,650 --> 00:01:45,210
+millions of people regularly have contact with the amoeba, especially in warmer climates, 
+特に温暖な地域では数百万人が
+定期的に接触しており
+
+24
+00:01:45,210 --> 00:01:48,320
+and many people even seem to have antibodies against it.  
+その多くが抗体すら持たないようだ
+
+25
+00:01:48,320 --> 00:01:52,790
+And this is mostly ok, you can even swallow it without consequences.
+まあ概ね問題はなく
+水を飲んでさえ感染回避は可能だ
+
+26
+00:01:52,790 --> 00:02:00,610
+Things turn bad when people dive or swim in water contaminated with the amoeba and water splashes high up into their noses. 
+アメーバに汚染された水を泳いだり潜ったりして
+水が鼻の高さまでくると、事態は悪化する
+
+27
+00:02:00,610 --> 00:02:05,740
+In a single drop of lake water there are millions of viruses, bacteria and amoebea
+湖の水一滴には何百万という
+ウイルス、細菌、アメーバがいるが
+
+28
+00:02:05,740 --> 00:02:08,000
+and that isn’t really a big deal.
+大した問題ではない
+
+29
+00:02:08,000 --> 00:02:10,910
+But Naegleria fowleri is different. 
+だがNaegleria fowleriは違う
+
+30
+00:02:10,910 --> 00:02:17,160
+Let us zoom into the nose of an unsuspecting victim enjoying a great summer day and see what happens.
+夏の一日を楽しむ無防備な犠牲者の鼻を拡大し
+何が起きるか見てみよう
+
+31
+00:02:17,160 --> 00:02:21,980
+First of all, the amoeba doesn’t really want to be inside your nose 
+第一に、アメーバは望んで
+あなたの鼻に入ったのではない
+
+32
+00:02:21,980 --> 00:02:26,030
+as it is not really looking for trouble, it just wants to eat a few bacteria.  
+細菌を少し食べたいだけで
+
+トラブルは求めていないのに
+
+33
+00:02:26,030 --> 00:02:29,390
+Instead it is greeted by your natural defenses.  
+あなたの免疫系に出迎えられる
+
+34
+00:02:29,390 --> 00:02:37,530
+Unfortunately for humans, Naegleria fowleri happens to be exceptionally good at generally flying under the radar of your immune system.  
+困ったことに、Naegleria fowleriはなぜか
+免疫系のレーダーを潜り抜けるのが非常にうまい
+
+35
+00:02:37,530 --> 00:02:40,810
+For example, the inside of your nose is covered by mucosa, 
+例えば鼻の内側は
+粘膜に覆われ
+
+36
+00:02:40,810 --> 00:02:46,430
+a slime filled with chemicals that kill or stun possible invaders or alert immune cells.
+含まれる化学物質は侵入者を殺すか気絶させ
+免疫細胞へ警告する
+
+37
+00:02:46,430 --> 00:02:49,830
+But Naegleria fowleri is not particularly bothered by them 
+だがNaegleria fowleriは特に困らない
+
+38
+00:02:49,830 --> 00:02:55,350
+and instead calmly checks out the scenery, mildly annoyed about the whole ordeal.
+落ち着いて景色を眺めつつ
+この試練に少しイラつく程度だ
+
+39
+00:02:55,350 --> 00:02:57,470
+Now, if you are unlucky,
+もしあなたが不運なら
+
+40
+00:02:57,470 --> 00:03:02,210
+この微生物は
+興味をかきたてるものに出会う
+
+41
+00:03:02,210 --> 00:03:03,890
+: Nerve cells.
+神経細胞だ
+
+42
+00:03:03,890 --> 00:03:07,970
+Your nose is filled with a large network of olfactory nerve cells 
+鼻は嗅覚神経細胞の
+巨大ネットワークで満ち
+
+43
+00:03:07,970 --> 00:03:15,520
+that pick up molecules from the outside and transmit their information to your olfactory bulb, the center of smell in your brain.
+外界の分子を拾い、その情報を
+脳内の嗅覚中枢である嗅球に伝える
+
+44
+00:03:15,520 --> 00:03:20,070
+To do their job these cells talk to each other by releasing various messenger chemicals 
+神経細胞は任務遂行のために
+様々な伝達物質を出し
+
+45
+00:03:20,070 --> 00:03:23,590
+and recognizing them via specific receptors.  
+特定の受容体で認識して交流する
+
+46
+00:03:23,590 --> 00:03:27,870
+One of the most important of these chemicals is acetylcholine.
+特に重要な伝達物質が
+アセチルコリンだ
+
+47
+00:03:27,870 --> 00:03:30,300
+Through sheer evolutionary bad luck, 
+進化上の不運により
+
+48
+00:03:30,300 --> 00:03:35,700
+Naegleria fowleri happens to have receptors that recognize acetylcholine.  
+Naegleria fowleri は偶然にも
+アセチルコリン受容体を持っており
+
+49
+00:03:35,700 --> 00:03:41,470
+And it seems to attract them irresistibly, a little like moths that are attracted by light.
+その伝達物質に強く惹きつけられる
+
+光に蛾が集まるように
+
+50
+00:03:41,470 --> 00:03:47,140
+So as your olfactory nerve cells do their job, using plenty of acetylcholine to talk to the brain,
+嗅覚神経細胞が働くとき
+脳への伝達に多量のアセチルコリンが使われ
+
+51
+00:03:47,140 --> 00:03:49,680
+Naegleria fowleri enters your tissue. 
+Naegleria fowleriが
+組織に侵入するのだ
+
+52
+00:03:49,680 --> 00:03:52,950
+It seems to follow the chemical signals upstream.
+伝達物質の上昇流を追うように
+
+53
+00:03:52,950 --> 00:03:57,560
+Neutrophils, crazy suicide warriors begin to attack the amoebae. 
+狂気の特攻隊員である好中球が
+攻撃を始める
+
+54
+00:03:57,560 --> 00:04:00,000
+ Individually they have no chance against them 
+一対一では勝ち目はない
+
+55
+00:04:00,000 --> 00:04:05,600
+as the invaders are large and pretty buff fighters, used to dealing with tough enemies. 
+アメーバは大型の戦士で
+強敵との戦いに馴れているので
+（★buffは「研磨」から「手慣れた、熟練の」と解釈しました。そうすると後段と意味が重複するので、結局スルーしています）
+
+56
+00:04:05,600 --> 00:04:11,300
+ So the defenders swarm the intruders and kill them either by vomiting chemicals that punch holes into them
+好中球はアメーバに群がり
+身体に穴をあける化学物質を吐いたり
+
+57
+00:04:11,300 --> 00:04:15,230
+or by literally ripping parts of them off and devouring them. 
+身体の一部を切り取って
+食い荒らしたりして殺す
+
+58
+00:04:15,230 --> 00:04:20,680
+But the Naegleria fowleri train is still on track  and while the Neutrophil attacks slow them down, 
+だが、好中球の攻撃で遅れても
+アメーバは軌道に乗っており
+
+59
+00:04:20,680 --> 00:04:24,350
+they continue to follow the olfactory nerves to their final destination:
+嗅覚神経に沿って
+目的地に向かい続ける
+
+60
+00:04:24,350 --> 00:04:26,810
+Your brain.
+あなたの脳だ
+
+61
+00:04:26,810 --> 00:04:32,680
+This process can take between one and nine days and you’ll probably not notice anything during that time.  
+このプロセスには1～9日かかり
+その間はたぶん、何も気づかない
+
+62
+00:04:32,680 --> 00:04:38,510
+Until the amoebae reach the olfactory bulb, the center of smell and entrance to your brain.
+嗅覚の中枢であり、脳の入り口である嗅球に
+たどり着くまでの間だ
+
+63
+00:04:38,510 --> 00:04:41,340
+Your brain cells are nothing more than helpless victims 
+あなたの脳は無力な犠牲者であり
+
+64
+00:04:41,340 --> 00:04:45,770
+and they all release that wonderful acetylcholine.
+魅力的なアセチルコリンを
+わざわざ放出している
+
+65
+00:04:45,770 --> 00:04:52,290
+Naegleria fowleri initiates a massacre and releases an onslaught of various attack molecules.  
+Naegleria fowleriは大虐殺を始め
+様々な攻撃分子を猛烈に放出する
+
+66
+00:04:52,290 --> 00:04:58,930
+Some of them are basically little bombs that rip holes into your cells on contact so their pieces can be eagerly consumed. 
+分子の一部は、接触した細胞に穴を空ける小型爆弾で
+破片にむしゃぶりつける
+
+67
+00:04:58,930 --> 00:05:04,390
+But Naegleria fowleri is now multiplying - and it's also becoming really creepy. 
+ここで、このアメーバは増殖を始め
+いよいよバケモノじみていく
+
+68
+00:05:04,390 --> 00:05:11,160
+ In a feeding frenzy it can develop up to a dozen suckers called food cups, that look like giant eerie mouths. 
+食欲が暴走し、フードカップが1ダースも作られる
+巨大で不気味な、口のような吸盤だ
+
+69
+00:05:11,160 --> 00:05:18,240
+The amoebae engage your brain cells, suck them in and rip large “bites” out of them while they are still alive. 
+アメーバはあなたの生きた脳にとりつき
+吸い込み、嚙みちぎっていく 
+
+70
+00:05:18,240 --> 00:05:23,410
+Now things escalate quickly and the disease that will kill you sets in.
+事態は急速にエスカレートし
+死に至る病が発祥する
+
+71
+00:05:23,410 --> 00:05:31,810
+Alerted by the massacre, millions of immune cells, Neutrophils, Eosinophils and microglias invade the infected tissue. 
+大虐殺を受け、好中球、好酸球、ミクログリアが
+何百万と感染組織に侵入する
+
+72
+00:05:31,810 --> 00:05:37,490
+ Which is a problem: your immune system is dangerous and not exactly a careful fighter. 
+問題は、免疫系は本来危険なもので
+慎重には戦わないことだ
+
+73
+00:05:37,490 --> 00:05:41,630
+It's like burning down a forest to kill the wolves inside it
+森の中の狼を殺すのに
+森を焼き払うようなもので
+
+74
+00:05:41,630 --> 00:05:44,360
+ A really bad idea in the brain.
+脳においては最悪の発想だ
+
+75
+00:05:44,360 --> 00:05:51,810
+They waste no time and attack the amoeba, using all the weapons available to them, from chemicals to trying to eat them alive. 
+ただちに免疫系は攻撃を始める
+化学兵器から直接の捕食まで、あらゆる手段でだ
+
+76
+00:05:51,810 --> 00:05:56,660
+Neutrophils explode themselves to erect barriers spiked with deadly chemicals. 
+好中球は自爆し
+致死的な化学兵器を含むバリアを張る
+
+77
+00:05:56,660 --> 00:05:58,590
+A fierce battle ensues.
+壮絶な戦闘だ
+
+78
+00:05:58,590 --> 00:06:04,830
+Naegleria fowleri can actually fight back, itself attacking and killing many immune cells.
+Naegleria fowleriも反撃でき
+多くの免疫細胞を攻撃し死滅させる
+
+79
+00:06:04,830 --> 00:06:09,580
+The immune system now throws everything it has at the invader but in vain.
+免疫系は全てを侵略者にぶつけるが
+無駄に終わる 
+
+80
+00:06:09,580 --> 00:06:15,310
+The complement system, tiny protein bombs that can kill intruders on their own, are easily disabled. 
+
+侵入者を殺せる小さなタンパク爆弾
+「補体系」も容易に無効化される
+★1行目が補体系の説明であるというのが何か伝わりづらい気がして、カギカッコをつけました。
+
+81
+00:06:15,310 --> 00:06:20,020
+Antibodies, usually one of your superweapons, are just destroyed or swallowed. 
+超兵器のはずの抗体も
+ただ壊されるか飲み込まれる
+
+82
+00:06:20,020 --> 00:06:23,330
+A high fever that usually slows enemies down does nothing, 
+侵入者を鈍らせる高熱も無意味だ
+
+83
+00:06:23,330 --> 00:06:26,500
+as the amoeba actually thrives in the heat. 
+高温で繁栄しているのだから
+
+84
+00:06:26,500 --> 00:06:32,270
+All the while the amoebae continue to multiply, fight and devour your brain cells. 
+その間もアメーバは増殖し、戦い続け
+あなたの脳に齧り付いていく
+
+85
+00:06:32,270 --> 00:06:35,660
+A disastrous chain reaction is taking place.  
+悲惨な連鎖反応が生じる
+
+86
+00:06:35,660 --> 00:06:40,420
+One major thing your immune cells do when they fight is to cause inflammation.
+戦闘モードの免疫細胞は
+炎症を生じさせる
+
+87
+00:06:40,420 --> 00:06:45,150
+Which directs large amounts of fluid from your bloodstream into the site of an infection.  
+その結果、血管から大量の体液が
+感染部位に流れ込む
+
+88
+00:06:45,150 --> 00:06:50,590
+So as the battle rages on without a clear winner, more and more fluid enters the brain.
+決着が遅れるほど
+さらに体液が脳に流れ込んでいくのだ
+
+89
+00:06:50,590 --> 00:06:54,630
+At this point the human will feel symptoms that quickly escalate.  
+ここで人間は
+症状の急激な加速を感じる
+
+90
+00:06:54,630 --> 00:06:59,900
+It all begins pretty vaguely, a headache, fever, nausea and vomiting. 
+まずは漠然とした症状の
+頭痛、発熱、吐き気、嘔吐から始まり
+
+91
+00:06:59,900 --> 00:07:03,680
+ As the battle spreads rapidly through the brain serious symptoms appear, 
+脳内の戦闘が激化すると
+症状も深刻化する
+
+92
+00:07:03,680 --> 00:07:09,840
+from confusion, inability to concentrate to fatigue, seizures and hallucinations.  
+混乱、集中力の欠如、疲労、発作、幻覚などだ
+
+93
+00:07:09,840 --> 00:07:14,910
+The brain swells up massively but can’t expand due to the bones surrounding it. 
+脳は強く膨張するが
+頭蓋に囲まれ広がれないため
+
+94
+00:07:14,910 --> 00:07:19,870
+So it compresses and disables the brainstem that controls things like breathing.
+呼吸などを制御する脳幹が
+圧迫され機能しなくなる
+
+95
+00:07:19,870 --> 00:07:23,730
+Usually within a week the patient dies.
+通常、1週間以内に
+患者は死亡する
+
+96
+00:07:23,730 --> 00:07:28,770
+Up to 97% of patients infected by the amoeba share this fate. 
+このアメーバの感染者の97％が
+同じ運命をたどる
+
+97
+00:07:28,770 --> 00:07:33,310
+ In almost all cases, by the time an infection by Naegleria fowleri is recognized 
+ほぼ全てのケースで
+感染に気付くころには
+
+98
+00:07:33,310 --> 00:07:38,530
+ the disastrous battle for the brain is already so far along that there is almost nothing to be done.
+すでに脳内は苛烈な戦闘中で
+手遅れなことがほとんどだ
+
+99
+00:07:38,530 --> 00:07:41,670
+Not only do we currently not have effective treatments,
+有効な治療法が無いばかりか
+
+100
+00:07:41,670 --> 00:07:44,130
+there are also an abundance of open questions 
+未解決の謎が山積している
+
+101
+00:07:44,130 --> 00:07:51,720
+about how an amoeba that usually enjoys its life in open water, is able to overcome our immune system so effectively.
+淡水で生活するアメーバが
+人間の免疫系に見事に対処できる理由についてだ
+
+102
+00:07:51,720 --> 00:07:56,910
+So how worried do you need to be about this horrifying killer amoeba?
+では、この恐るべき殺人アメーバを
+どれだけ警戒すべきか！？
+
+103
+00:07:56,910 --> 00:07:58,580
+Well, not very. 
+まあ、そんなに
+
+104
+00:07:58,580 --> 00:08:03,600
+While the Naegleria fowleri is clearly extremely deadly and the infection truly horrible,
+Naegleria fowleri は明らかに極めて致死的だし
+感染は真の恐怖だが
+
+105
+00:08:03,600 --> 00:08:07,330
+there have only been a few hundred cases in the last few decades.
+過去数十年で数百件の報告しかない
+
+106
+00:08:07,330 --> 00:08:11,650
+You are way more likely to drown in a pool than to get infected. 
+プールで感染するより
+溺れる可能性の方が高い
+
+107
+00:08:11,650 --> 00:08:14,770
+Not only does the amoeba need to be flushed high up your nose,
+鼻の深くに付着するだけでなく
+
+108
+00:08:14,770 --> 00:08:20,220
+it also needs to get a good grip and it also has to make its way through the first lines of your defences.
+しっかり掴まり
+防御の第一線を通過する必要もある
+
+109
+00:08:20,220 --> 00:08:26,050
+Ultimately Naegleria fowleri is neither evil nor a huge public health risk.
+結局、Naegleria fowleriは
+悪魔でも公衆衛生上の巨大リスクでもない
+
+110
+00:08:26,050 --> 00:08:29,870
+But every year some unlucky people have to deal with it. 
+ただ毎年、不幸な人々が
+相手をさせられている
+
+111
+00:08:29,870 --> 00:08:31,950
+ We still have so much to learn about it 
+解明すべき点は多く
+
+112
+00:08:31,950 --> 00:08:34,020
+and until we find a way to treat it,
+治療法を見つけるまでは
+
+113
+00:08:34,020 --> 00:08:42,080
+Naegleria fowleri will continue to be this vague and horrifying thing, hunting in puddles and lakes and sometimes pools. 
+Naegleria fowleri は水たまりや池、
+たまにプールにいる脅威の怪物のままだ
+
+114
+00:08:42,080 --> 00:08:49,060
+Usually for bacteria. And very occasionally, for people.
+基本的には細菌への脅威だが
+極めて稀に、人間に牙をむくのだ
+
+115
+00:08:50,470 --> 00:08:53,820
+- Oh hey, who are you?
+「あれ、あなたは誰？」
+
+116
+00:08:53,820 --> 00:08:57,390
+It is me, your existential dread!
+「俺だよ、お前の実存的恐怖だよ」
+
+117
+00:08:57,390 --> 00:08:59,250
+- Uhm, ok.
+「ふーん、そう」
+
+118
+00:08:59,250 --> 00:09:04,230
+I'm here to make you question your own existence and everything you hold dear in life!
+「お前の実存や、大切なもの全てに
+疑念を抱かせてやろう」
+
+119
+00:09:04,230 --> 00:09:05,400
+- Could you not please.
+「やめておくれ」
+
+120
+00:09:05,400 --> 00:09:06,880
+Tooooooo late,
+「手遅れだ！」
+
+121
+00:09:06,880 --> 00:09:14,100
+ just look at all these amazing posters FULL of humbling visualisations like the scale of the universe.
+「この素晴らしい視覚化ポスターの数々を見ろ
+宇宙スケールのやつなんて屈辱的だ」
+
+122
+00:09:14,100 --> 00:09:18,860
+LOOK! How huge it is and how small you are! 
+「見ろ、宇宙がいかに大きく
+お前がどれだけ小さいかを！」
+
+123
+00:09:18,860 --> 00:09:26,590
+Look at the education edition, how it dives deep into the history of evolution or all these other scientific fields
+「学習用のシリーズも見ろ！進化の歴史など
+科学の諸領域に深く潜っている！」
+
+124
+00:09:26,590 --> 00:09:31,070
+to make you feel bad for all the stuff you don't know! 
+「自分の無知さにウンザリさせてくれるぞ」
+
+125
+00:09:31,070 --> 00:09:34,770
+Or look at this one, IT GLOWS IN THE DARK!
+「これを見ろ！暗闇で光るんだぞ！」
+
+126
+00:09:34,770 --> 00:09:37,830
+- But Dread, these do make me feel good actually!
+「でもね、僕はグッズが心地いいよ」
+
+127
+00:09:37,830 --> 00:09:42,600
+They do fill me with excitement and awe about how amazing our universe is 
+「宇宙の素晴らしさに
+興奮と畏敬の念で満たされるし」
+
+128
+00:09:42,600 --> 00:09:46,300
+and I love learning! And look how pretty they are!
+「それに学ぶのが好きだし！グッズは可愛いし！」
+
+129
+00:09:46,300 --> 00:09:50,530
+Nooooooooo, I can't persist in the presence of awe. 
+「ああああ！畏敬の念を抱かれたら敵わん！」
+
+130
+00:09:50,530 --> 00:09:53,470
+Graglgrglglg.
+「グワー」
+
+131
+00:09:53,470 --> 00:10:01,130
+If you too want to overcome your existential dread, make your life beautiful and also support Kurzgesagt
+あなたも実存的恐怖を克服し、人生を美しくし
+そしてKurzgesagtを応援し
+
+132
+00:10:01,130 --> 00:10:05,130
+so we can put thousands of hours into our videos and release them for free, 
+数千時間かけた動画の
+無料公開を支えたいなら
+
+133
+00:10:05,130 --> 00:10:11,280
+you can get these and many many more amazing posters or shirts or so many more things in our shop. 
+紹介した品や、素晴らしいポスターやシャツなどが
+公式ショップに多数あります
+
+134
+00:10:11,280 --> 00:10:14,500
+ We put as much care into our products as into our videos,
+動画と同じだけ
+製品に愛を注いでおり
+
+135
+00:10:14,500 --> 00:10:21,120
+trying to find something clever or a new angle that will challenge your perspective while still teaching you the core aspects. 
+上手い方法や新たな切り口を見出し
+本質を伝えながら視野を広げようとしています
+
+136
+00:10:21,120 --> 00:10:27,980
+It’s the best way to support what we do on this channel.
+ショップのご利用は
+このチャンネルの活動を支援する最良の方法です
