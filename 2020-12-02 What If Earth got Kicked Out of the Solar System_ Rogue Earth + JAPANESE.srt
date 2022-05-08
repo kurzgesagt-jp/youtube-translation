@@ -1,459 +1,540 @@
 1
 00:00:00,960 --> 00:00:04,541
-The night sky seems peaceful and orderly.
+平穏で秩序ある夜空
 
 2
 00:00:04,565 --> 00:00:11,071
-But in reality, stars are careening through the galaxy at speeds of hundreds of thousands of kilometers per hour.
+だが実際の天体は時速数十万kmもの速さで
+銀河を駆け回っている
 
 3
 00:00:11,095 --> 00:00:15,605
-Not bound by static formations but changing neighborhoods constantly.
+星々のまとまりに決まりはなく
+変化も続いている
 
 4
 00:00:15,629 --> 00:00:21,083
-Fortunately space is big, and so the stars of the Milky Way are very unlikely to hit us.
+幸い宇宙は広いので
+銀河の星々が地球に衝突する可能性は低い
 
 5
 00:00:21,270 --> 00:00:26,348
-Unfortunately, they don't have to hit anything to make us have a really bad time on earth.
+だが残念ながら、衝突しなくても
+地球は十分酷い目にあわされ
 
 6
 00:00:26,380 --> 00:00:31,014
-And there are already stars starting to get very close.
+そして、その星はすでに
+接近に向け出発しているのだ
 
 7
 00:00:38,633 --> 00:00:42,973
-To understand how dangerous stars are to us, we need to talk about gravity.
+星の危険性を理解するために
+まず重力について話そう
 
 8
 00:00:43,373 --> 00:00:47,660
-Gravity attracts every piece of matter to
-every other piece of matter in the universe.
+重力は宇宙の全ての物質を
+他の全ての物質へ引き寄せる
 
 9
 00:00:48,020 --> 00:00:51,973
-You are attracted by an atom a million light years away and vice versa.
+あなたは幾億離れた原子に引かれ
+その逆も然り
 
 10
 00:00:52,380 --> 00:00:57,706
-Luckily, this force gets weaker over distance
-and it also depends on how massive something is.
+幸い、重力の強さは距離によって減衰し
+またその質量にも依存する
 
 11
 00:00:58,013 --> 00:01:03,649
-So things that are close and are very massive are more attractive, winning the cosmic tug-of-war.
+つまり近くて重いものほど引きが強く
+宇宙の綱引きに勝利するのだ
 
 12
 00:01:03,835 --> 00:01:08,210
-This way, massive things define how smaller things behave around them.
+このように、重いものは軽いものの
+動きを左右してしまう
 
 13
 00:01:08,690 --> 00:01:13,408
-The sun makes up 99.75% of all the mass in the solar system
+太陽は太陽系内の質量の99.75%を占め
 
 14
 00:01:13,432 --> 00:01:17,291
- and so it shapes the behaviour and orbits of everything else in it.
+系内のすべての星の
+振る舞いや軌道を形成している
 
 15
 00:01:17,315 --> 00:01:22,398
-Billions of years ago, after the sun was born the solar system was a chaotic and dangerous place
+数十億年前、太陽誕生の直後
+太陽系は無数の破片が衝突を繰り返し
 
 16
 00:01:22,422 --> 00:01:26,348
- as the planets were formed from countless little pieces that collided constantly.
+惑星が形成される
+混沌とした危険な場所だった
 
 17
 00:01:26,372 --> 00:01:29,370
-But over the eons, a stable balance emerged.
+しかし悠久の時を経て
+安定が生まれる
 
 18
 00:01:29,636 --> 00:01:34,273
-Today most planets and asteroids have settled into safe and predictable orbits.
+今や多くの惑星や小惑星は
+予測可能な軌道に落ち着いている
 
 19
 00:01:34,639 --> 00:01:38,488
-We have the inner and outer planets, the asteroid and kuiper belt.
+内惑星と外惑星
+小惑星帯、カイパーベルトがある
 
 20
 00:01:38,513 --> 00:01:44,679
-And at the edge, the Oort cloud, a giant sphere
-of comets orbiting slowly in cold storage.
+端には彗星で構成される巨大な球形
+オールトの雲がゆっくりと周回している
 
 21
 00:01:45,060 --> 00:01:48,453
-We really don’t want this balance to be disturbed.
+この安定を崩したくはない
 
 22
 00:01:48,950 --> 00:01:55,108
-If another star came too close to us, it's gravity would pull on everything in the solar system like a spoiled toddler,
+だが星が近づきすぎると重力は駄々っ子のように
+太陽系のあらゆるものを引張り
 
 23
 00:01:55,132 --> 00:01:59,396
- messing up the pleasant order of the planets and asteroids and comets.
+天体たちによる心地よい秩序は
+台無しになるだろう
 
 24
 00:01:59,763 --> 00:02:02,001
-This isn't some imaginary danger.
+これは想像上の危険ではない
 
 25
 00:02:02,026 --> 00:02:09,441
-Some 70,000 years ago, a red dwarf, brown dwarf binary system, passed through the Oort cloud and messed things up.
+約7万年前、赤色矮星と褐色矮星の連星が
+オールトの雲を通りめちゃくちゃにしたことがある
 
 26
 00:02:09,609 --> 00:02:13,541
-It might even have sent a deadly onslaught of asteroids our way.
+致命的な隕石の嵐を地球に送った可能性も
 
 27
 00:02:13,565 --> 00:02:19,216
-But, it could take two million years until those visitors from the Oort cloud arrive in the inner solar system.
+まあオールトの雲からの届け物は
+到着に200万年かかるかもしれないが
 
 28
 00:02:19,590 --> 00:02:22,338
-But there's a much bigger problem on the horizon:
+更に大きな問題が彼方にはある
 
 29
 00:02:22,362 --> 00:02:29,086
-Gliese 710, a red dwarf with about half the mass of the sun, is currently headed towards the solar system.
+太陽の半分の質量を持つ赤色矮星「グリーゼ710」が
+現在太陽系に接近中だ
 
 30
 00:02:29,175 --> 00:02:35,173
-In about a million years it'll pass through the Oort cloud and become the brightest star in the night sky.
+約100万年後にはオールトの雲を通過し
+夜空で最も明るい星になるだろう
 
 31
 00:02:35,586 --> 00:02:39,651
-A close flyby like this would unfold over hundreds of thousands of years,
+このような接近飛行は
+何十万年にもわたって展開され
 
 32
 00:02:39,676 --> 00:02:44,155
- disrupting the orbits of millions of objects in the Oort cloud considerably.
+オールトの雲の多くの天体に
+影響を与えるだろう
 
 33
 00:02:44,179 --> 00:02:50,260
-If we are unlucky, it will trigger a new period of planetary bombardment, similar to the early solar system.
+運が悪ければ、初期の太陽系のように
+新しい隕石爆撃時代が幕を開け
 
 34
 00:02:50,526 --> 00:02:55,660
-The night sky could be filled with comets and asteroids raining down on the inner solar system.
+隕石で夜空は埋め尽くされ
+内惑星に降り注ぐかもしれない
 
 35
 00:02:56,033 --> 00:03:02,083
-The larger ones could cause Dinosaur level mass extinctions and would be bad for the stock market.
+大きな隕石は恐竜レベルの大量絶滅を引き起こし
+株式市場にも影響があるだろう
 
 36
 00:03:02,416 --> 00:03:09,585
-But it could get much worse. The galaxy is an intense place and stars get close to each other regularly.
+しかし、まだ最悪ではない
+銀河は激しい場所で星同士の接近も日常的だ
 
 37
 00:03:09,609 --> 00:03:17,108
-So it is possible that a star could come much closer and not just pass us but fly directly through the inner solar system.
+つまり星は太陽系を通り過ぎるだけでなく
+内惑星の軌道を直接通過する可能性もある
 
 38
 00:03:17,132 --> 00:03:19,856
-This would be very bad in the extreme.
+極端に言えば
+非常にまずい事態だ
 
 39
 00:03:20,516 --> 00:03:27,651
-The chance of another star colliding with the sun is astronomically unlikely, but that isn't what we're worried about.
+太陽に衝突する可能性こそ天文学的に低いが
+心配はそのことではなく
 
 40
 00:03:27,675 --> 00:03:34,670
-If another star were to pass by about as close as the earth is from the sun, it could easily eject the earth from the solar system.
+天体が太陽～地球と同等の距離を通過したら
+楽に地球を太陽系から放り出すことができる
 
 41
 00:03:35,023 --> 00:03:41,496
-The odds of such an event are estimated to be around 1/100,000 in the next five billion years.
+その確率は今後50億年で
+10万分の1程度といわれている
 
 42
 00:03:41,730 --> 00:03:44,358
-Small, but not absurdly so.
+小さいが、全くないわけじゃない
 
 43
 00:03:44,388 --> 00:03:48,445
-As we discussed in another video, there seem to be billions of rogue planets,
+前に動画も作ったが
+銀河には幾億のぼっちの惑星が
 
 44
 00:03:48,469 --> 00:03:52,186
-doing their own thing in the galaxy and this is one way to make them.
+孤独な旅の途中だが
+これが生まれる方法の1つだ
 
 45
 00:03:52,320 --> 00:03:57,393
-So if this were to happen with an average red dwarf, what would happen on earth?
+もし赤色矮星が接近したら
+どうなってしまうだろうか
 
 46
 00:03:57,826 --> 00:04:00,286
-Kicking Earth out of the Solar System
+【追い出された地球】
 
 47
 00:04:00,726 --> 00:04:05,518
-As the star enters the solar system a small orangish dot appears in the sky
+星が太陽系に入ると
+まず小さなオレンジ色の点が空に現れ
 
 48
 00:04:05,542 --> 00:04:10,141
- that grows bigger and brighter for months, eventually becoming visible during the day.
+それが何ヶ月もかけて成長し
+やがて日中も見えるようになる
 
 49
 00:04:10,166 --> 00:04:13,625
-It would get bigger and much brighter than the moon.
+そのうち月よりも大きく
+ずっと明るくなる
 
 50
 00:04:13,649 --> 00:04:16,168
-Too bright to look at directly.
+明るすぎて直視できないほどだ
 
 51
 00:04:16,192 --> 00:04:19,611
-The night sky would be filled with an eerie red glow.
+夜空は不気味な赤い輝きに包まれる
 
 52
 00:04:19,635 --> 00:04:22,661
-After a few months it would start shrinking again.
+数カ月後、また小さくなり始める
 
 53
 00:04:22,685 --> 00:04:24,365
-But so would the sun.
+だがそれは太陽も然り
 
 54
 00:04:24,390 --> 00:04:27,965
-Over a few years, the sun slowly grows smaller in the sky,
+数年後太陽は徐々に小さくなり
 
 55
 00:04:27,989 --> 00:04:31,411
- and with it warmth and light start to dissipate.
+温かみや明るさも失われていく
 
 56
 00:04:31,436 --> 00:04:37,243
-All around the world, as the days turn dark, the final winter of humanity would begin.
+日常が暗闇に没するにつれ
+世界中で人類最後の冬が始まる
 
 57
 00:04:37,663 --> 00:04:42,748
-The polar ice caps begin to grow and spread while plants shrivel and die.
+極地の氷冠は成長し
+植物はしぼみ枯れていく
 
 58
 00:04:42,772 --> 00:04:46,595
-Forrests freeze and animals die in droves.
+森林は凍りつき
+動物も大量死する
 
 59
 00:04:46,619 --> 00:04:53,253
-As the earth passes the orbit of Mars the average surface temperature has plummeted to near -50 C.
+地球が火星を通過する頃には
+地表の気温は-50℃近くまで下がっているだろう
 
 60
 00:04:53,535 --> 00:04:56,720
-From space, earth begins to look like an icy moon,
+宇宙から見ると
+地球は凍った月のようで
 
 61
 00:04:56,720 --> 00:05:01,290
-the blue-green surface becoming the pale grey-white of death.
+青と緑からなる表面は
+飾り気のない灰と白に埋め尽くされる
 
 62
 00:05:01,760 --> 00:05:05,663
-As global infrastructure breaks down, people huddle together indoors,
+世界のインフラが崩壊する中
+人々は屋内に身を寄せ
 
 63
 00:05:05,688 --> 00:05:09,300
- burning what they can for warmth as the temperature continues to drop,
+暖を取るため燃やせるものを燃やし
 
 64
 00:05:09,325 --> 00:05:13,575
- counting the days until they'll be out of food which no longer grows.
+既に育たぬ食料が尽きる日までの
+日数を数えている
 
 65
 00:05:13,599 --> 00:05:17,700
-Everybody living at the surface is living on borrowed time.
+地表に住むものは皆
+いずれ死ぬ定めにある
 
 66
 00:05:18,153 --> 00:05:24,195
-By the time earth reaches Jupiter's orbit surface temperatures sink to -150 C,
+木星軌道に到達する頃には
+気温は-150℃まで下がり
 
 67
 00:05:24,219 --> 00:05:28,033
- lower than the coldest ever recorded temperatures in Antarctica.
+南極の観測史上最低より低くなる
 
 68
 00:05:28,400 --> 00:05:32,659
-Needless to say by now almost everyone is dead.
+言うまでもなく
+すでにほとんどの人が死んでいるだろう
 
 69
 00:05:33,286 --> 00:05:39,320
-Without the energy from sunlight to evaporate water, clouds don't form and the water cycle stops.
+水を蒸発させる太陽のエネルギーがなければ
+雲は形成されず水の循環も停止する
 
 70
 00:05:39,600 --> 00:05:45,540
-The polar ice caps eventually touch at the equator, and the oceans become covered in a thick layer of ice.
+極地の氷冠はやがて赤道で接触し
+海は厚い氷の層に覆われる
 
 71
 00:05:45,826 --> 00:05:50,691
-As more and more of its heat leaks out more water freezes onto the bottom of the ice sheet;
+熱が漏れ出すにつれ
+氷床の底の水はますます凍りつき
 
 72
 00:05:50,716 --> 00:05:56,133
- the concentration of salt in the deep ocean grows, poisoning most animals that survived here.
+深海の塩分濃度は高まり
+そこに住む生物を毒するだろう
 
 73
 00:05:56,549 --> 00:06:03,090
-Although around hydrothermal vents communities of extremophiles might adapt even to these circumstances.
+熱水噴出孔の周りの微生物であれば
+このような環境にも適応できるかもしれない
 
 74
 00:06:03,618 --> 00:06:07,575
-Deep below the surface some bacteria would not notice much of any of this,
+地中奥深くの細菌たちは
+気づいてすらいないかも
 
 75
 00:06:07,600 --> 00:06:12,349
- as they are still kept warm by the radioactive decay of elements in the earth's core.
+地球の核由来の放射性崩壊による熱で
+保温がなされるためだ
 
 76
 00:06:12,943 --> 00:06:18,571
-As the earth reaches the orbit of Pluto and the Kuiper belt the sun is still the brightest star in the sky,
+冥王星やカイパーベルトの軌道に達したとき
+太陽は未だ最も明るい星だが
 
 77
 00:06:18,596 --> 00:06:22,650
- but it is one among many, with stars now visible during the day.
+それも星空の一部となり
+星は一日中見えるようになる
 
 78
 00:06:23,003 --> 00:06:26,978
-The temperature is now barely 40 C above absolute zero,
+気温は絶対零度よりわずかに40℃高いほどで
 
 79
 00:06:27,003 --> 00:06:30,613
- below the freezing temperature of the gasses in the atmosphere.
+大気中の気体すら凍りつく温度となった
 
 80
 00:06:31,385 --> 00:06:34,831
-A weird spectacle, enjoyed by no one unfortunately,
+奇妙で、残念がら誰も楽しめない光景だが
 
 81
 00:06:34,855 --> 00:06:39,588
- unfolds as the atmosphere turns into Nitrogen and then oxygen snow.
+大気の窒素や酸素まで雪となり降り注ぐ
 
 82
 00:06:39,809 --> 00:06:45,358
-Over a few years it is deposited into an icy 10 meter thick sheet all over the planet's surface,
+この降雪は地球全土へ
+数年かけて10mの厚さとなり
 
 83
 00:06:45,382 --> 00:06:48,123
- with only a thin whisper of gas remaining.
+あとは微かな気体だけが残るだろう
 
 84
 00:06:48,480 --> 00:06:52,493
-The frozen corpses of flora and fauna are buried beneath them.
+下には凍てついた動植物の死骸が埋まっている
 
 85
 00:06:52,613 --> 00:06:56,623
-As earth leaves the solar system it becomes a rogue planet.
+地球は太陽系を離れ
+自由浮遊惑星となる
 
 86
 00:06:56,803 --> 00:07:02,289
-Traveling alone through the dark.
-Lifeless and in solitude.
+暗闇をただ彷徨う
+生のない孤独の中にいる
 
 87
 00:07:02,590 --> 00:07:05,386
-But weirdly enough, there is hope.
+だが奇妙なことに
+まだ希望はある
 
 88
 00:07:05,760 --> 00:07:09,640
-Humanity would not be surprised by this potential extinction event.
+人類はこの絶滅の可能性を
+見過ごさないだろう
 
 89
 00:07:09,706 --> 00:07:12,918
-We'd notice it thousands of years in advance.
+むしろ何千年も早く気づくかもしれない
 
 90
 00:07:12,942 --> 00:07:17,053
-There is not a lot we could do to stop a star.
-But we could prepare.
+星は止められないだろう
+だが備えることは可能だ
 
 91
 00:07:17,360 --> 00:07:22,661
-Most of us would perish.
-But a few million could survive in huge artificial complexes,
+人類はほぼ滅びるが
+数百万人なら巨大な人口施設で生き延るだろう
 
 92
 00:07:22,686 --> 00:07:29,400
- powered by geothermal and nuclear energy, possibly even fusion if we can learn to use the ice around us for power.
+地熱や原子力を動力源とし
+氷を核融合に使うことも可能かもしれない
 
 93
 00:07:29,746 --> 00:07:33,650
-Here humanity might survive for hundreds of thousands of years.
+そこで人類は何十万年も
+暮らすことができるだろう
 
 94
 00:07:33,856 --> 00:07:40,361
-At some point we would become used to our circumstances and new generations would watch documentaries in disbelief,
+いつしか人類は環境に慣れ世代を重ね
+地表を歩けていた頃のドキュメンタリーを
 
 95
 00:07:40,386 --> 00:07:44,816
- about the time we had our own star and could walk the surface of earth.
+信じられないような気持ちで
+見るようになるかもしれない
 
 96
 00:07:45,169 --> 00:07:48,763
-And at some point we might decide to look for another home.
+別の故郷を探すことを
+決意するかも
 
 97
 00:07:48,788 --> 00:07:54,581
-If the earth were lucky enough to pass by another star with a habitable planet, we could try to make a fresh start.
+幸運にも居住可能な惑星の近くを通れば
+再出発を試すこともできるだろう
 
 98
 00:07:54,606 --> 00:07:59,300
-Spaceflight, oddly enough, would become very easy without the atmosphere in the way.
+宇宙への打ち上げも
+大気さえなければ簡単にできるのだ
 
 99
 00:07:59,580 --> 00:08:06,859
-So it's not unthinkable that the last survivors would leave earth behind and try again on a new planet, around a new star.
+だから最後の生き残りが地球を離れ
+新惑星にて再挑戦も考えられなくない
 
 100
 00:08:07,173 --> 00:08:14,410
-Maybe one day, thousands of years later, the descendants of humanity will tell legends about earth's ancient past.
+何千年も経ったある日、人類の子孫が
+地球という伝説の天体を語ることもあるかもしれない
 
 101
 00:08:14,705 --> 00:08:16,961
-Stories of our lost home.
+失われし故郷にまつわる
 
 102
 00:08:16,985 --> 00:08:24,776
-Of a mysterious icy planet, floating alone and empty through the dark of space.
+深淵たる虚空に浮かぶ
+氷の惑星の物語を
 
 103
 00:08:25,243 --> 00:08:30,823
-So basically the key to humanity's survival is learning about what we'll be dealing with.
+つまり人類が生き残るための鍵は
+対処すべきことへの学習なのです
 
 104
 00:08:30,848 --> 00:08:37,873
-Well, we'd better get cracking then.
-Our friends from brilliant are the perfect coaches on the way to becoming more science savvy.
+それじゃあ早速始めましょう
+Brilliant は科学のための完璧なコーチです
 
 105
 00:08:37,898 --> 00:08:42,420
-Brilliant is a problem-solving website and app that makes science accessible in a practical way.
+Brilliant は科学を学ぶための
+問題解決型サービスで
 
 106
 00:08:42,445 --> 00:08:48,853
-More than 60 interactive courses give you the tools to crack problems in maths logic and engineering all by yourself.
+60以上の対話的なコースが
+数学、論理学、工学を解くためのツールを提供します
 
 107
 00:08:48,878 --> 00:08:56,742
-Instead of a classic lecture format, brilliant uses storytelling code writing and hands-on problems to keep you entertained and engaged.
+Brilliant は退屈な講義形式ではなく
+興味を引く実践的な問題で楽しみながら学習できます
 
 108
 00:08:56,767 --> 00:09:03,583
-This way a small daily challenge can build up to real long-term understanding of science and achieving your STEM goals.
+このように日々チャレンジを積み重ね
+科学への理解と STEM 教育の目標に近づくのです
 
 109
 00:09:03,608 --> 00:09:12,994
-In a nutshell, brilliant surprises you and keeps you on your toes all while sneaking some knowledge into your head without your really noticing write up our annie really.
+つまり Brilliant は驚きときっかけを与え
+気づかないうちに知識を頭に忍び込ませるわけです
 
 110
 00:09:13,019 --> 00:09:18,039
-To get a fresh perspective on science go to brilliant.org/nutshell and sign up for free.
+科学への新たな視点は brilliant.org/nutshell へ
+無料サインアップをしてください
 
 111
 00:09:18,064 --> 00:09:24,600
-And there's an extra perk for kurtz out viewers the first 200 people to use the link get 20 off their annual membership,
+Kurzgesagt 視聴者には特別に
+200人まで年間20%オフのボーナス
 
 112
 00:09:24,625 --> 00:09:28,744
- which lets you view all the daily problems in the archives and unlock every course.
+すべてのコースを受講することができますよ
 
 113
-00:09:28,769 --> 00:09:34,875
-Brilliant helps you end your day a little smarter, still the best preparation for the future we can think of.
+00:09:28,792 --> 00:09:34,658
+Brilliant はあなたを賢くするのに役立ち
+それこそ考えうる最高の準備です
 
