@@ -19,7 +19,7 @@ Fortunately space is big, and so the stars of the Milky Way are very unlikely to
 Unfortunately, they don't have to hit anything to make us have a really bad time on earth.
 
 6
-00:00:26,372 --> 00:00:30,896
+00:00:26,380 --> 00:00:31,014
 And there are already stars starting to get very close.
 
 7
@@ -98,7 +98,7 @@ If another star came too close to us, it's gravity would pull on everything in t
 This isn't some imaginary danger.
 
 25
-00:02:02,025 --> 00:02:09,440
+00:02:02,026 --> 00:02:09,441
 Some 70,000 years ago, a red dwarf, brown dwarf binary system, passed through the Oort cloud and messed things up.
 
 26
@@ -294,7 +294,7 @@ As more and more of its heat leaks out more water freezes onto the bottom of the
 Although around hydrothermal vents communities of extremophiles might adapt even to these circumstances.
 
 74
-00:06:03,643 --> 00:06:07,600
+00:06:03,618 --> 00:06:07,575
 Deep below the surface some bacteria would not notice much of any of this,
 
 75
