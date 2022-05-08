@@ -1,935 +1,767 @@
 1
 00:00:00,930 --> 00:00:04,836
-Black holes are the most powerful and extreme things in the universe
 ブラックホールは宇宙でもっとも極端な存在で
 
 2
 00:00:04,861 --> 00:00:08,060
-and they are wildly weird and complicated.
 全く奇妙で複雑だ
 
 3
 00:00:08,162 --> 00:00:12,746
-What would happen if you fell inside one and what are they really?
 もし中に落ちたら？
 というか、そもそもなんなのだろうか？
 
 4
 00:00:19,826 --> 00:00:23,476
-First we need to talk about space and time:
 まず、空間と時間について知る必要がある
 
 5
 00:00:23,501 --> 00:00:29,169
-Space and time are the grand stage where the play of the universe unfolds.
 空間と時間は宇宙のための大舞台だが
 
 6
 00:00:29,194 --> 00:00:35,308
-But space isn't a fixed stage and time doesn't tick the same for everyone everywhere.
 空間は舞台のように固定されておらず
 時間の流れ方も場所によって異なる
 
 7
 00:00:35,332 --> 00:00:37,818
-In short, they are relative.
 要は、これらは相関性があるのだ
 
 8
 00:00:37,842 --> 00:00:43,765
-Matter bends space and bent space tells matter how to move.
 物質は空間を曲げ
 空間は物質の動き方を決める
 
 9
 00:00:43,789 --> 00:00:48,408
-Put some stars and planets on the stage, and it sags underneath them.
 恒星や惑星を置くと
 その下の空間は歪み
 
 10
 00:00:48,433 --> 00:00:54,146
-That misshapen stage, with all its little warps and dips, gives us gravity.
 その小さな歪みや凹みが
 重力を与えてくれるのだ
 
 11
 00:00:54,261 --> 00:00:59,256
-Black holes do not just bend the stage, they are like trap doors.
 だがブラックホールは舞台を曲げるに留まらず
 落とし穴となる
 
 12
 00:00:59,281 --> 00:01:04,201
-Places with so much mass that the universe formed a 'no-go' zone
 あまりにも大きな質量によって
 宇宙のルールは変更され
 
 13
 00:01:04,225 --> 00:01:06,526
-where the rules change.
 "立入禁止"が形成されるのだ
 
 14
 00:01:06,768 --> 00:01:10,875
-Most black holes form when very massive stars die.
 多くのブラックホールは
 巨大な星の死と共に生まれた
 
 15
 00:01:10,899 --> 00:01:15,586
-We explained this process in detail in our neutron star video
 過去の中性子星の動画でも詳しく説明したが
 
 16
 00:01:15,756 --> 00:01:19,878
-– all you need to know now, that in the final moments of really massive stars,
 巨星の本当に最後の瞬間
 
 17
 00:01:19,903 --> 00:01:24,143
-their insides implode, at nearly a quarter of the speed of light.
 その内部は光速の1/4の速度で崩壊し
 
 18
 00:01:24,335 --> 00:01:29,575
-This packs so much mass, so close together that it creates something so dense
 より多くの質量がまとまることで
 非常に密度の高い
 
 19
 00:01:29,599 --> 00:01:32,763
-that it sort of breaks the stage of the universe.
 宇宙のルールを破壊する
 モノとなった
 
 20
 00:01:32,866 --> 00:01:38,663
-A black hole with ten times the mass of the sun would be barely 60 kilometers across.
 ブラックホールは重さが太陽の10倍でも
 大きさはわずか60kmだ
 
 21
 00:01:38,790 --> 00:01:43,143
-If you look directly at a black hole it looks like... nothing.
 もしブラックホールを直視しても
 なにも見えないだろう
 
 22
 00:01:43,168 --> 00:01:46,598
-The space under their control is blocked by an invisible,
 その支配領域は見えない一方通行の
 
 23
 00:01:46,695 --> 00:01:49,832
-one-way border called the event horizon.
 事象の地平線という境界で遮られている
 
 24
 00:01:49,941 --> 00:01:53,163
-The event horizon forms a shell around a region of space that,
 事象の地平線は領域を囲む境界であり
 
 25
 00:01:53,202 --> 00:01:57,679
-once entered, is shielded from the rest of the universe forever.
 侵入する者は宇宙から永遠に隔離される
 
 26
 00:01:57,873 --> 00:02:03,728
-Because the black hole trap door deforms space so much, not even light can escape it.
 ブラックホールは空間を曲げすぎて
 光すら逃さない落とし穴と化している
 
 27
 00:02:03,753 --> 00:02:10,336
-And with nothing escaping to transfer information from the inside, it's impossible to tell what it really looks like.
 内側の情報は全く漏れ聞こえてこないため
 外観を知ることはできない
 
 28
 00:02:10,556 --> 00:02:14,413
-We still can observe black holes because of their effect on matter.
 それでも観察できるのは
 物質に影響を与えるからだ
 
 29
 00:02:14,438 --> 00:02:19,300
-Things can orbit black holes just as they can orbit the sun or a planet.
 太陽や惑星のように
 ブラックホールも物質を周回させる
 
 30
 00:02:19,325 --> 00:02:24,235
-Many black holes have discs of matter orbiting outside the event horizon.
 多くのブラックホールの外側を
 物質が円盤状に周回している
 
 31
 00:02:24,259 --> 00:02:26,871
-This matter can become incredibly hot
 これらは信じがたいほど熱く
 
 32
 00:02:26,895 --> 00:02:30,748
-as close orbits can speed this matter up to half the speed of light,
 軌道の近いものは光速の半分ほどまで加速し
 
 33
 00:02:30,772 --> 00:02:36,059
-and tiny amounts of friction and collisions between particles heat them to a billion degrees,
 粒子同士の摩擦や衝突により
 十数億℃まで加熱され
 
 34
 00:02:36,084 --> 00:02:41,396
-making the space around these black holes, ironically, incredibly bright.
 周囲を、皮肉なほど明るく照らしている
 
 35
 00:02:41,565 --> 00:02:46,403
-What would happen if you would try to get close, or even inside a black hole?
 近づいたり中に入るとどうなるだろうか？
 
 36
 00:02:46,434 --> 00:02:50,866
-First of all, you would see the strangest funhouse mirror in the universe.
 まず、宇宙一不思議な
 鏡のようなものを見るだろう
 
 37
 00:02:50,981 --> 00:02:53,718
-Matter isn't the only thing orbiting a black hole:
 ブラックホールでは物質のみでなく
 
 38
 00:02:53,742 --> 00:02:57,868
-gravity is so strong near them that light can orbit too.
 強力すぎる重力により光すらも周回している
 
 39
 00:02:57,893 --> 00:03:01,955
-If you hovered just outside the event horizon, at the photon sphere,
 もし事象の地平線のすぐ外側に浮いていたとしたら
 
 40
 00:03:01,980 --> 00:03:05,501
-in any direction you'd just see... yourself!
 たとえどの方向を向いても
 自分が見えるだろう
 
 41
 00:03:05,652 --> 00:03:11,988
-Straight ahead would be the back of your own head, as light from your back travels around the black hole to your eyes.
 自分が発した光が
 ブラックホールを回り目に入るためだ
 
 42
 00:03:12,012 --> 00:03:15,561
-Gravity also alters the passage of time itself.
 重力は時間の流れも変化させる
 
 43
 00:03:15,586 --> 00:03:18,960
-The stronger the gravity, the slower time passes.
 重力が強いほど
 時間の流れも遅くなる
 
 44
 00:03:18,985 --> 00:03:24,800
-While you watch the universe above you speed up, those far away will watch you in slow motion.
 宇宙の加速を眺めているあなたは
 観測者にはスローモーションに見える
 
 45
 00:03:24,961 --> 00:03:31,094
-If you chose to fly away from the black hole, you might find that eons have passed for the rest of the universe,
 もしブラックホールから旅立つとしたら
 外は悠久の時が経っていて
 
 46
 00:03:31,119 --> 00:03:37,386
-a freakish one-way time-travel trip to the future where your loved ones are long dead.
 愛する者もとうに亡くなった
 未来への時間跳躍を体験できる
 
 47
 00:03:37,660 --> 00:03:41,194
-But getting close to a black hole can be incredibly dangerous.
 ブラックホールに近づくのは
 危険なことだ
 
 48
 00:03:41,219 --> 00:03:44,620
-A painful death by 'spaghettification' awaits you.
 スパゲッティ化現象なる
 痛ましい死が訪れる
 
 49
 00:03:44,969 --> 00:03:47,998
-Because your feet are closer to the black hole than your head
 足は頭よりブラックホールに近いため
 
 50
 00:03:48,022 --> 00:03:52,173
-they feel a stronger pull of gravity, enough to pull you apart.
 下半身がモゲそうなほど
 重力で強く引っ張られる
 
 51
 00:03:52,315 --> 00:03:58,336
-As you descend it gets worse, the pulling gets stronger, your body squeezed thinner and straighter
 下降するほどに重力は強くなり
 体は細く長く絞られ
 
 52
 00:03:58,361 --> 00:04:04,880
-until you've been reduced to a thin stream of hot plasma, gobbled up in one final slurp, never to be seen again.
 最終的に細いプラズマとなり
 吸い込まれて二度とお目にかかれなくなる
 
 53
 00:04:05,023 --> 00:04:10,075
-Spaghettification is only a risk with smaller black holes, since they have much smaller radii.
 スパゲッティ化現象は
 小さなブラックホールにのみおきる
 
 54
 00:04:10,100 --> 00:04:14,340
-If you go to the center of a galaxy and find a supermassive black hole,
 銀河の中心にあるような
 超大質量ブラックホールなら
 
 55
 00:04:14,365 --> 00:04:17,800
-you might be able to experience crossing the event horizon.
 事象の地平線を越えられるかもしれない
 
 56
 00:04:17,969 --> 00:04:22,968
-As you approach the event horizon, a distant observer would think they never saw you enter it,
 あなたが中に入ろうとしても
 観測者はその瞬間を見ることなく
 
 57
 00:04:22,992 --> 00:04:25,321
-seeing you stop and fade.
 静止し消滅するのを目にする
 
 58
 00:04:25,346 --> 00:04:30,669
-The last light you emit trickling up and out, away from the event horizon.
 あなたが発した最後の光は
 事象の地平線からゆっくり洩れていく
 
 59
 00:04:30,756 --> 00:04:35,098
-Meanwhile, from your perspective the void of the black hole rises up to meet you,
 一方、あなたの視点では
 一部方向の光しか届かないため
 
 60
 00:04:35,123 --> 00:04:37,956
-as light from fewer directions can reach you.
 虚空に包まれるように見える
 
 61
 00:04:38,149 --> 00:04:42,898
-The blackness envelopes you until your only view of the universe you left
 暗闇に包まれ
 見えるものはわずか
 
 62
 00:04:42,922 --> 00:04:45,020
-is a tiny spot of light.
 点のような光だけになる
 
 63
 00:04:45,045 --> 00:04:49,711
-Here, inside the event horizon, space and time are so horribly broken
 事象の地平線内は
 空間も時間もしっちゃかめっちゃかで
 
 64
 00:04:49,735 --> 00:04:51,731
-that real time travel is possible,
 時間跳躍すら現実となり
 
 65
 00:04:51,756 --> 00:04:54,856
-so it's probably a good thing that nothing gets out.
 堅牢さに
 感謝するぐらいかもしれない
 
 66
 00:04:54,881 --> 00:04:58,991
-If anything could escape it could create all sorts of time travel paradoxes
 もし出られれば
 タイムパラドックスを引き起こし
 
 67
 00:04:59,015 --> 00:05:01,506
-and issues that break the universe.
 宇宙が破綻してしまうかも
 
 68
 00:05:01,531 --> 00:05:06,446
-As scary as the event horizon is, it keeps us safe from that drama.
 事象の地平線はそんなドラマから
 我々を守っているのだ
 
 69
 00:05:06,699 --> 00:05:09,771
-Whether you have survived this long doesn't really matter,
 ここまであなたが生存したとしても
 
 70
 00:05:09,795 --> 00:05:14,153
-as now there is only the certainty of crushing death in your near future.
 近く確実に圧死する
 未来が待っている
 
 71
 00:05:14,306 --> 00:05:18,518
-Inside the event horizon space time itself is so bent and warped,
 事象の地平線の中は時空が歪みすぎて
 
 72
 00:05:18,543 --> 00:05:22,238
-that whatever direction you move here, every "forward" you go,
 どの方向に前進したとしても
 
 73
 00:05:22,262 --> 00:05:25,331
-leads only towards the center of the black hole.
 ブラックホールの中心に向かってしまう
 
 74
 00:05:25,356 --> 00:05:29,271
-Trying to go any direction only brings you to the center faster.
 どの方向に行こうとしても
 より中心に進むだけだ
 
 75
 00:05:29,296 --> 00:05:33,030
-To survive the longest, you must do: nothing.
 長生きしたいと思ったら
 何もしない方がいい
 
 76
 00:05:33,161 --> 00:05:36,569
-In the center of the black hole, we find the singularity.
 ブラックホールの中心には
 特異点がある
 
 77
 00:05:36,594 --> 00:05:40,385
-A single point with all the matter that has ever crossed the event horizon,
 事象の地平線を越えてきた全ての物質は
 
 78
 00:05:40,409 --> 00:05:43,266
-all crushed to a point infinitely small.
 この無限小の点に集まっている
 
 79
 00:05:43,498 --> 00:05:50,166
-There is no memory of the things that made it as stuff disappears down the black hole trapdoor forever.
 物質だったころの情報は一切が消え去り
 永久に閉じ込められる
 
 80
 00:05:50,450 --> 00:05:53,063
-The singularity makes all things equal.
 特異点は全てのもの等しくする
 
 81
 00:05:53,226 --> 00:05:56,895
-This actually breaks the universe in really cool ways.
 このようにクールな方法で
 宇宙を壊しているのだ
 
 82
 00:05:56,920 --> 00:06:00,176
-We made a whole video about this problem if you want to learn more.
 詳しく知りたければ
 過去に動画も作ったが
 
 83
 00:06:00,331 --> 00:06:04,548
-But in a nutshell, everything that comes too close becomes black hole matter,
 要するに、近づいたものは
 ブラックホール物質となり
 
 84
 00:06:04,572 --> 00:06:07,236
-concentrated at the singularity.
 特異点に集中するのだ
 
 85
 00:06:07,488 --> 00:06:12,276
-This lack of a memory of its past, means that a black hole has only three properties:
 過去を忘却したブラックホールは
 性質がたった3つしかない
 
 86
 00:06:12,301 --> 00:06:15,625
-their mass, spin, and electric charge.
 質量、スピン、電荷だ
 
 87
 00:06:15,649 --> 00:06:17,833
-Everything else is lost.
 それ以外の全ては失われた
 
 88
 00:06:17,858 --> 00:06:20,859
-They're a lot like fundamental particles in that respect.
 その点は素粒子とよく似ている
 
 89
 00:06:20,972 --> 00:06:25,546
-This actually means that every single black hole in the universe is the same.
 つまり宇宙に数あるブラックホールは
 みな同じともいえる
 
 90
 00:06:25,650 --> 00:06:29,770
-Sure, their mass is different and some spin faster than others.
 確かに質量や回転速度は違うが
 
 91
 00:06:29,795 --> 00:06:33,856
-But If we were to put all the singularities into a magical physics museum,
 もし特異点を展示する
 博物館があれば
 
 92
 00:06:33,881 --> 00:06:36,770
-they would be identical, like electrons.
 電子のように均一に見えるはずだ
 
 93
 00:06:36,953 --> 00:06:43,423
-But just like fundamental particles, the properties of singularities are the best ways we can describe them on paper,
 しかしこれらの説明はあくまでも
 机上で表現できる最善にすぎず
 
 94
 00:06:43,473 --> 00:06:47,060
-rather than an accurate representation of reality.
 現実を正確に表してはいないだろう
 
 95
 00:06:47,321 --> 00:06:51,085
-Our current theories about the Universe, namely general relativity,
 現在の宇宙に関する理論
 「一般相対性理論」では
 
 96
 00:06:51,109 --> 00:06:54,386
-are just not able to describe or explain them.
 これらを説明できないのだ
 
 97
 00:06:54,848 --> 00:06:59,436
-The curvature of space becomes infinite, density becomes infinite,
 空間の曲率は無限大となり
 密度は無限大となり
 
 98
 00:06:59,461 --> 00:07:02,418
-and our rules just don't make sense.
 我々の理論の枠組みを越えている
 
 99
 00:07:02,442 --> 00:07:05,485
-The singularity has no surface or size,
 特異点は表面も大きさもなく
 
 100
 00:07:05,509 --> 00:07:09,164
-something like a divide-by-zero error in the universe.
 宇宙を0で割るとエラーになるようなものだ
 
 101
 00:07:09,189 --> 00:07:14,543
-So singularities might not even exist or be completely different things.
 つまり特異点は存在しないか
 全く別のものかもしれない
 
 102
 00:07:14,568 --> 00:07:17,858
-But this is all we know right now, from the best prediction we have,
 これらが現在知っていることの全てであり
 
 103
 00:07:17,882 --> 00:07:20,653
-from our best current theory of spacetime.
 現状最高の理論から導かれたものだ
 
 104
 00:07:20,813 --> 00:07:25,270
-Also, basically everything you've ever heard about black holes, even in this video,
 また、この動画を含め
 ブラックホールの話は数学上の都合で
 
 105
 00:07:25,295 --> 00:07:30,740
-is about theoretical black holes that aren't spinning, because their math is so much easier.
 回転していない理論上の存在として
 語られていることに留意しよう
 
 106
 00:07:31,024 --> 00:07:37,158
-But since black holes were born from dying stars that were spinning extremely quickly in their last moments, as far as we know,
 ブラックホールは死にかけの星が
 超高速回転しながら生まれたものなので
 
 107
 00:07:37,183 --> 00:07:40,760
-all black holes in the universe should be spinning right now.
 全てのブラックホールは回転しているはずだ
 
 108
 00:07:40,883 --> 00:07:45,333
-At incredible speeds too, up to 90 % the speed of light.
 それも光速の90%という驚異的な速さで
 
 109
 00:07:45,358 --> 00:07:51,506
-This means in reality, black holes are even more screwed up than they usually get credit for.
 つまり現実のブラックホールは
 理論上よりもさらにめちゃくちゃなのだ
 
 110
 00:07:51,918 --> 00:07:56,210
-The singularities of rotating black holes are even wilder.
 回転しているブラックホールの
 特異点はよりワイルドだ
 
 111
 00:07:56,361 --> 00:08:01,210
-The rotation causes them to swell outwards into a sort of ringularity.
 回転により膨らんだ点は
 リング状特異点と呼ぶべきものとなり
 
 112
 00:08:01,462 --> 00:08:06,106
-This rotation is so powerful, that space itself is dragged along.
 空間そのものを引きずるほどの
 驚異的回転力をみせる
 
 113
 00:08:06,260 --> 00:08:10,860
-This creates another region around spinning black holes, called the Ergosphere
 回転するブラックホールは
 どれだけ頑張っても静止できない
 
 114
 00:08:10,860 --> 00:08:14,526
-where it's impossible to stay still, no matter how hard you try.
 エルゴ球という空間を周囲につくりだす
 
 115
 00:08:14,704 --> 00:08:19,105
-Like a rushing whirlpool of spacetime, the tide is irresistible
 時空の渦が押し寄せ
 その潮流は逆らえず
 
 116
 00:08:19,129 --> 00:08:23,350
-and black hole makes you orbit it whether you want to or not.
 望もうと望むまいと
 ぐるぐる回しにされる
 
 117
 00:08:23,669 --> 00:08:29,416
-Ok. So what will happen with black holes as the universe ages and dies around them?
 なるほど、では宇宙の終わりには
 ブラックホールはどうなるのだろう
 
 118
 00:08:29,570 --> 00:08:34,799
-Again, we don't know but have some ideas based on our current understanding of physics:
 これもまたよくわからないが
 現状の理論から言えることもある
 
 119
 00:08:34,948 --> 00:08:36,808
-Hawking radiation.
 ホーキング放射だ
 
 120
 00:08:36,832 --> 00:08:42,353
-In quantum field theory the vacuum of space is boiling with quantum fluctuations.
 場の量子論によると真空の空間は
 量子的な揺らぎによって沸騰している
 
 121
 00:08:42,518 --> 00:08:47,458
-These fluctuations are creating matter and antimatter pairs of particles from nothing
 この揺らぎは何も無いところから
 物質と反物質を生み出し
 
 122
 00:08:47,483 --> 00:08:51,426
-which only exist for a very short time before annihilating.
 ほんの一瞬存在したあと
 消滅すると考えられている
 
 123
 00:08:51,625 --> 00:08:54,438
-When this happens near the event horizon of a black hole,
 ただ、事象の地平線のそばであれば
 
 124
 00:08:54,462 --> 00:08:58,673
-one of these particles can fall in, stopping them from annihilating.
 片方の粒子は吸い込まれるため
 他方は消滅を免れる
 
 125
 00:08:58,818 --> 00:09:02,158
-The escaping particle is Hawking radiation.
 こうして逃げ出した粒子が
 ホーキング放射だ
 
 126
 00:09:02,182 --> 00:09:05,771
-Ultimately, the mass of this particle must come from the black hole,
 これら質量の元は
 ブラックホールによるので
 
 127
 00:09:05,796 --> 00:09:10,110
-so over eons black holes will shrink and radiate away.
-幾星霜を経れば
+悠久の時を経れば
 ブラックホールは放射により縮むだろう
 
 128
 00:09:10,398 --> 00:09:13,778
-Hawking radiation is not the stuff that fell into the black hole,
 これらはブラックホールへの落下物ではなく
 
 129
 00:09:13,802 --> 00:09:16,895
-it's new stuff, stealing mass from it.
 質量を奪う別物なのだ
 
 130
 00:09:16,920 --> 00:09:21,991
-As the black hole shrinks the Hawking radiation gets stronger, faster and faster,
 ブラックホールが縮むにつれ
 ホーキング放射は強力になり
 
 131
 00:09:22,016 --> 00:09:27,788
-until what's left eventually evaporates in a flash of high energy radiation like a nuclear bomb.
 最終的には核爆発のような
 高エネルギーを放射し蒸発する
 
 132
 00:09:27,813 --> 00:09:30,136
-And then, nothing.
 あとには何も残らない
 
 133
 00:09:30,161 --> 00:09:32,868
-But that won't happen for a long long time.
 しかしそれはずっと未来の話だ
 
 134
 00:09:32,892 --> 00:09:38,641
-A black hole with the mass of our sun has a lifetime of 10^67 years.
 太陽と同じ質量のブラックホールの寿命は
 10の67乗年だ
 
 135
 00:09:38,666 --> 00:09:45,385
-Which means that it would take 10,000 billion, billion, billion, billion,billion, billion years,
 つまり、1万×10億×10億×10億×
 10億×10億×10億年かけて
 
 136
 00:09:45,410 --> 00:09:52,223
-to lose 0.0000001% of its mass.
 0.0000001%の質量しか失われない
 
 137
 00:09:52,438 --> 00:09:56,185
-But most black holes are way more massive than our sun.
 ほとんどのブラックホールは
 太陽より重く
 
 138
 00:09:56,209 --> 00:09:59,701
-The most massive supermassive black holes in the centers of galaxies
 銀河の中心の
 超大質量ブラックホールなら
 
 139
 00:09:59,726 --> 00:10:03,481
-have lifetimes of 10^100 years.
 その寿命は10の100乗年におよぶ
 
 140
 00:10:03,505 --> 00:10:05,546
-How long is that?
 どれだけ長いことだろう
 
 141
 00:10:05,691 --> 00:10:11,746
-Imagine an hourglass, filled with one grain of sand for every single particle in the universe.
 ある砂時計を想像しよう
 中は宇宙の粒子1つにつき砂粒1つが入っている
 
 142
 00:10:11,771 --> 00:10:17,086
-Every ten billion years one single grain of sand falls to the bottom.
 100億年に1度砂粒が
 1つ落ちてくる
 
 143
 00:10:17,209 --> 00:10:19,830
-If we waited for the entire sand to fall down,
 砂が全部落ちるのを見ていても
 
 144
 00:10:19,855 --> 00:10:24,486
-not even a percent of the lifetimes of these black holes would have passed.
 ブラックホールの寿命は
 1%も減っていないことになる
 
 145
 00:10:24,631 --> 00:10:30,280
-There is no good concept for our brains to grasp these time scales.
 これほどのスケールの時間を理解するのに
 我々の脳は役に立たない
 
 146
 00:10:30,681 --> 00:10:34,053
-Will we ever truly understand black holes?
 ブラックホールを
 真に理解できるようになり
 
 147
 00:10:34,078 --> 00:10:36,478
-Really know what's going on inside them?
 中の様子がわかる日は来るのか
 
 148
 00:10:36,502 --> 00:10:38,185
-No one knows.
 誰にもわからない
 
 149
 00:10:38,209 --> 00:10:43,888
-We can only see their outsides, and the theories we have probably get their insides wrong.
 我々はまだ外側を見ることしかできず
 内側の理解は間違っているだろう
 
 150
 00:10:43,913 --> 00:10:46,003
-But it's okay to not know everything.
 だが、それでいい
 
 151
 00:10:46,028 --> 00:10:48,765
-It just means there is still work to be done.
 それはまだ、やるべきことがあって
 
 152
 00:10:48,789 --> 00:10:53,550
-It means there are still mysteries to solve and big ideas to think about,
 解決すべき謎や
 考えるべきアイディアが残っているということ
 
 153
 00:10:53,575 --> 00:10:55,765
-which is why humans do science.
 だから人は科学をするのだ
 
 154
 00:10:55,789 --> 00:11:01,001
-In the end we at least can be sure that we still have plenty of time left to think about them
 少なくとも、最後のブラックホールが消え去る前に
 
 155
 00:11:01,026 --> 00:11:05,196
-before the last one melts away.
 それらを考える時間が
 あることはわかっているのだから
 
 156
 00:11:06,723 --> 00:11:09,416
-If you want to continue thinking about black holes,
 ブラックホールに思いを馳せるなら
 
 157
 00:11:09,441 --> 00:11:15,743
-you can do so by getting one of the many black hole related things the Kurzgesagt team made with love.
 チームが愛情を込めて作った
 ブラックホール関連グッズをお求めいただけます
 
 158
 00:11:15,768 --> 00:11:21,646
-Like our Black Hole Infographic Poster that teaches you all the Black Hole basics.
 ブラックホールの全てを教えてくれる
 インフォグラフィックのポスターや
 
 159
 00:11:21,671 --> 00:11:24,808
-Or our Choose Your Own Black Hole Adventure Poster
 あなたを壮大な旅に連れて行く
 
 160
 00:11:24,832 --> 00:11:29,038
-that takes you on a spectacular ride and might leave you in need of a cuddle.
 アドベンチャーのポスターなどです
 
 161
 00:11:29,062 --> 00:11:32,221
-In which case we made a Black Hole & White Hole Plushie.
 ブラック＆ホワイトホールの
 ぬいぐるみも
 
 162
 00:11:32,246 --> 00:11:37,320
-And if that's still not enough we also just released super comfy Space Socks,
 ほかにも超しっくりくる
 宇宙靴下や
 
 163
 00:11:37,320 --> 00:11:40,733
-very shiny Space Pins, a new Tote Bag & Pouch Set
 キラッキラの宇宙ピンズ
 バッグやポーチなど
 
 164
 00:11:40,758 --> 00:11:47,320
-and have many other great space related products that are all designed with love and care by us here at kurzgesagt.
 愛情を込めてデザインされた
 宇宙関連の商品が豊富にあります
 
 165
 00:11:47,320 --> 00:11:53,791
-Getting something from our shop is the best way to support kurzgesagt while getting something beautiful in return.
 これらの購入は素敵なお返しをうけながら
 チームをサポートする最良の方法です
 
 166
 00:11:53,816 --> 00:11:58,081
-Because of you we can keep making elaborate videos like the one you just watched,
 皆様のおかげでこのような
 凝った動画を作り続け
 
 167
 00:11:58,106 --> 00:12:00,541
-and release them for everyone.
 無料で公開できるのです
 
 168
 00:12:00,565 --> 00:12:03,890
-Thank you so much for your support!
 本当にありがとうございます
