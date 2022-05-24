@@ -1,472 +1,556 @@
 1
 00:00:00,698 --> 00:00:06,222
-Look around you. Where are you? Where is this place you are occupying?
+周りを見よう、今どこにいる？
+君が占めている場所はどこだろう？
 
 2
 00:00:06,247 --> 00:00:13,544
-Somewhere in a room, maybe in a city on a continent on a planet orbiting a star in a galaxy among billions.
+きっと部屋の中の、ある街の、大陸上の、惑星の
+宇宙を巡る星の数ほどある銀河のどこかだろう
 
 3
 00:00:13,569 --> 00:00:16,196
-But… where is all of that?
+でも…それってどこなんだろう？
 
 4
 00:00:16,221 --> 00:00:24,013
-While this may feel like a daft question, it turns out that the concept of an absolute position is something humans made up.
+馬鹿げた質問と思うかもしれないが
+絶対的な位置という概念は人間の想像にすぎない
 
 5
 00:00:24,038 --> 00:00:28,566
-In a nutshell, the universe is a big bag of space that has things in it.
+要するに宇宙とは大きな袋のようなもので
 
 6
 00:00:28,591 --> 00:00:35,716
-If someone removed all these things, the stars and planets and black holes and dust, there would just be empty space left.
+もし星やブラックホールとかを全部取り除いたら
+何もない空間だけが残るだろう
 
 7
 00:00:35,741 --> 00:00:39,655
-In empty space, the concept of having a position loses all meaning.
+空っぽの空間では位置という概念は
+意味をなさない
 
 8
 00:00:39,680 --> 00:00:43,590
-Empty space is uniform, the same everywhere.
+空っぽの空間は均一であり
+どこも同じだ
 
 9
 00:00:43,615 --> 00:00:47,518
-The space we occupy is not like a stage under our feet.
+我々が占める空間は
+足元の舞台とは違うものなのだ
 
 10
 00:00:47,543 --> 00:00:52,349
-We can't mark specific points, or staple something to spacetime as an anchor.
+空間に印をつけたり
+時空をホチキス留めしたりなんてできない
 
 11
 00:00:52,374 --> 00:00:55,650
-Without things there is no position.
+モノがなければ位置もない
 
 12
 00:00:55,675 --> 00:01:00,380
-We are really ever only at a position in relation to something else.
+我々は他の何かとの関係があってのみ
+そこにいると位置づけられる
 
 13
 00:01:00,405 --> 00:01:06,053
-Which also means that things we take for granted, like up and down are actually relative too.
+つまり当たり前だと思う上や下という考えも
+実は相対的なものだ
 
 14
 00:01:06,078 --> 00:01:11,524
-Ok, let us fill the universe up with things again and try to find out where you are, right now.
+よし、また宇宙をいっぱいにして
+自分が今どこにいるのか探ってみよう
 
 15
 00:01:11,549 --> 00:01:15,576
-Relative to everything else.
+他の何かとの関係をね
 
 16
 00:01:24,015 --> 00:01:28,912
-Let us start this video at a familiar place and then get increasingly weird.
+まずは見慣れた場所から始めて
+どんどん奇妙にしていこう
 
 17
 00:01:28,937 --> 00:01:33,579
-From your perspective the world is seemingly flat and you can move in 3 dimensions.
+君の視点では世界は平らに見え
+3次元空間上を動けるだろう
 
 18
 00:01:33,604 --> 00:01:36,511
-It's what physicists call a 'frame of eference'
+これは物理学者が
+基準座標系と呼ぶ
 
 19
 00:01:36,536 --> 00:01:40,616
- - the perspective you have of the universe and how you see things moving around you.
+自分の周りや宇宙が
+どう見えるのかを説明するものだ
 
 20
 00:01:40,641 --> 00:01:45,040
-Where your up and down is. Your frame of reference is correct.
+君の感じる上下は
+君の基準座標系にとって正しい
 
 21
 00:01:45,040 --> 00:01:49,015
-For you – but not for the rest of the universe.
+君にはね
+でも宇宙の他の存在にとっては違う
 
 22
 00:01:49,040 --> 00:01:55,159
-Around 5 kilometers from you, where the horizon begins, the ground noticeably curves away from you.
+地平線が始まる5km先から遠ざかるほど
+地面は明らかに曲がっていく
 
 23
 00:01:55,184 --> 00:01:59,551
-If you could see through the ground, you’d see people from below or sideways.
+もし地面を見通せたら
+人を下や横から見られるかも
 
 24
 00:01:59,576 --> 00:02:04,664
-But they don't fall 'down' off the planet because gravity doesn't actually pull them down.
+だが彼らは地球から落ちたりしない
+重力は"下向き"ではないからだ
 
 25
 00:02:04,689 --> 00:02:11,513
-'Down' is an illusion of your reference frame. To earth's reference frame, gravity just pulls in.
+「下」とは自分の基準座標系が生む錯覚で
+地球基準では重力はただ引き込むだけだ
 
 26
 00:02:11,538 --> 00:02:17,251
-But for humans there is an up and down because within our frame of reference that just makes sense.
+しかし人にとって理に適っているため
+人間は上下の概念をもつ
 
 27
 00:02:17,276 --> 00:02:22,005
-Which is also why we think that the planet itself has an up and down, north and south.
+そのため地球にすら上下があると考える
+北とか南のことだ
 
 28
 00:02:22,030 --> 00:02:29,151
-And we made our maps accordingly. But an observer looking at the solar system might disagree.
+この感覚に従い地図を作ったわけだが
+太陽系の観察者はこれに同意しないかもしれない
 
 29
 00:02:29,176 --> 00:02:34,267
-Our maps make sense to us because we are used to them, not because they are correct.
+地図が理に適って見えるのは見慣れているからで
+正しいからじゃない
 
 30
 00:02:34,292 --> 00:02:40,981
-Ok. So this is step one – your position on what feels like a flat surface but is actually a sphere.
+これが最初の一歩だ
+平らな場所にいると感じてもそこは実は球で
 
 31
 00:02:41,006 --> 00:02:45,061
-But this sphere is always moving, never staying in one position.
+この球は動き回っていて
+決して同じ場所に留まらない
 
 32
 00:02:45,086 --> 00:02:49,211
-Earth is orbiting a star, the sun at the center of the solar system.
+地球は太陽系の中心である
+太陽の周りを回っている
 
 33
 00:02:49,236 --> 00:02:55,920
-While we usually imagine this as pretty orderly, someone looking at us from the outside would see something pretty messy.
+星の運行には整然としたイメージがあるが
+実際はなんていうか結構ごちゃごちゃだ
 
 34
 00:02:55,945 --> 00:03:01,156
-To see this more clearly we’ll exaggerate all these movements, this is not to scale.
+もっとはっきり見るため
+ここからは全ての動きを誇張していこう
 
 35
 00:03:01,181 --> 00:03:03,923
-First of all, our orbit really is an ellipse,
+まず、我々の軌道は実は楕円で
 
 36
 00:03:03,948 --> 00:03:10,965
- so we spend half the year sinking a little bit closer to the sun speeding up, and half the year rising up a bit and slowing down.
+1年の半分は太陽に近づいて加速し
+もう半分は遠ざかって減速している
 
 37
 00:03:10,990 --> 00:03:15,696
-And the ellipsis itself changes its shape every 100,000 years too.
+楕円の形も10万年ごとに変化している
 
 38
 00:03:15,721 --> 00:03:21,047
-And in another cycle of 112,000 years, the ellipse itself is drifting – which at least creates a beautiful shape.
+また別の11万2千年のサイクルで
+楕円にはズレが生じており
 
 39
 00:03:21,072 --> 00:03:24,084
- – which at least creates a beautiful shape.
+とってもきれいな軌道を描いてもいる
 
 40
 00:03:24,109 --> 00:03:28,680
-In the end, we get an orbital path that looks like a wobbly circle with wavy edges.
+つまり縁が波打ったような
+不揃いな軌道になってしまうのだ
 
 41
 00:03:28,705 --> 00:03:32,951
-And it gets worse, as the moon now starts to screw things up too.
+さらに悪いことに
+今度は月が邪魔してくる
 
 42
 00:03:32,976 --> 00:03:36,863
-As the moon is a pretty massive thing, it pulls on earth.
+月はかなり大きな天体で
+地球を引っ張ってしまう
 
 43
 00:03:36,888 --> 00:03:44,014
-Both objects orbit their common center of gravity, that lies around 4700 km off to the side of Earth’s core.
+両者は地球の中心から4700km離れた
+共通の重心を中心に回っており
 
 44
 00:03:44,039 --> 00:03:50,695
-In practice this means that as the moon orbits earth, it is jerking earth around a bit, enough to make it jiggle.
+月が地球の周りを回るとき
+地球は月に少し振り回されるのだ
 
 45
 00:03:50,720 --> 00:03:53,920
-Ok so you are standing on the surface of a rotating planet,
+つまり君は回転する惑星の表面に立ち
 
 46
 00:03:53,920 --> 00:03:58,912
- that is jiggling around the sun in an elliptical orbit that changes a bit every year.
+太陽の周りを揺れ動きながら
+毎年変化する楕円の軌道の中にいる
 
 47
 00:03:58,937 --> 00:04:01,617
-But who's to say the earth is right?
+でも、なぜいつも地球が基準なのか
 
 48
 00:04:01,642 --> 00:04:06,071
-From the perspective of the sun the plane of the solar system is arbitrary,
+太陽系の平面という概念は
+恣意的なもので
 
 49
 00:04:06,096 --> 00:04:10,924
- it's defined as the plane the earth orbits in because that is convenient for us.
+地球の公転平面と同一視されているのは
+ただ都合がいいからだ
 
 50
 00:04:10,949 --> 00:04:15,840
-In reality the other planets are just a little bit inclined with respect to our plane.
+実際には他の惑星の軌道は
+我々の平面に対して少し傾いている
 
 51
 00:04:15,840 --> 00:04:20,135
-From their point of view, we're the ones with a slightly bent orbit.
+他の惑星からだと
+地球のほうが少し傾いて見えるわけだ
 
 52
 00:04:20,160 --> 00:04:22,721
-But this is not it – far from it!
+だが、これでも実態とは程遠い
 
 53
 00:04:22,745 --> 00:04:27,308
-The solar system as a whole is orbiting the center of the milky way galaxy.
+太陽系は天の川銀河の中心を基準に回っている
 
 54
 00:04:27,333 --> 00:04:30,683
-If we look at the milky way, we can clearly make out a galactic plane
+銀河系には銀河面という平面があり
 
 55
 00:04:30,707 --> 00:04:35,766
- in which the solar system orbits the center every 230 million years.
+太陽系はこの中を2億3千年周期で周回している
 
 56
 00:04:35,791 --> 00:04:38,375
-But of course it is not that simple.
+もちろんこれも単純な話ではない
 
 57
 00:04:38,400 --> 00:04:43,120
-First of all, the plane of the solar system is not aligned with the plane of the galaxy.
+まず太陽系の平面と銀河面の方向は
+一致していない
 
 58
 00:04:43,120 --> 00:04:48,069
-Nothing really is – just like the planets in the solar system orbit the sun on their own planes,
+太陽系内で惑星が太陽の周りを回るように
 
 59
 00:04:48,094 --> 00:04:51,453
- so do all the stars orbiting the galactic center.
+銀河の星々も銀河中心に対しそうしているが
 
 60
 00:04:51,478 --> 00:04:56,310
-The solar system as a whole is tilted about 60 degrees towards the galactic plane,
+太陽系は銀河面に対し約60度傾いており
 
 61
 00:04:56,335 --> 00:05:00,375
- speeding through space at almost a million kilometers per hour.
+時速約100万kmの速度で駆け抜けている
 
 62
-00:05:00,400 --> 00:05:05,554
-Someone in the center of the galaxy would see the orbits of the planets moving through space in a helix shape,
+00:05:00,400 --> 00:05:07,628
+銀河の中心から見れば
+惑星の軌道は螺旋を描いている
 
 63
-00:05:05,579 --> 00:05:12,055
- which you can imagine as a corkscrew motion, on the tilted plane of the solar system, relative to the plane of the galaxy.
+00:05:07,653 --> 00:05:12,055
+太陽系は相対的に銀河に対して傾いているため
 
 64
 00:05:12,080 --> 00:05:16,521
-This orientation in space means that sometimes the planets are sort of in front of the sun
+惑星は時折太陽よりも先行する
 
 65
 00:05:16,546 --> 00:05:18,988
- as it orbits around the galactic core.
+銀河中心を回りながらね
 
 66
 00:05:19,013 --> 00:05:21,641
-Let us just look at this for a moment
+ちょっと見てみよう
 
 67
 00:05:21,666 --> 00:05:26,661
- – there is a strange and eerie beauty abouthow our planets and the sun move through space.
+惑星や太陽が動く様子は
+奇妙でおかしな美しさがあるわけだ
 
 68
 00:05:26,685 --> 00:05:30,135
-Do you feel a bit dizzy? It gets worse.
+目眩がしてきたかな？
+もっと悪くなるよ
 
 69
 00:05:30,160 --> 00:05:37,249
-This is still not the whole story because the mass of the galactic disk is constantly pulling on the solar system too.
+今までの話が全てじゃない
+銀河円盤の質量は太陽系を常に引っ張っている
 
 70
 00:05:37,274 --> 00:05:42,589
-Like a drunk dolphin, we're diving down and shooting up hundreds of lightyears through the galactic plane,
+酔っ払ったイルカみたいに
+何百光年も浮き沈みしながら
 
 71
 00:05:42,614 --> 00:05:47,495
-ten times every orbit, along arcs thousands of light years long.
+1周ごと10回、何千光年もの弧を描きながら
+銀河を回っている
 
 72
 00:05:47,520 --> 00:05:53,983
-We haven’t mapped this motion out completely, as it takes the solar system tens of millions of years to go up and back once;
+この上下動は何千万年もかけて行われるもので
+実際に観測できたわけじゃない
 
 73
 00:05:54,008 --> 00:05:57,415
- and, well, humanity is not that old.
+人類はまだそれほど長生きしていないしね
 
 74
 00:05:57,440 --> 00:05:59,850
-Let’s look at your relative position again.
+自分の相対的位置を見てみよう
 
 75
 00:05:59,875 --> 00:06:03,744
-On a planet, tilted towards the sun, jiggled around by the moon.
+太陽から傾き、月に揺さぶられる惑星の
 
 76
 00:06:03,769 --> 00:06:11,278
-In a solar system tilted towards the galactic plane, moving forward in a helical shape, diving up and down through the plane.
+銀河面に対して傾き、螺旋に動き
+平面を上下動する太陽系に君はいる
 
 77
 00:06:11,303 --> 00:06:14,818
-Hm. But where is “up” in a galaxy?
+ふむ、でもどこが銀河の「上」なんだろう
 
 78
 00:06:14,842 --> 00:06:21,344
-At this point the frame of reference becomes a bit arbitrary and pointless because of the nature of the universe at this scale.
+この時点で基準座標系は少し恣意的で
+大規模な宇宙の性質から無意味になる
 
 79
 00:06:21,369 --> 00:06:27,367
-The Milky way is part of a galaxy group that appears to be part of greater structures like the Laniakea Supercluster,
+天の川銀河系はラニアケア超銀河団のような
+大きな構造の一部であり
 
 80
 00:06:27,392 --> 00:06:31,922
- which itself is part of the gigantic Pisces–Cetus Supercluster Complex
+それも、うお座・くじら座
+超銀河団コンプレックスの一部で
 
 81
 00:06:31,947 --> 00:06:39,093
- and finally a galactic filament that spans hundreds of millions of lightyears in all directions and orientations.
+それも何億光年にも渡ってあらゆる方向に広がる
+銀河フィラメントの一部にすぎない
 
 82
 00:06:39,118 --> 00:06:44,959
-Someone looking right at us from that far away will only see the End of Greatness.
+もし遥か遠くから我々を見る者がいれば
+彼が見るものは"エンド・オブ・グレイトネス"だけで
 
 83
 00:06:44,984 --> 00:06:48,635
-All stuff appears homogeneous, the same everywhere.
+全てのものは均質で
+同じに見えることだろう
 
 84
 00:06:48,660 --> 00:06:55,335
-Just like with empty space, when everything looks the same, who's to say anyone's view is better than anyone else's?
+空っぽの空間と同じく全てが均質なら
+どの視点は他より良いとかダメとか決めようがない
 
 85
 00:06:55,360 --> 00:06:59,920
-We have reached the end of our little exercise in cosmic humility.
+さて、我々も宇宙的謙遜という
+訓練の終わりに到達した
 
 86
 00:06:59,945 --> 00:07:01,592
-Let us make the journey backwards again.
+今度は逆から辿ろう
 
 87
 00:07:01,616 --> 00:07:07,242
-From the indescribably large, to the really large, to our galactic home, to our galaxy,
+超々大きな構造から、本当に大きな構造へ
+超銀河団から我々の銀河へ
 
 88
 00:07:07,267 --> 00:07:11,994
- to the solar system diving up and down through the milky way, to the jiggle of existence.
+銀河系内を上下動する太陽系から
+ゆらゆらした存在へ
 
 89
 00:07:12,019 --> 00:07:17,495
-And finally, back to you, right now, watching this video.
+そして今、この動画を見ている君の元へ
 
 90
 00:07:17,520 --> 00:07:20,792
-If this is all a bit much, don’t feel bad.
+これが過剰に思えても
+気分を悪くしないで
 
 91
 00:07:20,816 --> 00:07:23,267
-The scale of the universe is brain crushing
+宇宙の規模ってヤバいし
 
 92
 00:07:23,292 --> 00:07:28,660
-and trying to keep track of how everything is oriented or decide where the best up and down is, is hard.
+全ての向きをなぞったり
+どの方向がベストか決めたりするのは難しい
 
 93
 00:07:28,685 --> 00:07:32,000
-But it doesn't really matter. Because it doesn't change where you are.
+でも気にしないで
+君の居場所は変わらない
 
 94
 00:07:32,000 --> 00:07:37,223
-You're already in the best spot you could possibly be – right here, right now.
+君はすでに今現在最高の場所にいる
+この場所、この時に
 
 95
 00:07:37,248 --> 00:07:45,642
-For all you care nothing can stop you from being right at the center of your own little universe.
+すでに君が自分の小さな宇宙の真ん中にいることを
+止められる者などいないのだから
 
 96
 00:07:46,240 --> 00:07:48,398
-Perspective really is everything.
+全てはものの見方次第です
 
 97
 00:07:48,422 --> 00:07:54,213
-That is true for the universe we all inhabit, but even more so within your personal universe.
+それは宇宙にも言えることですが
+あなた個人の宇宙にはなおさらです
 
 98
 00:07:54,238 --> 00:07:59,020
-The way your life will unfold also depends on what you consider possible.
+人生がどう展開するかは
+何が可能だと考えるかによるのです
 
 99
 00:07:59,045 --> 00:08:05,908
-Take us at Kurzgesagt: our passion is to spark curiosity for science and make videos for free.
+我々の情熱は科学への好奇心を刺激する
+無料の動画を作ることですが
 
 100
 00:08:05,933 --> 00:08:11,680
-But this is not a great business model so we began to create our own lines of science posters,
+これはビジネスとして成り立ちません
+そこで我々はポスターや
 
 101
 00:08:11,680 --> 00:08:17,495
-calendars and fun kurzgesagt merch - pieces of Kurzgesagt - that you can take home and touch.
+カレンダーなどの楽しいグッズを作り始め
+家に持ち帰れるようにしました
 
 102
 00:08:17,520 --> 00:08:22,357
-And we are doing this with Shopify, who also were so kind as to sponsor this video
+我々はそれをこの動画のスポンサーである
+Shopify とやっています
 
 103
 00:08:22,382 --> 00:08:26,375
- – which delighted us because we have been using their platform for years now.
+ずっと前から使っている
+オンラインショッププラットフォームです
 
 104
 00:08:26,400 --> 00:08:30,720
-Shopify is an e-commerce platform that allows you to start and grow your business.
+Shopify は個人ビジネスのための
+プラットフォームです
 
 105
 00:08:30,720 --> 00:08:34,382
-And by starting a business, we really do mean from scratch:
+本当にゼロからビジネスを始められます
 
 106
-00:08:30,720 --> 00:08:34,375
- if you want to sell your handmade ceramic mugs out of your bedroom today, you can.
+00:08:34,407 --> 00:08:39,086
+もし手作りのマグカップを売りたいと思えば
+もちろん可能です
 
 107
 00:08:39,111 --> 00:08:43,237
-But not just that – if you want to scale your one-man show to a sizeable team,
+もしお店の規模をスケールアップしたければ
 
 108
 00:08:43,261 --> 00:08:46,615
- then Shopify has the tools to support you on your journey.
+Shopify はその旅をサポートしてくれるでしょう
 
 109
 00:08:46,640 --> 00:08:48,678
-Now you just have to get started:
+ただ始めるだけで大丈夫
 
 110
 00:08:48,702 --> 00:08:54,162
- go to shopify.com/kurzgesagt to get a free 14 day trial.
+shopify.com/kurzgesagt で
+14日の無料トライアルをお試しいただけます
 
 111
 00:08:54,187 --> 00:09:00,935
-If you think that this does not apply to you and your ideas are too small, we want to encourage you to think again:
+もし「自分のアイディアは小さすぎる」と思うなら
+考え直してほしいのです
 
 112
 00:09:00,960 --> 00:09:07,117
- the first video on this channel was a university project and Kurzgesagt itself was a creative outlet.
+kurzgesagt の第一作は大学のプロジェクトで
+当時はただの創造性のはけ口でした
 
 113
 00:09:07,142 --> 00:09:11,607
-Eventually we grew into a business and the team that is making videos for you today.
+それがやがてビジネスへと成長し
+立派なチームとなりましたが
 
 114
 00:09:11,632 --> 00:09:15,175
-And all of that just because we wanted to try out something new.
+我々はただ新しいことに
+挑戦したかっただけで
 
 115
 00:09:15,200 --> 00:09:21,679
-This is exactly the sort of thing that Shopify is determined to support and you can build your own thing with it.
+この成長こそ Shopify が
+サポートしたいことなのです
 
 116
 00:09:21,704 --> 00:09:29,283
-After all, whetheryour idea is still just a dream or might turn into a plan today is also just a matter of perspective.
+あなたのアイディアがただの夢なのか計画なのか
+それもまた単なる視点の問題なのです
 
 117
 00:09:29,308 --> 00:09:37,078
-Millions of businesses in over 175 countries are currently using Shopify to sell their products and we are one of them.
+我々を含む175国以上の多くのビジネスが
+Shopify で商品を販売しています
 
 118
 00:09:37,103 --> 00:09:44,176
-Thanks to them for helping us get here and thanks to all of you for making our channel possible.
+そして我々のチャンネルを可能にしてくれている
+全ての皆さんに感謝しています
 
