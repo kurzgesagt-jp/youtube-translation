@@ -345,7 +345,7 @@ for the toddler, to the Future doesn't exist and it hates hard work.
 62
 00:04:38,070 --> 00:04:42,850
 So when it notices a trigger, it steers you to take this easy road inside your brain 
-だからトリガーに気づくと
+だからトリガーに気づくと
 脳内の容易なルートへと誘導される
 
 63
@@ -363,12 +363,11 @@ If you get coffee, the toddler also wants the cookie, just because that’s what
 00:04:51,570 --> 00:04:55,840
 This rewarding feeling is also how most of your bad habits started: 
 あなたの悪い習慣のほとんどは
-
 この報酬の感覚に始まる
 
 66
 00:04:55,840 --> 00:05:01,110
-chocolate is tasty, browsing reddit is occasionally mildly entertaining.   
+chocolate is tasty, browsing reddit is occasionally mildly entertaining.   
 チョコレートは美味しいし
 redditはたまに少し楽しい 
 
@@ -386,6 +385,7 @@ Rewarding feelings associated with an action demand to be repeated
 
 69
 00:05:10,110 --> 00:05:13,120
+and so a bad habit is born. 
 こうして悪い習慣が生まれる
 
 70
@@ -460,7 +460,7 @@ Especially because small changes can do a lot over months and years.
 
 82
 00:06:08,810 --> 00:06:11,410
-How To Build a Habit 
+How To Build a Habit 
 【習慣の構築方法】
 
 83
@@ -496,10 +496,8 @@ and then use your toddler to help initiate the action effortlessly.
 88
 00:06:31,280 --> 00:06:36,540
 Let us say, you want to work out to be fitter, a very common goal.   
-
 健康のために身体を鍛えたいとしよう
-
-ごく一般的な例だ
+ごく一般的な目標だ
 
 89
 00:06:36,540 --> 00:06:41,560
@@ -611,7 +609,7 @@ ideally every day.
 
 108
 00:07:59,260 --> 00:08:03,310
-Don’t get this wrong, the squats will still take you energy to do –
+Don’t get this wrong, the squats will still take you energy to do –
 もちろん、スクワット自体には
 エネルギーが必要だ
 
@@ -623,6 +621,7 @@ Don’t get this wrong, the squats will still take you energy to do –
 
 110
 00:08:10,940 --> 00:08:14,100
+While this is simple, it is not easy. 
 単純だが、実行は容易ではない
 
 111
@@ -663,13 +662,12 @@ Civilizationのロード時間に
 
 118
 00:08:44,180 --> 00:08:47,280
-You need to figure out what works for you. 
-
+You need to figure out what works for you. 
 自分のやり方を見出す必要がある
 
 119
 00:08:47,280 --> 00:08:49,440
-In principle,　that's it. 
+In principle,　that's it. 
 基本的に、これだけだ
 
 120
@@ -746,15 +744,18 @@ Even if you only end up doing a little more good stuff or a few new things, that
 
 133
 00:09:44,920 --> 00:09:47,620
+Being a little bit more healthy or knowledgable
 少し健康に、物知りになることは
 
 134
 00:09:47,620 --> 00:09:52,560
-不満を持ちながら変われないことの
-100万倍いいことだ★million timesは比喩でしょうが、直訳すると面白いニュアンスが出ました）
+ is a million times better than being unhappy about a thing and changing nothing. 
+ 不満を持ちながら変われないことの
+100万倍いいことだ
 
 135
 00:09:52,560 --> 00:09:59,520
+In the end, change is a direction, not a destination. 
 結局のところ
 変化とは目的地ではなく、方向性のことなのだ
 
@@ -800,7 +801,7 @@ The idea is for you to track your habit progress for your desired behavior.
 
 143
 00:10:33,190 --> 00:10:38,100
-There is a tutorial part which guides you through the hardest part of the process step by step.   
+There is a tutorial part which guides you through the hardest part of the process step by step.   
 最も難しい部分を一歩ずつ案内してくれる
 チュートリアルがあり
 
@@ -841,11 +842,11 @@ however small or big it may be.
 
 150
 00:11:11,880 --> 00:11:17,640
-Getting things from our shop is the best way to support Kurzgesagt and what we try to do here on the channel. Thank you for watching. 
+Getting things from our shop is the best way to support Kurzgesagt and what we try to do here on the channel. Thank you for watching. 
 ショップでのご購入はKurzgesagtと
 その活動を応援する最良の方法です
 
 151
 00:11:17,640 --> 00:11:19,940
-Thank you for watching. 
+Thank you for watching.
 ご視聴ありがとうございました
