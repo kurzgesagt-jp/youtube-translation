@@ -1,604 +1,687 @@
-﻿1
+1
 00:00:00,480 --> 00:00:03,360
-The future of humanity seems insecure.
+人類の未来は不安定だ
 
 2
 00:00:03,385 --> 00:00:09,848
-Rapid climate change, political division, our greed and failings make it hard to look at our species with a lot of optimism
+気候変動や政治的分裂、生来の貪欲さにより
+人類について楽観を持つことは難しく
 
 3
 00:00:09,872 --> 00:00:12,828
-and so many people think our end is in sight.
+人類の終わりが見えてきたかのようだ
 
 4
 00:00:12,852 --> 00:00:16,181
-But humans have always thought they lived in the end times.
+だが人類はいつの時代もそう感じてきた
 
 5
 00:00:16,206 --> 00:00:22,535
-Every generation assumes they’re important enough to witness the apocalypse and then life just goes on.
+どの世代も自分は終末を生きる
+特別な存在だと思い込んだが、普通に生き延びた
 
 6
 00:00:22,560 --> 00:00:25,280
-This is a problem because it leads to short term thinking
+これは問題だ
+短絡的な思考に繋がり
 
 7
 00:00:25,306 --> 00:00:30,376
-and prevents us from creating the best world for ourselves and our descendents.
+我々や子孫のために良き世界を作る妨げとなる
 
 8
 00:00:30,401 --> 00:00:36,881
-What makes this worse is that we may actually BE living at an extremely critical moment in human history.
+しかし実際、我々は人類史上極めて重要な時期に
+生きているかもしれない
 
 9
 00:00:36,906 --> 00:00:42,175
-To understand why, let us look at the temporal window of humanity and ask:
+それを理解するため、人類の時間軸に着目し
+こう問いかけてみよう
 
 10
 00:00:42,200 --> 00:00:47,899
-When will the last human be born and how many people will there ever be?
+最後の人類はいつ生まれ
+それまで何人が誕生するだろうか
 
 11
 00:00:55,360 --> 00:01:01,705
-These sorts of estimates come with a lot of uncertainties, so please take them with a gigantic grain of salt.
+この種の推定には多くの不確実性が伴うが
+どうか話半分で聞いてほしい
 
 12
 00:01:01,729 --> 00:01:07,381
-To get a sense of how many people there will be, let us see how many have already lived.
+将来生まれる人類の感覚をつかむため
+現在までの人の数をみていこう
 
 13
 00:01:07,405 --> 00:01:10,821
-Modern humans arose some 200 thousand years ago.
+現代人は約20万年前に誕生した
 
 14
 00:01:10,846 --> 00:01:15,301
-They were uniquely good at making tools, telling stories, thinking abstractly,
+彼らは道具を作成し、物語を語り
+抽象的な考えを持ち
 
 15
 00:01:15,326 --> 00:01:19,655
-planning and working together in large groups beyond their close family.
+計画を立て、集団で共同作業できる
+優れた能力があった
 
 16
 00:01:19,680 --> 00:01:22,081
-Still there were not that many of us.
+だが人口は多くなかった
 
 17
 00:01:22,105 --> 00:01:28,545
-Surpluses in food were sparse, survival was hard, life expectancy was low.
+食料の余剰はまばらで、生存は難しく
+期待できる寿命も短かった
 
 18
 00:01:28,570 --> 00:01:33,415
-It took us 150,000 years to grow to a population of 2 million.
+人口が200万人となるまで15万年かかっている
 
 19
 00:01:33,440 --> 00:01:38,235
-Improvements were gradual and eventually led to the agricultural revolution,
+状況は徐々に改善され
+最終的には農業革命へとつながる
 
 20
 00:01:38,260 --> 00:01:41,375
-arguably the biggest change in our history.
+人類史上最大の変化だ
 
 21
 00:01:41,399 --> 00:01:44,106
-This was when our numbers really started growing.
+この時こそ人口増加の開始点だった
 
 22
 00:01:44,132 --> 00:01:47,803
-It took ten thousand more years to get to 300 million.
+それから3億人までは1万年しか
+かかっていない
 
 23
 00:01:47,828 --> 00:01:51,368
-But that increase was dwarfed by the industrial revolution.
+しかし産業革命における影響は
+この比ではない
 
 24
 00:01:51,392 --> 00:01:54,563
-In 1800 there were a billion of us.
+西暦1800年には10億人となったのだ
 
 25
 00:01:54,588 --> 00:02:00,095
-The human population doubled in just 120 years and then again in fifty.
+それから人口はわずか120年で倍となり
+さらに50年で再び倍となった
 
 26
 00:02:00,119 --> 00:02:02,935
-Today, we number around 8 billion.
+現在では約80億人である
 
 27
 00:02:02,960 --> 00:02:09,378
-In total, over the last two hundred thousand years about 117 billion humans were born and lived,
+この20万年間で約1170億人の人類が生まれ
 
 28
 00:02:09,403 --> 00:02:12,311
-and 109 billion also died.
+1090億人が死んだことになる
 
 29
 00:02:12,335 --> 00:02:17,225
-Which means that about 7% of all humans that ever lived are alive right now.
+つまり今生きているのは
+全累計人口の約7%ということだ
 
 30
 00:02:17,250 --> 00:02:22,690
-As many as were born in the first 150,000 years of human history.
+これは人類の歴史上
+最初の15万年間で生まれた人の数と同じだ
 
 31
 00:02:22,715 --> 00:02:27,195
-Every minute, 270 babies join the party.
+毎分270人の赤ちゃんが生まれている
 
 32
 00:02:27,219 --> 00:02:33,498
-But there are not just more people, never before have we been as healthy and well off, or lived longer.
+しかしただ人口が増えただけでなく
+かつてないほど健康で長生きしているのだ
 
 33
 00:02:33,523 --> 00:02:37,158
-With growing living standards our birth rates collapsed.
+生活水準の向上に伴い
+出生率は劇的に低下した
 
 34
 00:02:37,183 --> 00:02:42,038
-The UN estimates that around the year 2100 we will hit our population peak
+国連の推定によると
+西暦2100年に人口はピークをむかえ
 
 35
 00:02:42,063 --> 00:02:46,330
-and there will be 125 million people born each year.
+毎年1.25億人が生まれてくるという
 
 36
 00:02:46,355 --> 00:02:53,358
-It is pretty unlikely that birth rates will stay stable forever, but let’s pretend to make our thought experiment simpler.
+この出生率が永久に安定する可能性は低いが
+思考実験の単純化のためにそう仮定しよう
 
 37
 00:02:53,383 --> 00:02:58,191
-How many people there will be in the future depends on when our species will die out.
+人類の数がこの先どうなるかは
+いつ人類が滅亡するかによる
 
 38
 00:02:58,216 --> 00:03:01,585
-And here we find a lot of uncertainties.
+ここに多くの不確実性がある
 
 39
 00:03:01,609 --> 00:03:04,658
-We are able to destroy ourselves through our own inventions
+人類は自らの発明で自滅できるが
 
 40
 00:03:04,683 --> 00:03:09,198
-– but we are also able to find solutions to avert catastrophic risk.
+同時に破滅的な未来の
+解決策を見つけることもできる
 
 41
 00:03:09,223 --> 00:03:14,578
-We can change the direction of planet killer asteroids but we’ve also invented nuclear weapons.
+惑星を破壊する隕石をそらすことも
+核兵器を発明することもできる
 
 42
 00:03:14,603 --> 00:03:19,978
-We discovered antibiotics but also carry diseases across the globe in a matter of days.
+抗生物質の発見も
+病気を世界中に数日で運ぶことも可能だ
 
 43
 00:03:20,003 --> 00:03:26,238
-Our industrial system gave us an incredible standard of living but also changed the atmosphere in the process.
+工業化によって驚異的な生活水準が実現したが
+その過程で大気も変化してしまった
 
 44
 00:03:26,263 --> 00:03:32,178
-It is very hard to say if human ingenuity will prolong or shorten our species’ lifespan.
+人の知恵が人類の寿命を伸ばすのか縮めるのか
+その判断は難しい
 
 45
 00:03:32,203 --> 00:03:35,470
-If things go badly our end could come suddenly.
+終わりは突然やってくるかもしれないが
 
 46
 00:03:35,495 --> 00:03:40,643
-But if we manage to avoid that, we could conceivably stick around for a long time.
+自滅さえ避けられれば
+長く生き続けられるかもしれない
 
 47
 00:03:40,675 --> 00:03:46,701
-So every day we don’t destroy ourselves may mean life for an unfathomable number of humans.
+つまり今の平穏な日々の一日は
+計り知れない数の命を意味するかもしれないのだ
 
 48
 00:03:46,725 --> 00:03:49,445
-How many people are we talking about?
+一体どれほどの数となるだろうか
 
 49
 00:03:49,470 --> 00:03:53,490
-It depends on how far our species is going to expand.
+それは人類がどこまで拡大するかによる
 
 50
 00:03:54,023 --> 00:03:57,743
-Scenario 1: Humans will never leave Earth
+シナリオ1：人類は地球を離れない
 
 51
 00:03:58,240 --> 00:04:05,591
-If we stay on our home planet, a good metric to look at is the extinction rate of animals that we get from the fossil record.
+もし人類が地上にとどまるのであれば
+化石からわかる動物の存続期間が参考になるだろう
 
 52
 00:04:05,616 --> 00:04:09,745
-The average lifespan of mammalian species is in the region of 1 million years,
+哺乳類の種の平均寿命は100万年ほどで
 
 53
 00:04:09,770 --> 00:04:12,945
-with some surviving up to 10 million years.
+中には1000万年間生存する種もある
 
 54
 00:04:12,970 --> 00:04:18,731
-Our close relative homo erectus survived for about 1.9 million years.
+我々の近縁種たるホモ・エレクトスは
+約190万年間生存していた
 
 55
 00:04:18,756 --> 00:04:23,103
-Let us be conservative and assume that humans will survive for a million years,
+保守的に考えて
+人類が100万年間存続すると考えると
 
 56
 00:04:23,128 --> 00:04:26,491
-which leaves us 800,000 more years to dawdle away.
+あと80万年間はのんびりと過ごせそうだ
 
 57
 00:04:26,515 --> 00:04:30,480
-Assuming a stable birth rate of 125 million people each year,
+仮にこの先も年間1.25億人が生まれるとすると
 
 58
 00:04:30,480 --> 00:04:35,031
-this means there are roughly 100 TRILLION humans waiting to be born.
+生まれるのを待つ人類が
+約100兆人いることになる
 
 59
 00:04:35,056 --> 00:04:39,678
-850 times greater than the number of people that have ever lived.
+今まで生きてきた人間の850倍である
 
 60
 00:04:39,703 --> 00:04:47,255
-This would make everybody alive today only 0.008% of all people that will ever live.
+つまり、いま生きている人は
+これから生まれてくる人の0.008%にすぎないのだ
 
 61
 00:04:47,280 --> 00:04:49,325
-Think about where this leaves you.
+わかるだろうか
 
 62
 00:04:49,349 --> 00:04:53,405
-Instead of putting you at the end of the chaotic mess that was our past,
+あなたは混沌とした世界の終わりにいるのではなく
 
 63
 00:04:53,430 --> 00:04:57,335
-it would mean you live at the very beginning of something big.
+なにか大きなものの始まりに生きている
 
 64
 00:04:57,360 --> 00:05:01,158
-The start of the human story rather than the end.
+今は人類の終わりではなく始まりなのだ
 
 65
 00:05:01,182 --> 00:05:04,558
-Doesn’t this feel incredibly different?
+ぜんぜん違う印象を受けないだろうか？
 
 66
 00:05:04,583 --> 00:05:09,255
-And now consider that this may be an extremely pessimistic estimate.
+だがこれも最も少ない見積もりにすぎない
 
 67
 00:05:09,280 --> 00:05:12,803
-If we match the survival time of the most successful mammals,
+もし人類の生存期間が最長の哺乳類と同じなら
 
 68
 00:05:12,828 --> 00:05:18,070
-then our future numbers rise to 1.2 quadrillion people that have yet to be born.
+1200兆人が将来生まれるのを待っている
 
 69
 00:05:18,095 --> 00:05:21,105
-And even this seems far from our potential:
+しかしそれも人類の可能性からは程遠い
 
 70
 00:05:21,129 --> 00:05:27,360
-As the sun slowly gets hotter and brighter, earth will remain habitable for about 500 million years,
+太陽は徐々に熱く明るくなっていくが
+地球には約5億年の時間が残されており
 
 71
 00:05:27,360 --> 00:05:33,015
-giving so many more potential people the chance to become actual people.
+まだ多くの潜在的人間が
+実際の人間になる機会があるはずだ
 
 72
 00:05:33,040 --> 00:05:36,513
-And now let’s begin to think big.
+さあ、もっと大きなことを考えよう
 
 73
 00:05:37,200 --> 00:05:40,806
-Scenario 2: Humans will leave Earth
+シナリオ2：人類は地球を離れる
 
 74
 00:05:41,466 --> 00:05:45,195
-We went from humans worshipping the moon, to humans walking on it,
+人類は月に祈っていたが
+そこを歩くようになった
 
 75
 00:05:45,220 --> 00:05:47,735
-so who knows how much farther we can go?
+我々に限界などあるだろうか
 
 76
 00:05:47,759 --> 00:05:50,431
-If we don't die out within the next few hundred years,
+今後数百年の間に滅亡しなければ
 
 77
 00:05:50,455 --> 00:05:55,938
-ideas that seem outlandish right now become serious considerations.
+今は常識外れの考えも
+真剣に検討できるようになるだろう
 
 78
 00:05:55,963 --> 00:06:00,065
-If we believe that we have a chance of surviving for maybe millions of years,
+もし人類が何百万年も生きられれば
 
 79
 00:06:00,090 --> 00:06:05,205
-then we could expand onto the other planets or into our own artificial worlds.
+他の惑星や人工物の世界に
+進出することも可能だろう
 
 80
 00:06:05,236 --> 00:06:10,176
-Life needs three things: a surface, resources and energy.
+生命は3つの要素が必要である
+地表、資源、エネルギーだ
 
 81
 00:06:10,202 --> 00:06:13,045
-Our Sun provides energy for billions of years
+太陽は何十億年もエネルギーを提供し
 
 82
 00:06:13,069 --> 00:06:17,151
-and there is so much water and material floating in the asteroid and kuiper belt
+小惑星帯などには
+多くの水や資源が漂っているので
 
 83
 00:06:17,176 --> 00:06:20,855
-that we could sustain many times our current population.
+現在の何倍もの人類を維持することが可能だろう
 
 84
 00:06:20,880 --> 00:06:27,095
-Instead of living on planets, we could decide to construct our own artificial worlds and habitats.
+惑星に住み続けるのではなく
+自身が作り上げた環境に移り住む決断も可能だ
 
 85
 00:06:27,120 --> 00:06:33,151
-With resources and energy so abundant, we could try out different types of society and ways of life.
+資源やエネルギーが豊富なら
+様々な社会や生活様式を試すこともできるだろう
 
 86
 00:06:33,176 --> 00:06:40,293
-An interconnected civilization spanning the solar system would create the basis of existence for an absurd number of individuals,
+太陽系にまたがる文明は途方もない数の
+人類の基礎をつくることになる
 
 87
 00:06:40,319 --> 00:06:46,335
-orders of magnitude more than if we stick to earth, even if it only existed for a few million years.
+これは地球に固執した場合より桁外れに多い
+たとえ数百万年の寿命だとしてもだ
 
 88
 00:06:46,360 --> 00:06:52,058
-This future doesn’t have to be grim and dark as science fiction likes to paint it.
+未来はSFが描くような
+暗く重苦しいものである必要はないのだ
 
 89
 00:06:52,083 --> 00:06:54,703
-With quadrillions of people waiting to be born,
+数千兆の人類が誕生を待ち望み
 
 90
 00:06:54,728 --> 00:06:58,238
-we will have billions of doctors working on curing cancer,
+多くの医師がガン治療に取り組み
 
 91
 00:06:58,262 --> 00:07:01,150
-billions of problem solvers working on ending poverty
+多くの人が貧困の解消に取り組み
 
 92
 00:07:01,175 --> 00:07:04,875
-and billions of video game developers making life fun.
+多くのゲーム開発者が
+人生を楽しくしてくれる
 
 93
 00:07:04,901 --> 00:07:09,815
-More humans may actually mean more progress.
+人類が増えればそれだけ進歩も増える
 
 94
 00:07:09,840 --> 00:07:15,565
-Another upside of leaving earth and spreading out is that it becomes much harder for us to become extinct,
+地球を離れる他の利点は
+人類が絶滅しにくくなるというものだ
 
 95
 00:07:15,590 --> 00:07:19,871
-as you need a solar system wide catastrophe to catch everybody.
+人類の絶滅に太陽系レベルの
+大災害が必要になるからだ
 
 96
 00:07:19,896 --> 00:07:23,211
-So aside from nearby supernovae or Gamma Rays bursts,
+超新星爆発やガンマ線バーストは別として
 
 97
 00:07:23,236 --> 00:07:28,485
-humanity would be relatively safe from extinction, maybe for billions of years.
+人類は何十億年かは
+比較的安全に生き延びられるだろう
 
 98
 00:07:28,510 --> 00:07:35,231
-If we manage to survive for that long, slow evolution or genetic engineering might split us into multiple species,
+もしそこまで生きていれば
+人類は進化や遺伝子工学で複数の種になるか
 
 99
 00:07:35,256 --> 00:07:39,171
-or we might intentionally keep ourselves the same as we are now.
+もしくは意図的に今のままの姿を保つかもしれない
 
 100
 00:07:39,196 --> 00:07:44,695
-So to account for that, we’ll just talk about people from now on, instead of humans.
+それを考慮に入れ
+ここからは人類ではなく人について話すことにしよう
 
 101
 00:07:44,720 --> 00:07:48,049
-Ok. Now let us think really big.
+よし、もっと本当に大きなことを考えよう
 
 102
 00:07:48,560 --> 00:07:51,916
-Szenario 3: People leave the Solar System
+シナリオ3：人類が太陽系を離れる
 
 103
 00:07:52,316 --> 00:07:58,751
-As enormous as the solar system is, it is just one star system among billions in the milky way.
+太陽系は巨大であるが
+天の川に星の数ほどある星系の一つに過ぎない
 
 104
 00:07:58,776 --> 00:08:04,416
-If future people can colonize, say, 100 billion stars and live there for 10 billion years,
+もし未来の人々が1000億の星系に100億年住み
 
 105
 00:08:04,441 --> 00:08:12,311
-while each generating 100 million births per year, then we can expect something like a hundred Octillion lives to be lived in the future.
+それぞれ1年に1億人が生まれると仮定すれば
+将来10穰(じょう)人の誕生が期待される
 
 106
 00:08:12,336 --> 00:08:18,224
-This is a 1 with 29 zeros, a hundred thousand trillion, trillion.
+1の後に0が29個続く
+10万×1兆×1兆人だ
 
 107
 00:08:18,249 --> 00:08:20,891
-We can spin this up as much as we like.
+これはまだ膨らませられる
 
 108
 00:08:20,915 --> 00:08:26,564
-The Andromeda Galaxy will merge with the Milky way, adding another trillion stars for us to settle.
+アンドロメダ銀河は天の川に合流するので
+さらに1兆の星系が追加され
 
 109
 00:08:26,589 --> 00:08:29,450
-Red Dwarfs stay active for up to a trillion years
+赤色矮星は1兆年以上活動を続け
 
 110
 00:08:29,474 --> 00:08:35,124
-and future civilizations might even find energy for their habitats around black holes.
+未来文明はブラックホールからエネルギーを得て
+周囲に住むかもしれない
 
 111
 00:08:35,149 --> 00:08:41,318
-A sufficiently advanced civilization of our descendants might even try to reach other galaxy groups.
+十分に発展した人類の文明が
+他の銀河へ到達する可能性すらある
 
 112
 00:08:41,343 --> 00:08:48,325
-While these numbers are mind blowing, they may underestimate the number of unborn people by many orders of magnitude.
+これらの数字は気が遠くなるようなものだが
+それすら何桁も過小評価しているかもしれない
 
 113
 00:08:48,350 --> 00:08:53,571
-If we divide the total energy available in a galaxy by the average energy needs of a single person,
+もし銀河全体のエネルギーを
+個人が必要とするエネルギーで割ると
 
 114
 00:08:53,596 --> 00:08:56,871
-then we get a tredecillion potential lives.
+潜在的に100正(せい)人が生きられる
 
 115
 00:08:56,896 --> 00:09:01,643
-A million, trillion, trillion, trillion potential people.
+100万×1兆×1兆×1兆人だ
 
 116
 00:09:02,240 --> 00:09:03,598
-Conclusion
+結論
 
 117
 00:09:03,623 --> 00:09:08,794
-Hopefully what has become evident is that if we don’t kill ourselves in the next few centuries or millennia,
+今後数千年の間に人類が自滅しなければ
 
 118
 00:09:08,820 --> 00:09:12,834
-almost all humans that will ever exist, will live in the future.
+ほとんど全ての人々は
+まだ生まれていないことになる
 
 119
 00:09:12,860 --> 00:09:16,336
-Which brings us back to us, in the present.
+ここで現代の話に戻ろう
 
 120
 00:09:16,361 --> 00:09:22,371
-We exist at a highpoint of human history, with incredible possibilities at our grasp.
+我々は人類史の頂点に位置し
+途方もない可能性を手にしている
 
 121
 00:09:22,395 --> 00:09:26,695
-Technological, environmental and societal.
+技術的にも環境的、社会的にも
 
 122
 00:09:26,720 --> 00:09:30,887
-What we do matters for all the people who do not exist yet.
+我々の行いは
+まだ生まれていない人々にとっても重要だ
 
 123
-00:09:30,913 --> 00:09:35,385
-So while it is not en vogue to think about humanity's long term future with optimism
+00:09:30,913 --> 00:09:37,065
+人類の楽観的な未来展望は
+ウケが悪いか視界にも入らないが
 
 124
-00:09:35,410 --> 00:09:39,938
-– or to think about it at all –, maybe this has given you a bit of perspective.
+00:09:37,093 --> 00:09:39,938
+少しは見通せただろうか
 
 125
 00:09:39,963 --> 00:09:44,591
-If we screw up the present, so many people may never come to exist.
+もし現在を台無しにしたら
+多くが存在できないかもしれない
 
 126
 00:09:44,616 --> 00:09:48,390
-Quadrillions of unborn humans are at our mercy.
+幾億の未だ生まれえぬ存在は
+我々の手の中にある
 
 127
 00:09:48,415 --> 00:09:54,303
-Even if we go with fairly conservative estimates, the unborn are by far the largest group of people
+かなり控えめに見積もっても
+その存在は圧倒的に大きな集団であり
 
 128
 00:09:54,329 --> 00:09:56,870
-– and the most disenfranchised.
+最もないがしろにされる者たちだ
 
 129
 00:09:56,895 --> 00:10:03,815
-Somebody who might be born in a thousand or even a million years deeply depends on us today for their existence.
+遥か未来に生まれる者の存在は
+現在の我々に深く依存している
 
 130
 00:10:03,840 --> 00:10:07,058
-This is why it is important to think about the distant future
+だからこそ遠い未来について考えることや
 
 131
 00:10:07,082 --> 00:10:12,438
-and why our presence is so crucial, why it matters what we do today.
+我々の存在や行動が
+いかに重要なのかがわかるのだ
 
 132
 00:10:12,463 --> 00:10:16,625
-One day the last human will be born. We don’t know when.
+いつかは最後の人類が誕生する
+時期はわからない
 
 133
 00:10:16,650 --> 00:10:20,838
-But if we change our perspective from us living at the end of the human story,
+しかし、もし我々が終末的な歴史観から離れ
 
 134
 00:10:20,863 --> 00:10:26,883
-to us living at the very beginning we can not only build a wonderful world for us and for them
+まだ始まったばかりだと気づけば
+我々は自身だけでなく
 
 135
 00:10:26,909 --> 00:10:31,410
-but also for countless numbers of others.
+無数の無辜の者のため
+良き世界を築くことができるだろう
 
 136
 00:10:32,216 --> 00:10:37,324
-HUGE announcement: we are launching Kurzgesagt in six more languages!
+重大なお知らせです
+Kurzgesagt は更に6つの言語を開始しました
 
 137
 00:10:37,349 --> 00:10:42,761
-Arabic, Brazilian Portuguese, French, Hindi, Japanese and Korean,
+アラビア語、ポルトガル語、フランス語
+ヒンディー語、日本語、韓国語です
 
 138
 00:10:42,785 --> 00:10:46,143
-on top of our English, German and Spanish channels.
+英語、ドイツ語、スペイン語に加えてね
 
 139
 00:10:46,168 --> 00:10:50,976
-To bring new perspectives and a love for science to as many people as possible
+新しい視点と科学への愛情を
+できるだけ多くの人に届けるため
 
 140
 00:10:51,001 --> 00:10:56,465
-– especially to some languages that are underserved because it is not profitable to translate to.
+特に「採算が合わない」と
+軽視されがちな言語にも対応します
 
 141
 00:10:56,490 --> 00:11:01,011
-If enough people watch our new channels, we hopefully can run them for many years to come!
+多くの人が新チャンネルを見てくれれば
+今後も運営可能です
 
 142
 00:11:01,036 --> 00:11:03,678
-This is where we need YOUR help.
+そこで、皆さんの協力が必要です
 
 143
 00:11:03,702 --> 00:11:11,025
-It takes us a lot of time, effort and yes, money to translate our videos properly and run so many channels
+動画を適切に翻訳し多くのチャンネルを運営するには
+たくさんの時間と努力とお金が必要です
 
 144
 00:11:11,050 --> 00:11:15,445
-– so to make this sustainable, please help us spread the word!
+この活動を持続可能とするため
+ぜひ普及に協力ください
 
 145
 00:11:15,470 --> 00:11:21,318
-If you are a native in one of these languages, share our videos on social media and tell your friends and family
+これらの言語を母国語とする方は
+SNSでシェアしたり友達や家族に教え
 
 146
 00:11:21,343 --> 00:11:24,775
-– make people in your native language aware that it exists.
+母国語版が存在することを広めてください
 
 147
 00:11:24,800 --> 00:11:28,305
-This multi language expansion is supported by Open Philanthropy,
+この多言語展開は
+善行を是とする組織
 
 148
 00:11:28,330 --> 00:11:31,363
-an organization that tries to do as much good as possible.
+Open Philanthropy の支援を受けています
 
 149
 00:11:31,388 --> 00:11:37,390
-They want to help us spread awareness of science, and ideas for how YOU can help humanity thrive.
+彼らは我々が科学を広めるのを助け
+あなたができることについて考えています
 
 150
 00:11:37,415 --> 00:11:43,895
-Their values align with ours in many fundamental ways so we are going to work with them on more projects in the future.
+彼らの価値観は我々と一致しているので
+今後も協力していくつもりです
 
 151
 00:11:43,920 --> 00:11:50,610
-So please help us spread the word – and thank you for watching.
-
+ですから、言葉を広げる手伝いをお願いします
+ご視聴ありがとうございました
