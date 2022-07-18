@@ -1,416 +1,492 @@
-﻿1
+1
 00:00:00,646 --> 00:00:06,160
-What would happen if we were to detonate a very very powerful nuclear weapon on the moon?
+もし強力な核爆弾を
+月で爆発させたらどうなるだろう
 
 2
 00:00:06,186 --> 00:00:11,624
-Would the explosion knock its orbit towards earth, causing tidal waves and misery?
+月の軌道が地球に近づき
+津波の悲劇が引き起こされるのか
 
 3
 00:00:11,650 --> 00:00:17,770
-Could the moon be destroyed, showering the earth in a rain of meteoric death?
+月が破壊され
+死の流星が地球に降り注ぐだろうか
 
 4
 00:00:25,523 --> 00:00:31,887
-During the cold war the moon was a major target for space exploration and you know, military bases.
+冷戦時代、月は宇宙開発と軍事基地化の
+主要なターゲットだった
 
 5
 00:00:31,913 --> 00:00:39,227
-So the US Air Force commissioned a serious study into the effects of a nuclear detonation on the surface of the moon.
+そのため米軍は月面で核爆発が起きた場合の
+本格的な研究をおこなっている
 
 6
 00:00:39,253 --> 00:00:44,457
-But just quoting stuff is boring, so let’s conduct a very important scientific experiment
+でも、単なる引用では退屈なので
+超重要な科学実験を行おう
 
 7
 00:00:44,483 --> 00:00:48,236
-with an imaginary 100 megaton thermonuclear warhead,
+100メガトンの熱核弾頭を想定して
 
 8
 00:00:48,262 --> 00:00:52,683
-about twice as powerful as the most powerful bomb ever detonated.
+これまで爆発した最強の爆弾の
+2倍の力を持たせてみよう
 
 9
 00:00:52,709 --> 00:00:57,696
-We’ll also place a number of curious astronauts around the moon as observers.
+ついでに月周辺に好奇心あふれる
+宇宙飛行士も配置する
 
 10
 00:00:57,722 --> 00:01:01,893
-Let’s push the button and slow down time.
+さあボタンを押し
+時間を減速しよう
 
 11
 00:01:01,919 --> 00:01:06,115
-For the first few milliseconds nothing much happens outside our weapon.
+最初の数ミリ秒間
+弾頭の外側では何もおこらないが
 
 12
 00:01:06,140 --> 00:01:11,600
-Meanwhile inside, high explosives send a shockwave to a radioactive metal core,
+一方内側では、爆発によって
+放射性金属コアに衝撃波が送られ
 
 13
 00:01:11,626 --> 00:01:17,854
-compressing it so much that it reaches criticality and starts a nuclear fission chain reaction.
+コアが圧縮されて臨界に達し
+核分裂の連鎖反応が開始される
 
 14
 00:01:17,880 --> 00:01:23,093
-The 100 million degree plasma created in this first stage sets off the second stage,
+よって1億℃のプラズマが生成され
+第2段階が引き起こされる
 
 15
 00:01:23,119 --> 00:01:27,279
-with atomic nuclei fusing like they do in the core of a star.
+恒星のコアで起こるような
+原子核融合だ
 
 16
 00:01:27,305 --> 00:01:32,633
-Very briefly, our weapon contains one of the hottest places in the universe.
+簡単に言えば、この弾頭は
+宇宙一の熱さを含んでいるのだ
 
 17
 00:01:32,659 --> 00:01:38,776
-And only now, barely ten milliseconds later, does the rest of the universe find out that anything has happened,
+そして今、ようやく10ミリ秒後に
+世界は何が起こったのかを知る
 
 18
 00:01:38,802 --> 00:01:44,416
-as suddenly the bomb dissolves and a flaming star of nuclear death is born.
+突如爆弾が溶解し
+核で燃え盛る死の星が誕生する
 
 19
 00:01:44,442 --> 00:01:46,031
-So far so good.
+ここまでは順調だ
 
 20
 00:01:46,056 --> 00:01:52,024
-But everything that happens now is very different from what we’re used to on earth because of one major difference:
+しかしここからおこることは
+地球で慣れ親しんだ内容とは大きく異なる
 
 21
 00:01:52,050 --> 00:01:54,216
-There’s no atmosphere.
+ここには大気がないのだ
 
 22
 00:01:54,242 --> 00:01:58,750
-As the fireball shines it releases a flash of X-rays and thermal photons,
+火球が輝くとき
+閃光やX線や熱線が放出され
 
 23
 00:01:58,776 --> 00:02:03,123
-a wave of silent heat which rushes outwards in all directions.
+無音の熱波があらゆる方向に放たれる
 
 24
 00:02:03,149 --> 00:02:08,530
-On earth, this heat would char and burn everything within a 50 kilometer radius at least.
+地球上では半径50km以内のものは
+焦げるか燃えるかしてしまうが
 
 25
 00:02:08,556 --> 00:02:13,683
-But on the moon, without an atmosphere and oxygen-rich air, there’s no burning at all.
+大気も酸素もない月では
+何かが燃えることもないし
 
 26
 00:02:13,709 --> 00:02:16,285
-Also there are no things to burn.
+そもそも燃えるモノもない
 
 27
 00:02:16,310 --> 00:02:20,503
-The crunchy topsoil of the moon is made from silicate rock and metals
+月の表土は珪酸塩岩と金属が
 
 28
 00:02:20,529 --> 00:02:25,756
-chewed to dust by eons of meteorite impacts, mixed with tiny traces of water.
+隕石の衝突で粉々になったものに
+微量の水が混ざってできている
 
 29
 00:02:25,782 --> 00:02:31,263
-When heated by the explosion, X-rays from the fireball vaporize a thin cloud of rock from the lunar surface,
+爆発によって加熱されると
+X線が月面に岩石由来の薄い雲をつくり
 
 30
 00:02:31,289 --> 00:02:35,636
-while the unlucky dust that’s inside the fireball melts into glass.
+火球に飲まれた不幸なチリは
+溶けてガラスとなる
 
 31
 00:02:35,662 --> 00:02:41,096
-Any astronauts watching the show within about 50 km can expect to be fried.
+50km以内にいる宇宙飛行士は
+焼け出されることになるだろう
 
 32
 00:02:41,122 --> 00:02:46,864
-And now, we begin to see one of the biggest differences between explosions in space and on earth.
+さあ、宇宙と地球での核爆発の
+大きな違いが見えてきた
 
 33
 00:02:46,890 --> 00:02:50,663
-On earth the atmosphere fights back against the plasma bubble:
+地球上では大気がプラズマの火球に対抗し
 
 34
 00:02:50,689 --> 00:02:57,584
-Its expansion is violently stopped within moments by the pressure of the atmosphere. But this is not good news.
+火球の膨張は瞬時に大気の圧力によって止められる
+だが、これは良いニュースではない
 
 35
 00:02:57,610 --> 00:03:04,844
-As the fireball rams the atmosphere it produces the most destructive part of a nuclear explosion on earth: the shockwave.
+火球が大気に突撃すると
+最も破壊的である衝撃波も引き起こされるのだ
 
 36
 00:03:04,870 --> 00:03:09,004
-Compressed air around the explosion rushes out faster than the speed of sound,
+爆発により圧縮された空気が
+音よりも早く押し出され
 
 37
 00:03:09,030 --> 00:03:13,016
-shattering buildings and roaring so loud it ruptures organs.
+建物を粉々にし臓器を破裂させ
+天地に鳴り響く
 
 38
 00:03:13,042 --> 00:03:19,944
-But on the moon there is no shockwave. No atmosphere means nothing to impede the expanding explosion in space.
+しかし月では衝撃波がない
+大気がなければ爆発を妨げるものも存在しない
 
 39
 00:03:19,970 --> 00:03:27,183
-On the moon, the fireball just grows in eerie silence as there is no atmosphere to stop it or to give it a voice.
+音を伝える大気が存在しないので
+月では火球は静けさの中で成長するだけだ
 
 40
 00:03:27,209 --> 00:03:30,480
-This would be an amazing thing to watch from a safe distance.
+安全な所から見るなら
+良い光景だろう
 
 41
 00:03:30,506 --> 00:03:35,843
-Unfortunately there’s hardly any safe viewing distance for a nuclear explosion on the moon.
+だが残念ながら
+月では核爆発を安全に観察できる距離などない
 
 42
 00:03:35,869 --> 00:03:40,430
-Without an atmosphere weakening the deadly ionizing radiation that can scramble DNA,
+大気がなければ電離放射線は減衰せず
+DNAは損傷し
 
 43
 00:03:40,456 --> 00:03:45,578
-anyone close enough to get a good look will be exposed to fatal amounts of radiation.
+近くで見るものは
+致命的な放射線に晒されるだろう
 
 44
 00:03:45,603 --> 00:03:47,850
-But of course, that’s not all.
+もちろん、これだけではない
 
 45
 00:03:47,876 --> 00:03:51,110
-While all of this happens the explosion hammers against the moon,
+爆発が起きている間も
+衝撃は月にぶつかり
 
 46
 00:03:51,136 --> 00:03:57,964
-transferring about a tenth of the explosion energy into seismic waves, powering an intense moonquake.
+爆発の1/10のエネルギーは地震波として伝わり
+激しい月震を引き起こすのだ
 
 47
 00:03:57,990 --> 00:04:05,224
-The moon is much smaller than the earth, and our astronauts will feel an inescapable violent shaking no matter where they’re standing.
+月は地球よりずっと小さいので
+宇宙飛行士はどこにいても激しい揺れを感じるだろう
 
 48
 00:04:05,250 --> 00:04:08,330
-Compared to an earthquake of 7 on the Richter scale,
+震度はマグニチュード7の地震に匹敵し
 
 49
 00:04:08,356 --> 00:04:14,416
-this shaking could seriously damage or even level infrastructure we might have built anywhere on the moon.
+月に建設したあらゆる建物に
+深刻なダメージを与えるだろう
 
 50
-00:04:08,356 --> 00:04:14,376
-Those who hid on the far side of the moon would have no idea it was an explosion,
+00:04:14,442 --> 00:04:18,303
+月の裏側にいる者は
+これが爆発であることを知らず
 
 51
 00:04:18,329 --> 00:04:22,646
-the quaking would feel like an asteroid the size of the Great Pyramid had struck.
+ピラミッドサイズの隕石が
+衝突したように感じるだろう
 
 52
 00:04:22,672 --> 00:04:24,946
-And it’s not over yet:
+だが、まだ終わりじゃない
 
 53
 00:04:24,972 --> 00:04:30,300
-Where our bomb explodes, the ground splatters like water when a rock strikes a pond.
+爆心地では石が投げ込まれた池のように
+地面を飛び散らせる
 
 54
 00:04:30,326 --> 00:04:36,940
-As the explosion pushes against the surface it may excavate as much as a hundred million cubic meters of dust and rock,
+爆発が地面を押すと
+1億立方メートルものチリや岩石が掘り出され
 
 55
 00:04:36,966 --> 00:04:42,340
-forming a crater a kilometer across while bedrock is pulverized to rubble.
+それらが粉々になりながら
+1kmものクレーターが形成されるだろう
 
 56
 00:04:42,366 --> 00:04:45,712
-Debris is shot into the sky in every direction.
+破片は四方八方に飛び散る
 
 57
 00:04:45,738 --> 00:04:50,472
-Again without an atmosphere there’s no drag to slow any of it down.
+大気がなければ
+これらを減速させる抵抗もない
 
 58
 00:04:50,498 --> 00:04:56,466
-Much of the debris scattered never returns to the moon, flying off faster than escape velocity.
+破片の多くは脱出速度より速いため
+ほとんどが月に戻ってこないだろう
 
 59
 00:04:56,492 --> 00:05:00,756
-A flurry of micrometeorites have been cast off to explore the solar system,
+微小隕石の多くは太陽系を探索に旅立つが
 
 60
 00:05:00,782 --> 00:05:05,716
-many of which will rain down on the earth, though few will be larger than pebbles.
+少数の小石より大きいものは
+その多くが地上に降り注ぐ
 
 61
 00:05:05,742 --> 00:05:11,570
-Any satellite, astronaut or space station in the way though will have a really bad time.
+人工衛星や宇宙ステーションが行き先を邪魔すれば
+大変なことになるだろう
 
 62
 00:05:11,596 --> 00:05:18,364
-Micrometeorites are launched at many speeds and angles, allowing them to spread all over the surface of the moon.
+微小隕石は様々な角度や速度で打ち上げられるので
+月の表面一体に広がる
 
 63
 00:05:18,390 --> 00:05:24,083
-Like bullets they’ll punch through our curious astronauts no matter where they stand.
+宇宙飛行士がどこにいても
+これらが弾丸のように突き刺さるだろう
 
 64
 00:05:24,109 --> 00:05:27,206
-Finally, our explosion comes to an end.
+ついに爆発は終りを迎える
 
 65
 00:05:27,232 --> 00:05:31,969
-On earth, the fireball rises like a hot air balloon forming a sort of stalk;
+地球では火球は熱気球のように上昇し
 
 66
 00:05:31,995 --> 00:05:37,256
-as it reaches up cooler air is drawn in around it, rounding the top into a mushroom cloud.
+上昇するにつれ周囲の冷気を取り込んで
+きのこ雲を形成する
 
 67
 00:05:37,282 --> 00:05:41,817
-But on the moon, well, you know by now: no atmosphere, no mushroom.
+しかし月ではご存知の通り
+大気がなく、きのこもない
 
 68
 00:05:41,843 --> 00:05:48,496
-The larger the plasma gets, the cooler it becomes, and the less energy it has to make interesting or terrifying things happen.
+プラズマは膨張するほど冷やされ
+怖くて楽しいことのためのエネルギーも失われる
 
 69
 00:05:48,522 --> 00:05:53,476
-Within seconds of pulling the trigger, the bubble reddens and fades from view.
+引き金を引いて数秒で
+赤い泡は視界から消えるだろう
 
 70
 00:05:53,502 --> 00:05:59,590
-It would be visible from the earth, like a star flickering to life only to fade out right away.
+地球から見れば、星がほんの一瞬光って
+すぐ消えたように見える
 
 71
 00:05:59,616 --> 00:06:02,071
-A spark, and then nothing.
+光った、と思ったらすぐ消える
 
 72
 00:06:02,096 --> 00:06:05,849
-As the cloud of tiny debris reaches far above the surface of the moon,
+小さなチリの雲が月面のはるか上空に到達すると
 
 73
 00:06:05,875 --> 00:06:13,490
-it’s illuminated by the sun for a few minutes giving it an eerie beauty for anyone left to observe the spectacle.
+ほんの数分だけ太陽に照らされ
+奇妙な美しさを見せるだろう
 
 74
 00:06:13,516 --> 00:06:18,071
-What about the moon’s orbit? It is basically unchanged.
+月の軌道はどうなっただろう
+基本的には変わらない
 
 75
 00:06:18,096 --> 00:06:22,450
-Trying to move the moon with a nuke is like trying to move a truck by blowing on it.
+核で月を動かすのは
+吐息でトラックを動かすようなもので
 
 76
 00:06:22,476 --> 00:06:27,130
-Nuclear explosions may be big, but space is bigger.
+核爆発は大きいかもしれないが
+宇宙はさらに大きいのだ
 
 77
 00:06:27,156 --> 00:06:32,337
-Our mighty explosion just leaves another crater. One among millions.
+我々の強大な爆発は
+既に数多あるクレーターに新作を追加するだけだ
 
 78
 00:06:32,363 --> 00:06:36,603
-Still, anyone on the moon will continue to not enjoy themselves.
+しかし月に住む者は
+楽しめない状況が続くだろう
 
 79
 00:06:36,629 --> 00:06:39,870
-The material that ends up raining back to the moon is radioactive,
+月に降り注ぐものは放射性物質であり
 
 80
 00:06:39,896 --> 00:06:46,230
-and without any natural processes to wash it away or bury it, the surface of the moon will remain contaminated.
+洗い流され埋められるような自然のプロセスがなければ
+その場に堆積するだけだ
 
 81
 00:06:46,256 --> 00:06:54,216
-Although fortunately, the worst of the radiation will have decayed to a level comparable to natural levels from cosmic rays in about a year.
+だが幸いなことに、最悪なレベルの放射線は
+1年程度で自然レベルまで減衰するだろう
 
 82
 00:06:54,242 --> 00:07:01,230
-In conclusion we can say with confidence that while the moon itself does not care about being nuked and will barely notice,
+結論として自信を持って言えるが
+月は核爆発を気にせず、気付いてもいないかもしれない
 
 83
 00:07:01,256 --> 00:07:08,910
-using the moon as a nuclear test ground kind of ruins it for everyone trying to spend some time there or to build something useful.
+だが、月を核実験場とすることは
+善良な目的で月を扱う者にとって冒とく的な行為である
 
 84
 00:07:08,936 --> 00:07:12,793
-So maybe we should just not do that.
+なので、やらない方がいいだろう
 
 85
 00:07:13,929 --> 00:07:17,464
-This was our last video of the year 12020 and,
+これが12020年最後の動画となりましたが
 
 86
 00:07:17,489 --> 00:07:21,189
-oh dear what an interesting and weird year its been in all the worst ways.
+なんと興味深く奇妙な年だったことでしょう
 
 87
 00:07:21,229 --> 00:07:22,723
-But its finally over.
+でもそれも終わり
 
 88
 00:07:22,749 --> 00:07:24,850
-We want to end by saying thank you.
+最後に、皆に感謝を
 
 89
 00:07:24,876 --> 00:07:29,640
-We get to do this channel and work on many exciting things because of you birds.
+我々が存続し
+面白い試みに挑めるのも皆さんのおかげです
 
 90
 00:07:29,666 --> 00:07:32,725
-This year our German channel reached to million subscribes,
+今年ドイツ語版は100万登録を達成し
 
 91
 00:07:32,751 --> 00:07:36,620
-we launched our Spanish one, and released our first app.
+スペイン語版を立ち上げ
+アプリもリリースしました
 
 92
 00:07:36,646 --> 00:07:41,340
-If everything goes well, we can finally start our largest new project today next year,
+うまく行けば来年の今頃には
+最大のプロジェクトを始めるかも
 
 93
 00:07:41,366 --> 00:07:43,612
-but we know better than to promise too much.
+過ぎたる約束はやめますが
 
 94
 00:07:43,638 --> 00:07:46,373
-All of this works because you supported us directly.
+それも皆さんの
+支援のおかげです
 
 95
 00:07:46,399 --> 00:07:50,291
-Thank you so much. We genially appreciated.
+本当にありがとう
+心から感謝しています
 
 96
 00:07:50,317 --> 00:07:54,736
-If you want to help us and to get some cool return, to the tuning of nuking the moon,
+もし我々を助けつつ
+クールなお返しを望む場合は
 
 97
 00:07:54,762 --> 00:08:00,370
-we made a new minimalistic infographic poster about the moon, and how incredibly far away it is,
+月がどれほど遠いかについて
+ミニマルなポスターを作りました
 
 98
 00:08:00,396 --> 00:08:06,406
-also there is baby duck our cutest plushy yet, a new duck and friends enamel mug,
+またこれまでで最もかわいい
+ぬいぐるみやマグカップも
 
 99
 00:08:06,432 --> 00:08:10,166
-our new ocean explorer note book, and so much more.
+新しい海洋探検ノートや
+もっとたくさんのものも
 
 100
 00:08:10,192 --> 00:08:14,467
-All made with love and care. Let us know what you like and we’ll make more of it.
+どれも愛情を込めて作られたものばかりです
 
 101
 00:08:14,493 --> 00:08:17,846
-OK. Let’s wrap up this video and this year.
+さて、この動画と今年を締めくくりましょう
 
 102
 00:08:17,872 --> 00:08:21,278
-Thank you again for watching and caring and sharing.
+見て、気にかけ
+シェアしてくれてありがとう
 
 103
 00:08:21,304 --> 00:08:25,600
-We hope that you slide peacefully into the year 12021.
+皆さんが新年まで平穏に過ごせるよう願っています
 
 104
 00:08:25,626 --> 00:08:30,140
-Let’s all hope it will be really boring year!
-
+そして来年こそ
+どうか退屈な年になりますように
