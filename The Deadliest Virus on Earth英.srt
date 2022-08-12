@@ -1,599 +1,698 @@
 1
 00:00:00,220 --> 00:00:04,780
-In the 1970s thousands of Chickenheads rained from the sky in Europe,
+1970年代、ヨーロッパでは
+鶏の頭部が何千と降ってきて
 
 2
 00:00:04,780 --> 00:00:07,340
-making foxes and other wildlife confused 
+キツネなど野生動物は混乱し
 
 3
 00:00:07,340 --> 00:00:08,940
-and very happy.
+そして喜んだ
 
 4
 00:00:08,940 --> 00:00:10,230
-Why?
+でも、なんで？
 
 5
 00:00:10,230 --> 00:00:14,900
-They were filled with a vaccine to fight the deadliest virus known to humanity – 
+鶏の頭部は、最凶のウイルスへの
+ワクチンで満たされていた
 
 6
 00:00:14,900 --> 00:00:20,220
-since the 1930s a rabies epidemic had been sweeping across wildlife populations in Europe
+1930年台から、ヨーロッパの野生動物に
+狂犬病が流行しており
 
 7
 00:00:20,220 --> 00:00:24,010
-and humans wanted to finally get rid of the virus once and for all. 
+人類はこのウイルスを
+根絶したかったのだ
 
 8
 00:00:24,010 --> 00:00:28,830
-Rabies is named after Lyssa, the ancient Greek spirit of mad rage, 
+古代ギリシャの狂気の精霊から
+Lyssa ウイルスと命名され
 
 9
 00:00:28,830 --> 00:00:32,570
-and has been haunting us for at least 4000 years. 
+最低でも4000年は人類を
+狩り続けてきた
 
 10
 00:00:32,570 --> 00:00:35,100
-It can turn animals into angry beasts 
+それは動物を怒れる猛獣に
 
 11
 00:00:35,100 --> 00:00:38,140
-and humans into zombies that fear water.
-
+人間を水を怖がるゾンビに変えた
 
 12
 00:00:38,140 --> 00:00:43,310
-But what makes Lyssa fascinating is not just how bizarre and deadly its infection is, 
+だが Lyssa の魅力は
+奇妙で致命的な症状だけでなく
 
 13
 00:00:43,310 --> 00:00:48,380
-but also how incredibly good it is at avoiding our defenses. 
+免疫系を見事に回避することにもある
+★our を「人間」としていいか悩み、省略した。動物にも感染するので。
 
 14
 00:00:56,250 --> 00:00:59,650
-Viruses exist on the edge between life and death,
+ウイルスは生物と無生物の境界に位置し
 
 15
 00:00:59,650 --> 00:01:04,340
-hardly more than a few genetic instructions that need living cells to multiply. 
+わずかな遺伝的命令に過ぎず
+増殖には生きた細胞が必要だ
 
 16
 00:01:04,340 --> 00:01:07,600
-The lyssavirus is simple even for a virus: 
+中でも Lyssa ウイルスはシンプルで
 
 17
 00:01:07,600 --> 00:01:13,860
-It has only five genes, that is the instructions for five proteins that it's sold complex problems.
+遺伝子はたった5つで
+複雑な問題にタンパク質5個で対処している
 
 18
 00:01:13,860 --> 00:01:16,400
-Infect a mammal, avoid its immune system, 
+哺乳類に感染し、免疫系を回避し
 
 19
 00:01:16,400 --> 00:01:21,370
-travel to its brain, make more of itself and infect new hosts. 
+宿主の脳に移動し、増殖し
+新たな宿主に感染する
 
 20
 00:01:21,370 --> 00:01:24,320
-Let's see what happens if you get infected
+感染後の経過をみてみよう
 
 21
 00:01:24,320 --> 00:01:32,120
-It all starts with a bite, most likely by a dog carrying millions of viruses in its saliva, pushing them deep into the tissue.
+ほとんどの場合、犬の噛みつきで始まり
+ウイルスまみれの唾液が組織深くに侵入する
 
 22
 00:01:32,120 --> 00:01:35,550
-The goal is your nerve cells, your neurons. 
+目標はあなたの神経細胞
+ニューロンだ
 
 23
 00:01:35,550 --> 00:01:39,950
-They are living electrochemical wires, transferring signals throughout your body,
+体内に信号を伝達する生きた電線であり
 
 24
 00:01:39,950 --> 00:01:46,840
-and can stretch for up to 1.5 meters, with their cellular machinery on one end and a terminal on the other. 
+細胞機構から末端までを引き延ばすと
+最大で1.5mにも達する
 
 25
 00:01:46,840 --> 00:01:52,220
-The terminal is where cells talk to each other, by passing chemicals that convey information.   
+末端では化学物質により
+細胞間での情報伝達が行われている
 
 26
 00:01:52,220 --> 00:01:56,070
-Lyssa probably binds to the receptors that are crucial for this process 
+たぶん Lyssa は不可欠な受容体に結合し
+★英語が単にLyssaである場合、「ウイルス」を略すことに
+★先の内容を考えると、なぜここでprobablyなのかが不明
 
 27
 00:01:56,070 --> 00:01:59,740
-and slips inside the unsuspecting nerve cells. 
+無防備な神経細胞に潜り込む
 
 28
 00:01:59,740 --> 00:02:02,560
-Inside, the virus has to solve a big problem. 
+内部では、大問題に直面する
 
 29
 00:02:02,560 --> 00:02:07,220
-that needs to get to the cellular Machinery to take over the cell and make more viruses
+細胞機構に到達し、乗っ取り
+自己複製をすべきなのだが
 
 30
 00:02:07,220 --> 00:02:10,930
-and because neurons are pretty long, this can be far away. 
+ニューロンはとても長く
+距離が遠いのだ
 
 31
 00:02:10,930 --> 00:02:13,700
-There is a solution at hand though: 
+手近な解決方法がある
 
 32
 00:02:13,700 --> 00:02:18,590
-Cells have microtubules spanning their insides that give them structural integrity.  
+細胞は微小管を張り巡らせ
+最適な構造を確保している
+★structural integrityで構造的完全性という訳があるが、平易にしたい
 
 33
 00:02:18,590 --> 00:02:23,290
-But they also provide a track system for a specialized delivery system: 
+加えて、微小管は特殊な輸送システムを
+提供してもいる
 
 34
 00:02:23,290 --> 00:02:28,200
-Dynein motors are actual motors that use energy and deliver packages.
+ダイニン・モーターは名前のとおり
+エネルギーで荷を運ぶ
 
 35
 00:02:28,200 --> 00:02:31,950
-They are made from 50 different proteins, ten times more than the virus, 
+Lyssa の10倍
+50種類のタンパク質からなり
 
 36
 00:02:31,950 --> 00:02:34,570
-and look like a little pair of shoes. 
+一組の小さな靴のようだ
 
 37
 00:02:34,570 --> 00:02:38,300
-Lyssa uses one of its five proteins to hijack this amazing system
+Lyssaはタンパク質の1つで
+これを乗っ取り
 
 38
 00:02:38,300 --> 00:02:41,410
-and order it to head for the nucleus. 
+核に向かうように命令するのだ
 
 39
 00:02:41,410 --> 00:02:44,350
-What is the immune system doing to prevent all of that? 
+これを免疫系がどう防ぐのか？
 
 40
 00:02:44,350 --> 00:02:47,580
-Well, unfortunately not much. 
+まあ残念ながら、あんまり
 
 41
 00:02:47,580 --> 00:02:53,140
-Usually when a virus attacks your civilian cells are crucial in activating your immune response.   
+一般に、ウイルスによる細胞への攻撃は
+免疫を活性化させるのに十分だ
+★civilian cellについて、特定の細胞を指す語ではなさそう。細胞を共同体に例え、その市民というニュアンスだと理解し、さしあたり単に細胞と訳している。
 
 42
 00:02:53,140 --> 00:02:58,440
-They notice that they have been infected and release hundreds of thousands of a special family of proteins: 
+細胞への感染に気付き
+何十万もの特殊なタンパク質群である
 
 43
 00:02:58,440 --> 00:03:02,420
-The interferons that, well, interfere with viruses. 
+インターフェロンを放出し
+ウィルスを妨害するのだ
 
 44
 00:03:02,420 --> 00:03:08,800
-We’ll have to simplify a lot, but in a nutshell, Interferons alert your immune system to make antivirus weapons.   
+かなり単純化すると、インターフェロンの警報で
+免疫系に抗ウイルス兵器を作らせる
 
 45
 00:03:08,800 --> 00:03:14,050
-But they do much more: they tell civilian cells to turn down their protein factories for a while –
+加えて、タンパク質生産工場の一時休止を
+細胞に命じ
 
 46
 00:03:14,050 --> 00:03:17,570
-which means that viruses can’t replicate efficiently anymore. 
+ウイルスの効率的な増殖を妨げる
 
 47
 00:03:17,570 --> 00:03:21,120
-And interferons tell your cells to become super transparent, 
+また、細胞を強く透明化させもする
 
 48
 00:03:21,120 --> 00:03:28,430
-which is important, because how can your immune cells notice that your civilian cells are infected when viruses hide inside them? 
+これは重要で、ウイルスが細胞内に隠れてしまえば
+免疫系は感染に気づけない
 
 49
 00:03:28,430 --> 00:03:32,360
-Your body solves this by creating display windows into their insides, 
+解決策は細胞の窓を作ることで
 
 50
 00:03:32,360 --> 00:03:35,690
- called MHC class I molecules.
+これを MHC クラスI分子と呼ぶ
 
 51
 00:03:35,690 --> 00:03:41,550
-Cells constantly produce stuff to stay alive, and to showcase to your immune cells what is going on inside them
+細胞は存続のために生産を続けつつ
+内情を免疫細胞に展示する
 
 52
 00:03:41,550 --> 00:03:47,710
-they take random samples of their products and put them into these tiny display windows to give a peek inside. 
+生産物をランダムに採り
+小さな展示窓から覗けるようにするのだ
 
 53
 00:03:47,710 --> 00:03:53,950
-Interferon tells your cells to make WAY more display windows and become super transparent.  
+インターフェロンがこの展示窓を量産させ
+細胞を強く透明化させる
 
 54
 00:03:53,950 --> 00:04:01,850
-If a cell is infected and forced to make virus parts, your immune cells will see these parts in a window and order the infected cell to kill itself
+感染してウイルスの部品を作らされれば
+免疫細胞が展示窓から目撃し、細胞に自殺を命じる
 
 55
 00:04:01,850 --> 00:04:04,690
-– and all the viruses trapped within.
+内部の全ウイルスが道連れだ
 
 56
 00:04:04,690 --> 00:04:09,100
-This is one of the most powerful methods of wiping out a viral infection. 
+これは感染を一掃する
+最も強力な手段の一つなのだ
 
 57
 00:04:09,100 --> 00:04:16,310
-Unfortunately Lyssa blocks your neurons from making interferons and stays basically invisible to your immune system. 
+不運にも Lyssa はインターフェロンの合成を阻害し
+基本的に免疫系から隠れ続ける
+★文字数のため、「ニューロンを阻害してインターフェロンを作らせず」を「インターフェロンを作らせず」にするしかない
 
 58
 00:04:16,310 --> 00:04:21,410
-In contrast to many other viruses, when it replicates, it doesn’t kill its host, 
+多くのウイルスと対照的に
+Lyssa は増殖時に宿主を殺さないため
 
 59
 00:04:21,410 --> 00:04:24,090
-which would also trigger alarm systems.   
+警報システムが作動しないのだ
 
 60
 00:04:24,090 --> 00:04:31,070
-Instead it stealthily jumps from neuron to neuron, very slowly making its way to your brain. 
+そのかわり、ニューロン間を密かに移動し
+非常にゆっくりとあなたの脳ににじり寄る
+★instead itを「宿主を殺すかわりに」とした方が親切か？
 
 61
 00:04:31,070 --> 00:04:34,860
-This phase can take weeks to months and very rarely even years
+これには数週間から数ヶ月
+ごくまれに数年かかり
 
 62
 00:04:34,860 --> 00:04:41,500
-and depends on a bunch of things, like if the bite was in your face or foot or how many viruses got into your muscles. 
+「噛まれたのが顔か脚か」「筋肉に入ったウイルス量」
+など様々な要因に左右される
 
 63
 00:04:41,500 --> 00:04:43,520
-Lyssa is a patient monster. 
+Lyssa は忍耐強い
 
 64
 00:04:43,520 --> 00:04:47,350
-Until it reaches its goal: Your brainstem. 
+脳幹というゴールに到達するまでは
 
 65
 00:04:47,350 --> 00:04:51,870
-Finally, the immune system catches on that something isn’t right and reacts.
+遂に、免疫系は何かがおかしいと気付き
+反応する
 
 66
 00:04:51,870 --> 00:04:55,820
-It dispatches some of your most powerful antivirus cells, Killer T Cells, 
+抗ウイルスで最も強力な
+キラーT細胞が派遣され
 
 67
 00:04:55,820 --> 00:04:59,530
-to seek and kill infected cells and wipe out the enemy.
+感染した細胞を探して殺し
+敵を一掃しようとする
 
 68
 00:04:59,530 --> 00:05:05,910
-In other viral infections this would be a turning point, but in rabies the T cells are rushing towards their doom. 
+他のウイルス感染ならこれが転機となるが
+狂犬病の場合は破滅に突き進む結果を招く
 
 69
 00:05:05,910 --> 00:05:08,210
-Simple Lyssa with its 5 proteins 
+タンパク質たった5つで
 
 70
 00:05:08,210 --> 00:05:14,270
-plays a uno reverse card, using the immune system’s ingenuity against itself.
+免疫系の巧妙さを逆手にとって
+UNO の「リバース」を演じるのだ
 
 71
 00:05:14,270 --> 00:05:17,620
-Your central nervous system is a very fragile part of your body
+中枢神経系は非常にもろい部分なので
 
 72
 00:05:17,620 --> 00:05:20,560
-and so the immune system has to be very careful.
+免疫系も極めて慎重であるべきだ
 
 73
 00:05:20,560 --> 00:05:24,470
-A few haywire immune cells in your brain is a quick way to die.  
+脳内の免疫細胞が少し混乱すれば
+すぐに死に至る
 
 74
 00:05:24,470 --> 00:05:30,510
-So they aren’t free to enter your nervous system, they have to be invited in and can be kicked out. 
+だから神経系への出入りは招待が必要だし
+追い出されることもある
 
 75
 00:05:30,510 --> 00:05:37,990
-To protect themselves, your nerve cells can order T Cells to self-destruct, if they think they are overreacting. 
+神経系は、T細胞が過剰反応していると思えば
+自己破壊を命令して身を守ることができる
 
 76
 00:05:37,990 --> 00:05:43,400
-And Lyssa figured out a way to make infected neurons express this order.
+Lyssa は感染したニューロンに
+この命令を促す方法を発見した
 
 77
 00:05:43,400 --> 00:05:46,190
-So as your powerful defense cells arrive –
+つまり強力な細胞が防衛に来ると…
 
 78
 00:05:46,190 --> 00:05:49,150
-they are ordered to commit suicide. 
+自殺を命じられるのだ
 
 79
 00:05:49,150 --> 00:05:52,170
-Now the virus infiltrates the brain stem. 
+さあ、ウイルスが脳幹に侵入した
 
 80
 00:05:52,170 --> 00:05:56,140
-Once this stage is reached you are going to die. 
+この段階に達したなら
+あなたは死ぬことになる
 
 81
 00:05:56,140 --> 00:05:58,860
-How Lyssa Kills 
+【Lyssa は宿主をどう殺すか】
 
 82
 00:05:58,860 --> 00:06:01,510
-One of the most irritating things about the Lyssavirus 
+このウイルスで最も焦れるのが
 
 83
 00:06:01,510 --> 00:06:06,370
-is that we still don’t know exactly how and why an infected person dies. 
+感染者が死に至る理由と経緯が
+いまだ正確には不明なことだ
 
 84
 00:06:06,370 --> 00:06:10,660
-Our usual idea of viruses causing damage is by multiplying rapidly, 
+ウイルス被害の典型的なイメージはこうだ
+高速で増殖し
 
 85
 00:06:10,660 --> 00:06:13,380
-killing their host cells once they have made enough copies
+十分になれば感染した細胞を殺し
 
 86
 00:06:13,380 --> 00:06:17,660
-triggering a massive immune reaction that also does a lot of damage.
+免疫系の強烈な反応を招くが
+これが深刻な被害も生む
 
 87
 00:06:17,660 --> 00:06:20,090
-But this doesn’t seem to be what happens here.   
+だが今回のケースは違いそうだ
 
 88
 00:06:20,090 --> 00:06:25,850
-Brain tissue of rabies patients shows minimal, sometimes non-existent damage.  
+狂犬病患者の脳細胞を見ても被害は最小限で
+時には無傷なのだ
 
 89
 00:06:25,850 --> 00:06:28,040
-Instead of murdering everything in sight, 
+手あたり次第に殺すかわりに
 
 90
 00:06:28,040 --> 00:06:33,530
-it is currently thought that lyssa wreaks havoc by messing up the neuron communication inside your brain,
+Lyssa は脳内のニューロン間でのやりとりを
+混乱させて大惨事を起こし
 
 91
 00:06:33,530 --> 00:06:36,640
-so much so, that it can’t function anymore. 
+その結果、脳が機能しなくなるとされる
 
 92
 00:06:36,640 --> 00:06:41,700
-this leads to symptoms like confusion, aggression and paralysis.  
+これは混乱、攻撃性、麻痺などを引き起こす
 
 93
 00:06:41,700 --> 00:06:43,860
-Now the virus begins to leave.
+さてウイルスが去り始める
 
 94
 00:06:43,860 --> 00:06:49,590
-Still traveling through neurons, it migrates away from the brain and heads for the salivary glands. 
+依然として神経細胞内を移動するが
+脳から離れ、唾液腺へ向かう
 
 95
 00:06:49,590 --> 00:06:55,120
-This is remarkable, because after traveling in one direction the virus reverses its course.
+これは驚くべきことで
+ウイルスが来た道を逆走している
 
 96
 00:06:55,120 --> 00:06:58,300
-After decades of study we don’t know how this works.   
+数十年の研究を経ても
+この機序は不明だ
 
 97
 00:06:58,300 --> 00:07:05,150
-Lyssa ends up saturating your saliva ready for the irate mammal to bite another and repeat the cycle. 
+唾液は Lyssa で飽和し
+怒れる哺乳類が噛みつけばサイクルが繰り返される
 
 98
 00:07:05,150 --> 00:07:08,040
-While this seems like the beginning of a Zombie outbreak, 
+ゾンビ大発生が始まるかに見えるが
 
 99
 00:07:08,040 --> 00:07:13,710
-luckily there are no known cases of a human biting another and spreading rabies this way. 
+幸い、人間が他人を噛み
+狂犬病が拡大した事例は知る限り存在しない
 
 100
 00:07:13,710 --> 00:07:15,860
-Now the end is near.
+さて、話は終盤だ
 
 101
 00:07:15,860 --> 00:07:18,280
-You are rapidly developing encephalitis,
+あなたの脳炎は急成長し
 
 102
 00:07:18,280 --> 00:07:24,140
-a swelling of the brain with many unpleasant neurological symptoms, from lethargy to paralysis. 
+脳が腫れ、無気力から麻痺まで
+多くの不快な神経症状がある
 
 103
 00:07:24,140 --> 00:07:30,120
-Slowly at first, and then suddenly, organ after organ fails as you slip into a coma. 
+まずはゆっくりと、そして突如
+次々と臓器不全となり、昏睡状態となる
 
 104
 00:07:30,120 --> 00:07:32,240
-There is no known effective therapy, 
+有効な治療法は未発見で
 
 105
 00:07:32,240 --> 00:07:36,900
-barely anyone has ever survived Lyssa once symptoms begin to show. 
+症状が現れてから生き延びた人は
+ほとんどいない
 
 106
 00:07:36,900 --> 00:07:40,400
-It is by far the deadliest virus we know. 
+知る限り、ずば抜けて致命的なウイルスだ
 
 107
 00:07:40,400 --> 00:07:43,660
-Except, there is actually something that could save you 
+ただし、あなたを救えるものが実在する
 
 108
 00:07:43,660 --> 00:07:44,910
- – a vaccine.   
+ワクチンだ
 
 109
 00:07:44,910 --> 00:07:48,960
-Rabies was one of the first diseases humans developed a vaccine for.   
+狂犬病は、ワクチン最初期の病気の一つだ
 
 110
 00:07:48,960 --> 00:07:52,930
-As vaccines do, it prepares your immune system for a future attack, 
+ワクチンは免疫系を
+将来の攻撃に備えさせ
 
 111
 00:07:52,930 --> 00:07:55,900
-so it has the right weapons ready in high numbers.
+効果的な武器が大量に準備される
 
 112
 00:07:55,900 --> 00:08:00,640
-The horrific tricks of simple Lyssa don’t work once you are vaccinated. 
+単純な Lyssa の恐ろしい手口も
+ワクチン接種で封じられる
 
 113
 00:08:00,640 --> 00:08:02,850
-And the vaccine is special for another reason
+このワクチンはさらに特別で
 
 114
 00:08:02,850 --> 00:08:08,180
-– because Lyssa is so slow in the first few weeks, it can be given to you after you have been exposed. 
+Lyssa は最初の数週はごく遅いので
+後からの接種が可能なのだ
+★exposedで「曝露」とか「曝される」なのだが、感染経路に飛沫感染もあるかのような印象になり、しっくりこなかった。飛ばしても意味はとれると判断。
 
 115
 00:08:08,180 --> 00:08:11,720
-So you can still be vaccinated after you have been bitten by an animal. 
+つまり、噛まれた後の接種でも
+間に合うのだ
 
 116
 00:08:11,720 --> 00:08:16,170
-Which is super important if you’ve had contact with a sick wild animal, say a bat, 
+罹病した野生動物
+コウモリなどに接触なら極めて重要で
 
 117
 00:08:16,170 --> 00:08:19,880
-because you often don’t even notice a bite from tiny teeth. 
+小さな歯で噛まれても
+見過ごしやすいからだ
 
 118
 00:08:19,880 --> 00:08:21,980
-Rabies is a monster. 
+狂犬病は怪物だ
 
 119
 00:08:21,980 --> 00:08:25,520
-One that has followed our species around for thousands of years, 
+何千年もの間、私たちの周辺につきまとい
+★our speciesの意味がとりづらい。人類種だと映像と合わない。
+私たちの周辺と訳す
 
 120
 00:08:25,520 --> 00:08:29,630
-that our ancestors were terrified of and rightly so. 
+祖先はそれを恐れたし
+今でもそうだ
 
 121
 00:08:29,630 --> 00:08:32,480
-It still kills around 60,000 people each year, 
+今でも毎年60000人が犠牲となり
 
 122
 00:08:32,480 --> 00:08:34,770
-almost half of them children. 
+約半分が子どもだ
 
 123
 00:08:34,770 --> 00:08:37,430
-We are far from eradicating this monster – 
+この怪物の根絶には程遠く
 
 124
 00:08:37,430 --> 00:08:43,360
-It lurks in the shadows, in forests and animals of all kinds, ready to return in greater numbers
+物陰に、森に、あらゆる動物に潜み
+さらなる規模で再来するかも
 
 125
 00:08:43,360 --> 00:08:50,100
-if we ever forget how to keep it at bay, or if we continue the trend of being suspicious of vaccines. 
+この怪物を遠ざける方法を忘れたり
+ワクチンを疑う風潮が続くようなら
 
 126
 00:08:50,100 --> 00:08:53,900
-Let us hope that one day humanity slays this monster, 
+人類がこの怪物を退治する日を願おう
 
 127
 00:08:53,900 --> 00:08:59,550
-it can become like most monsters: Part of our imagination. 
+他の怪物たちと同様、
+人類の想像力の一部になることを
+★他の怪物たち＝過去に根絶された疫病など。それらは人類の想像上のものにすぎなくなった。狂犬病もそうなってほしい。
+ということかなぁ…自信なし
 
 128
 00:08:59,550 --> 00:09:05,100
-There are much deeper levels of knowledge to explore about rabies than the glimpse we just showed you. 
+狂犬病の概要を示したが
+さらに深いレベルの知見もあります
 
 129
 00:09:05,100 --> 00:09:10,480
-But digging into sources and scientific information on your own can be intimidating
+でもソースや科学的情報に
+自力で潜るのは大変です
 
 130
 00:09:10,480 --> 00:09:19,320
-So we partnered with our friends from Brilliant to create an interactive course with hands-on lessons to guide you through some of the concepts we showed in this video.   
+だから Brilliant の友人と、今回の内容のいくつかを
+手を動かしつつ双方向で学べるコースを作りました
 
 131
 00:09:19,320 --> 00:09:24,930
-Brilliant is an interactive learning tool with over 60 courses in math, science, and computer science. 
+Brilliant は数学、科学、情報科学の
+60コース以上の対話型学習ツールです
 
 132
 00:09:24,930 --> 00:09:27,580
-They make science accessible with a hands-on approach.   
+体験的に科学を身近ににします
 
 133
 00:09:27,580 --> 00:09:31,650
-Think of it as a one-on-one tutoring version of a Kursgesagt video.
+Kurzgesagt の動画の
+個別指導版だと理解してください
 
 134
 00:09:31,650 --> 00:09:36,020
-You’ll experiment with how fast the virus can reach your brain based on its protein makeup 
+タンパク質の構成から
+ウイルスの脳への到達速度を実験し
 
 135
 00:09:36,020 --> 00:09:39,020
-or run simulations on Rabies’ genetic evolution,
+狂犬病の遺伝的進化をシミュレートし
 
 136
 00:09:39,020 --> 00:09:42,730
-to explore how mutations created the deadly virus we know today. 
+致死的ウイルスの誕生への
+突然変異を探ります
 
 137
 00:09:42,730 --> 00:09:46,890
-You can do things like manipulate energy to see how black holes are formed, 
+エネルギーを操作し
+ブラックホールの形成過程をみたり
 
 138
 00:09:46,890 --> 00:09:52,640
-or control the expansion of space itself to determine the ultimate fate of the universe. 
+宇宙自体の膨張を制御して
+その命運をコントロールしたりできます
 
 139
 00:09:52,640 --> 00:09:57,600
-To get some behind-the-scenes-science-coaching on space and biology and many more topics, 
+宇宙や生物など、様々な科学的題材の
+舞台裏を学ぶなら
 
 140
 00:09:57,600 --> 00:10:01,000
-go to Brilliant.org SlashNutshell and sign up for free.
+brilliant.org/nutshell で
+無料登録しましょう
 
 141
 00:10:01,000 --> 00:10:03,740
-And there’s an extra perk for kurzgesagt viewers:
+Kurzgesagt 視聴者には
+さらに特典です
 
 142
 00:10:03,740 --> 00:10:12,220
+このリンクからの最初の200人は年会費が2割引きで
+科学、数学、情報科学の全コースを利用できます
 
 143
 00:10:12,220 --> 00:10:18,480
-We love to go down a rabbit hole with our research – Brilliant will take you by the hand to come along on the ride. 
+私たちは調べ事の沼にハマるのが好きで
+Brilliantはその旅に同行する手引きとなります
+★go down a rabbit hole は不思議の国のアリスの例えですね。アリスがウサギの行き先を知りたくて穴に飛び込む。好奇心で後先考えず動くということだと思います。
 
 144
 00:10:20,960 --> 00:10:23,460
-Nature isn't always scary
+自然は怖いばかりでなく
 
 145
 00:10:23,460 --> 00:10:25,300
-it can also be beautiful
+美しくもある
 
 146
 00:10:25,590 --> 00:10:34,490
-nature holds many small treasures
+自然は小さな宝物に満ちていて
 
 147
 00:10:34,980 --> 00:10:43,300
-and beautiful moments in everyday life
+美しい瞬間は日々訪れている
 
 148
 00:10:44,020 --> 00:10:45,700
-from the tiniest of living things
+最小の生物から
 
 149
 00:10:46,210 --> 00:10:48,380
-to all the things that ever lived
+存在したあらゆる生命まで
 
 150
 00:10:48,840 --> 00:10:52,680
-nature is simply stunning
+自然はただただ美しい
+（ショップには詳細欄のリンクから）
+
