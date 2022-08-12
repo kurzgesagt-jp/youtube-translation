@@ -1,0 +1,593 @@
+﻿1
+00:00:00,220 --> 00:00:04,780
+In the 1970s thousands of Chickenheads rained from the sky in Europe,
+
+2
+00:00:04,780 --> 00:00:07,340
+making foxes and other wildlife confused 
+
+3
+00:00:07,340 --> 00:00:08,940
+and very happy.
+
+4
+00:00:08,940 --> 00:00:10,230
+Why?
+
+5
+00:00:10,230 --> 00:00:14,900
+They were filled with a vaccine to fight the deadliest virus known to humanity – 
+
+6
+00:00:14,900 --> 00:00:20,220
+since the 1930s a rabies epidemic had been sweeping across wildlife populations in Europe
+
+7
+00:00:20,220 --> 00:00:24,010
+and humans wanted to finally get rid of the virus once and for all. 
+
+8
+00:00:24,010 --> 00:00:28,830
+Rabies is named after Lyssa, the ancient Greek spirit of mad rage, 
+
+9
+00:00:28,830 --> 00:00:32,570
+and has been haunting us for at least 4000 years. 
+
+10
+00:00:32,570 --> 00:00:35,100
+It can turn animals into angry beasts 
+
+11
+00:00:35,100 --> 00:00:38,140
+and humans into zombies that fear water.
+
+
+12
+00:00:38,140 --> 00:00:43,310
+But what makes Lyssa fascinating is not just how bizarre and deadly its infection is, 
+
+13
+00:00:43,310 --> 00:00:48,380
+but also how incredibly good it is at avoiding our defenses. 
+
+14
+00:00:56,250 --> 00:00:59,650
+Viruses exist on the edge between life and death,
+
+15
+00:00:59,650 --> 00:01:04,340
+hardly more than a few genetic instructions that need living cells to multiply. 
+
+16
+00:01:04,340 --> 00:01:07,600
+The lyssavirus is simple even for a virus: 
+
+17
+00:01:07,600 --> 00:01:13,860
+It has only five genes, that is the instructions for five proteins that it's sold complex problems.
+
+18
+00:01:13,860 --> 00:01:16,400
+Infect a mammal, avoid its immune system, 
+
+19
+00:01:16,400 --> 00:01:21,370
+travel to its brain, make more of itself and infect new hosts. 
+
+20
+00:01:21,370 --> 00:01:24,320
+Let's see what happens if you get infected
+
+21
+00:01:24,320 --> 00:01:32,120
+It all starts with a bite, most likely by a dog carrying millions of viruses in its saliva, pushing them deep into the tissue.
+
+22
+00:01:32,120 --> 00:01:35,550
+The goal is your nerve cells, your neurons. 
+
+23
+00:01:35,550 --> 00:01:39,950
+They are living electrochemical wires, transferring signals throughout your body,
+
+24
+00:01:39,950 --> 00:01:46,840
+and can stretch for up to 1.5 meters, with their cellular machinery on one end and a terminal on the other. 
+
+25
+00:01:46,840 --> 00:01:52,220
+The terminal is where cells talk to each other, by passing chemicals that convey information.   
+
+26
+00:01:52,220 --> 00:01:56,070
+Lyssa probably binds to the receptors that are crucial for this process 
+
+27
+00:01:56,070 --> 00:01:59,740
+and slips inside the unsuspecting nerve cells. 
+
+28
+00:01:59,740 --> 00:02:02,560
+Inside, the virus has to solve a big problem. 
+
+29
+00:02:02,560 --> 00:02:07,220
+that needs to get to the cellular Machinery to take over the cell and make more viruses
+
+30
+00:02:07,220 --> 00:02:10,930
+and because neurons are pretty long, this can be far away. 
+
+31
+00:02:10,930 --> 00:02:13,700
+There is a solution at hand though: 
+
+32
+00:02:13,700 --> 00:02:18,590
+Cells have microtubules spanning their insides that give them structural integrity.  
+
+33
+00:02:18,590 --> 00:02:23,290
+But they also provide a track system for a specialized delivery system: 
+
+34
+00:02:23,290 --> 00:02:28,200
+Dynein motors are actual motors that use energy and deliver packages.
+
+35
+00:02:28,200 --> 00:02:31,950
+They are made from 50 different proteins, ten times more than the virus, 
+
+36
+00:02:31,950 --> 00:02:34,570
+and look like a little pair of shoes. 
+
+37
+00:02:34,570 --> 00:02:38,300
+Lyssa uses one of its five proteins to hijack this amazing system
+
+38
+00:02:38,300 --> 00:02:41,410
+and order it to head for the nucleus. 
+
+39
+00:02:41,410 --> 00:02:44,350
+What is the immune system doing to prevent all of that? 
+
+40
+00:02:44,350 --> 00:02:47,580
+Well, unfortunately not much. 
+41
+00:02:47,580 --> 00:02:53,140
+Usually when a virus attacks your civilian cells are crucial in activating your immune response.   
+
+42
+00:02:53,140 --> 00:02:58,440
+They notice that they have been infected and release hundreds of thousands of a special family of proteins: 
+
+43
+00:02:58,440 --> 00:03:02,420
+The interferons that, well, interfere with viruses. 
+
+44
+00:03:02,420 --> 00:03:08,800
+We’ll have to simplify a lot, but in a nutshell, Interferons alert your immune system to make antivirus weapons.   
+45
+00:03:08,800 --> 00:03:14,050
+But they do much more: they tell civilian cells to turn down their protein factories for a while –
+46
+00:03:14,050 --> 00:03:17,570
+which means that viruses can’t replicate efficiently anymore. 
+
+47
+00:03:17,570 --> 00:03:21,120
+And interferons tell your cells to become super transparent, 
+
+48
+00:03:21,120 --> 00:03:28,430
+which is important, because how can your immune cells notice that your civilian cells are infected when viruses hide inside them? 
+
+49
+00:03:28,430 --> 00:03:32,360
+Your body solves this by creating display windows into their insides, 
+
+50
+00:03:32,360 --> 00:03:35,690
+ called MHC class I molecules.
+
+51
+00:03:35,690 --> 00:03:41,550
+Cells constantly produce stuff to stay alive, and to showcase to your immune cells what is going on inside them
+
+52
+00:03:41,550 --> 00:03:47,710
+they take random samples of their products and put them into these tiny display windows to give a peek inside. 
+
+53
+00:03:47,710 --> 00:03:53,950
+Interferon tells your cells to make WAY more display windows and become super transparent.  
+
+54
+00:03:53,950 --> 00:04:01,850
+If a cell is infected and forced to make virus parts, your immune cells will see these parts in a window and order the infected cell to kill itself
+
+55
+00:04:01,850 --> 00:04:04,690
+– and all the viruses trapped within.
+
+56
+00:04:04,690 --> 00:04:09,100
+This is one of the most powerful methods of wiping out a viral infection. 
+
+57
+00:04:09,100 --> 00:04:16,310
+Unfortunately Lyssa blocks your neurons from making interferons and stays basically invisible to your immune system. 
+
+58
+00:04:16,310 --> 00:04:21,410
+In contrast to many other viruses, when it replicates, it doesn’t kill its host, 
+
+59
+00:04:21,410 --> 00:04:24,090
+which would also trigger alarm systems.   
+
+60
+00:04:24,090 --> 00:04:31,070
+Instead it stealthily jumps from neuron to neuron, very slowly making its way to your brain. 
+
+61
+00:04:31,070 --> 00:04:34,860
+This phase can take weeks to months and very rarely even years
+
+62
+00:04:34,860 --> 00:04:41,500
+and depends on a bunch of things, like if the bite was in your face or foot or how many viruses got into your muscles. 
+
+63
+00:04:41,500 --> 00:04:43,520
+Lyssa is a patient monster. 
+
+64
+00:04:43,520 --> 00:04:47,350
+Until it reaches its goal: Your brainstem. 
+
+65
+00:04:47,350 --> 00:04:51,870
+Finally, the immune system catches on that something isn’t right and reacts.
+
+66
+00:04:51,870 --> 00:04:55,820
+It dispatches some of your most powerful antivirus cells, Killer T Cells, 
+
+67
+00:04:55,820 --> 00:04:59,530
+to seek and kill infected cells and wipe out the enemy.
+
+68
+00:04:59,530 --> 00:05:05,910
+In other viral infections this would be a turning point, but in rabies the T cells are rushing towards their doom. 
+
+69
+00:05:05,910 --> 00:05:08,210
+Simple Lyssa with its 5 proteins 
+
+70
+00:05:08,210 --> 00:05:14,270
+plays a uno reverse card, using the immune system’s ingenuity against itself.
+
+71
+00:05:14,270 --> 00:05:17,620
+Your central nervous system is a very fragile part of your body
+
+72
+00:05:17,620 --> 00:05:20,560
+and so the immune system has to be very careful.
+
+73
+00:05:20,560 --> 00:05:24,470
+A few haywire immune cells in your brain is a quick way to die.  
+
+74
+00:05:24,470 --> 00:05:30,510
+So they aren’t free to enter your nervous system, they have to be invited in and can be kicked out. 
+
+75
+00:05:30,510 --> 00:05:37,990
+To protect themselves, your nerve cells can order T Cells to self-destruct, if they think they are overreacting. 
+
+76
+00:05:37,990 --> 00:05:43,400
+And Lyssa figured out a way to make infected neurons express this order.
+
+77
+00:05:43,400 --> 00:05:46,190
+So as your powerful defense cells arrive –
+
+78
+00:05:46,190 --> 00:05:49,150
+they are ordered to commit suicide. 
+
+79
+00:05:49,150 --> 00:05:52,170
+Now the virus infiltrates the brain stem. 
+
+80
+00:05:52,170 --> 00:05:56,140
+Once this stage is reached you are going to die. 
+
+81
+00:05:56,140 --> 00:05:58,860
+How Lyssa Kills 
+
+82
+00:05:58,860 --> 00:06:01,510
+One of the most irritating things about the Lyssavirus 
+
+83
+00:06:01,510 --> 00:06:06,370
+is that we still don’t know exactly how and why an infected person dies. 
+
+84
+00:06:06,370 --> 00:06:10,660
+Our usual idea of viruses causing damage is by multiplying rapidly, 
+
+85
+00:06:10,660 --> 00:06:13,380
+killing their host cells once they have made enough copies
+
+86
+00:06:13,380 --> 00:06:17,660
+triggering a massive immune reaction that also does a lot of damage.
+
+87
+00:06:17,660 --> 00:06:20,090
+But this doesn’t seem to be what happens here.   
+
+88
+00:06:20,090 --> 00:06:25,850
+Brain tissue of rabies patients shows minimal, sometimes non-existent damage.  
+
+89
+00:06:25,850 --> 00:06:28,040
+Instead of murdering everything in sight, 
+
+90
+00:06:28,040 --> 00:06:33,530
+it is currently thought that lyssa wreaks havoc by messing up the neuron communication inside your brain,
+
+91
+00:06:33,530 --> 00:06:36,640
+so much so, that it can’t function anymore. 
+
+92
+00:06:36,640 --> 00:06:41,700
+this leads to symptoms like confusion, aggression and paralysis.  
+93
+00:06:41,700 --> 00:06:43,860
+Now the virus begins to leave.
+
+94
+00:06:43,860 --> 00:06:49,590
+Still traveling through neurons, it migrates away from the brain and heads for the salivary glands. 
+
+95
+00:06:49,590 --> 00:06:55,120
+This is remarkable, because after traveling in one direction the virus reverses its course.
+
+96
+00:06:55,120 --> 00:06:58,300
+After decades of study we don’t know how this works.   
+97
+00:06:58,300 --> 00:07:05,150
+Lyssa ends up saturating your saliva ready for the irate mammal to bite another and repeat the cycle. 
+
+98
+00:07:05,150 --> 00:07:08,040
+While this seems like the beginning of a Zombie outbreak, 
+
+99
+00:07:08,040 --> 00:07:13,710
+luckily there are no known cases of a human biting another and spreading rabies this way. 
+
+100
+00:07:13,710 --> 00:07:15,860
+Now the end is near.
+
+101
+00:07:15,860 --> 00:07:18,280
+You are rapidly developing encephalitis,
+
+102
+00:07:18,280 --> 00:07:24,140
+a swelling of the brain with many unpleasant neurological symptoms, from lethargy to paralysis. 
+
+103
+00:07:24,140 --> 00:07:30,120
+Slowly at first, and then suddenly, organ after organ fails as you slip into a coma. 
+
+104
+00:07:30,120 --> 00:07:32,240
+There is no known effective therapy, 
+
+105
+00:07:32,240 --> 00:07:36,900
+barely anyone has ever survived Lyssa once symptoms begin to show. 
+
+106
+00:07:36,900 --> 00:07:40,400
+It is by far the deadliest virus we know. 
+
+107
+00:07:40,400 --> 00:07:43,660
+Except, there is actually something that could save you 
+
+108
+00:07:43,660 --> 00:07:44,910
+ – a vaccine.   
+
+109
+00:07:44,910 --> 00:07:48,960
+Rabies was one of the first diseases humans developed a vaccine for.   
+110
+00:07:48,960 --> 00:07:52,930
+As vaccines do, it prepares your immune system for a future attack, 
+
+111
+00:07:52,930 --> 00:07:55,900
+so it has the right weapons ready in high numbers.
+
+112
+00:07:55,900 --> 00:08:00,640
+The horrific tricks of simple Lyssa don’t work once you are vaccinated. 
+
+113
+00:08:00,640 --> 00:08:02,850
+And the vaccine is special for another reason
+
+114
+00:08:02,850 --> 00:08:08,180
+– because Lyssa is so slow in the first few weeks, it can be given to you after you have been exposed. 
+
+115
+00:08:08,180 --> 00:08:11,720
+So you can still be vaccinated after you have been bitten by an animal. 
+
+116
+00:08:11,720 --> 00:08:16,170
+Which is super important if you’ve had contact with a sick wild animal, say a bat, 
+
+117
+00:08:16,170 --> 00:08:19,880
+because you often don’t even notice a bite from tiny teeth. 
+
+118
+00:08:19,880 --> 00:08:21,980
+Rabies is a monster. 
+
+119
+00:08:21,980 --> 00:08:25,520
+One that has followed our species around for thousands of years, 
+
+120
+00:08:25,520 --> 00:08:29,630
+that our ancestors were terrified of and rightly so. 
+
+121
+00:08:29,630 --> 00:08:32,480
+It still kills around 60,000 people each year, 
+
+122
+00:08:32,480 --> 00:08:34,770
+almost half of them children. 
+
+123
+00:08:34,770 --> 00:08:37,430
+We are far from eradicating this monster – 
+
+124
+00:08:37,430 --> 00:08:43,360
+It lurks in the shadows, in forests and animals of all kinds, ready to return in greater numbers
+
+125
+00:08:43,360 --> 00:08:50,100
+if we ever forget how to keep it at bay, or if we continue the trend of being suspicious of vaccines. 
+
+126
+00:08:50,100 --> 00:08:53,900
+Let us hope that one day humanity slays this monster, 
+
+127
+00:08:53,900 --> 00:08:59,550
+it can become like most monsters: Part of our imagination. 
+
+128
+00:08:59,550 --> 00:09:05,100
+There are much deeper levels of knowledge to explore about rabies than the glimpse we just showed you. 
+
+129
+00:09:05,100 --> 00:09:10,480
+But digging into sources and scientific information on your own can be intimidating
+
+130
+00:09:10,480 --> 00:09:19,320
+So we partnered with our friends from Brilliant to create an interactive course with hands-on lessons to guide you through some of the concepts we showed in this video.   
+
+131
+00:09:19,320 --> 00:09:24,930
+Brilliant is an interactive learning tool with over 60 courses in math, science, and computer science. 
+
+132
+00:09:24,930 --> 00:09:27,580
+They make science accessible with a hands-on approach.   
+
+133
+00:09:27,580 --> 00:09:31,650
+Think of it as a one-on-one tutoring version of a Kursgesagt video.
+
+134
+00:09:31,650 --> 00:09:36,020
+You’ll experiment with how fast the virus can reach your brain based on its protein makeup 
+
+135
+00:09:36,020 --> 00:09:39,020
+or run simulations on Rabies’ genetic evolution,
+
+136
+00:09:39,020 --> 00:09:42,730
+to explore how mutations created the deadly virus we know today. 
+
+137
+00:09:42,730 --> 00:09:46,890
+You can do things like manipulate energy to see how black holes are formed, 
+
+138
+00:09:46,890 --> 00:09:52,640
+or control the expansion of space itself to determine the ultimate fate of the universe. 
+
+139
+00:09:52,640 --> 00:09:57,600
+To get some behind-the-scenes-science-coaching on space and biology and many more topics, 
+
+140
+00:09:57,600 --> 00:10:01,000
+go to Brilliant.org SlashNutshell and sign up for free.
+
+141
+00:10:01,000 --> 00:10:03,740
+And there’s an extra perk for kurzgesagt viewers:
+
+142
+00:10:03,740 --> 00:10:12,220
+
+143
+00:10:12,220 --> 00:10:18,480
+We love to go down a rabbit hole with our research – Brilliant will take you by the hand to come along on the ride. 
+
+144
+00:10:20,960 --> 00:10:23,460
+Nature isn't always scary
+
+145
+00:10:23,460 --> 00:10:25,300
+it can also be beautiful
+
+146
+00:10:25,590 --> 00:10:34,490
+nature holds many small treasures
+
+147
+00:10:34,980 --> 00:10:43,300
+and beautiful moments in everyday life
+
+148
+00:10:44,020 --> 00:10:45,700
+from the tiniest of living things
+
+149
+00:10:46,210 --> 00:10:48,380
+to all the things that ever lived
+
+150
+00:10:48,840 --> 00:10:52,680
+nature is simply stunning
