@@ -1,568 +1,664 @@
-﻿1
+1
 00:00:01,440 --> 00:00:07,146
-At its height, the Roman Empire was home to about 30% of the world’s population,
+最盛期のローマ帝国は
+世界人口の約30％を擁し
 
 2
 00:00:07,172 --> 00:00:11,440
-and in many ways it was the pinnacle of human advancement.
+人類の進歩の頂点に立っていた
 
 3
 00:00:11,466 --> 00:00:16,061
-Its citizens enjoyed the benefits of central heating, concrete, double glazing,
+市民は中央暖房
+コンクリート、二重ガラス
 
 4
 00:00:16,086 --> 00:00:20,507
-banking, international trade, and upward social mobility.
+銀行、国際貿易
+地位の向上などの恩恵を享受した
 
 5
 00:00:20,533 --> 00:00:24,424
-Rome became the first city in history with one million inhabitants
+ローマは世界初の100万人都市となり
 
 6
 00:00:24,450 --> 00:00:28,837
-and was a center of technological, legal, and economic progress.
+技術、法律、経済の中心地となった
 
 7
 00:00:28,863 --> 00:00:34,290
-An empire impossible to topple, stable and rich and powerful.
+打倒不能の帝国は栄華を極める
 
 8
 00:00:34,316 --> 00:00:36,885
-Until it wasn’t anymore.
+だがそれも終焉までの話だ
 
 9
 00:00:36,910 --> 00:00:42,547
-First slowly then suddenly, the most powerful civilization on earth collapsed.
+ゆっくりと、そして突然に
+最強の帝国は崩壊した
 
 10
 00:00:42,573 --> 00:00:47,080
-By civilization, we mean a complex society where labor is specialized
+文明とは労働が専門化され
+階級が存在し
 
 11
 00:00:47,106 --> 00:00:51,280
-and social classes emerge and which is ruled by institutions.
+制度によって支配された
+複雑な社会を意味する
 
 12
 00:00:51,306 --> 00:00:54,888
-Civilisations share a dominant mutual language and culture
+文明は統一的な言語と文化を持ち
 
 13
 00:00:54,913 --> 00:00:59,377
-and domesticate plants and animals to feed and sustain large cities,
+作物や家畜を育てて大都市を養い
 
 14
 00:00:59,403 --> 00:01:03,110
-where they often construct impressive monuments.
+印象的なモニュメントも建設する
 
 15
 00:01:03,136 --> 00:01:06,776
-Civilization lets us become efficient on large scales,
+文明は規模による効率化や
 
 16
 00:01:06,802 --> 00:01:13,076
-collect vast amounts of knowledge, and put human ingenuity and the natural resources of the world to work.
+膨大な知識の収集や
+天然資源の利用を可能にする
 
 17
 00:01:13,102 --> 00:01:17,006
-Without civilization, most people would never have been born.
+文明がなければ
+ほとんどの人は生まれなかった
 
 18
 00:01:17,032 --> 00:01:22,600
-Which makes it a bit concerning that collapse is the rule, not the exception.
+ よって文明の崩壊が『例外』ではなく
+『原則』なのは気がかりだ
 
 19
 00:01:22,626 --> 00:01:28,374
-Virtually all civilizations end, on average after 340 years.
+事実上全ての文明は
+平均して340年で崩壊している
 
 20
 00:01:28,400 --> 00:01:31,386
-Collapse is rarely nice for individuals.
+崩壊は人のためにならない
 
 21
 00:01:31,412 --> 00:01:37,321
-Their shared cultural identity is shattered as institutions lose the power to organize people.
+組織は力を失い
+文化的アイデンティティは崩れ去る
 
 22
 00:01:37,346 --> 00:01:43,810
-Knowledge is lost, living standards fall, violence increases and often the population declines.
+知識は失われ、生活は悪化し
+暴力は増え、人口は減る
 
 23
 00:01:43,836 --> 00:01:46,537
-The civilization either completely disappears,
+文明は完全に消滅するか
 
 24
 00:01:46,563 --> 00:01:50,374
-is absorbed by stronger neighbors or something new emerges,
+より強力な近隣国に吸収されるかして
 
 25
 00:01:50,400 --> 00:01:54,123
-sometimes with more primitive technology than before.
+時には文化水準が下がることもある
 
 26
 00:01:54,149 --> 00:01:58,466
-If this is how it has been over the ages, what about us today?
+もし崩壊が時代を選ばないなら
+現代はどうだろうか
 
 27
 00:02:05,680 --> 00:02:10,013
-Just as Europeans forgot how to build indoor plumbing and make cement,
+西洋人がバスルームやセメントの
+技術を忘れたように
 
 28
 00:02:10,039 --> 00:02:14,897
-will we lose our industrial technology, and with that our greatest achievements,
+我々も偉大な技術を失ってしまうのだろうか
 
 29
 00:02:14,923 --> 00:02:19,273
-from one dollar pizza to smartphones or laser eye surgery?
+格安のピザとかスマホとか
+レーザー眼科手術とかを
 
 30
 00:02:19,299 --> 00:02:21,618
-Will all this go away too?
+全部無くなっちゃうの？
 
 31
 00:02:21,643 --> 00:02:25,356
-Today our cities stretch for thousands of square kilometers,
+今日、我々の都市は
+途方もなく広がり
 
 32
 00:02:25,382 --> 00:02:29,448
-we travel the skies, our communication is instant.
+人は空を駆け
+通信は瞬時に行われる
 
 33
 00:02:29,473 --> 00:02:32,887
-Industrial agriculture with engineered high yield plants,
+現代の農業は高収量の植物や
 
 34
 00:02:32,913 --> 00:02:38,233
-efficient machinery and high potency fertilizer feeds billions of people.
+高性能の機械や肥料を生み
+何十億の人々を養っている
 
 35
 00:02:38,259 --> 00:02:41,635
-Modern medicine gives us the longest lifespan we’ve ever had,
+現代医学はかつてないほどの長寿を
 
 36
 00:02:41,660 --> 00:02:47,424
-while Industrial technology gives us an unprecedented level of comfort and abundance
+工業技術はかつてない快適さや
+豊かさをもたらした
 
 37
 00:02:47,450 --> 00:02:52,670
- – even though we haven’t yet learned to attain them without destroying our ecosphere.
+まあ、環境を破壊せず
+それらを行うすべはまだ学べていないが
 
 38
 00:02:52,696 --> 00:02:58,790
-There are arguably still different civilizations around today that compete and coexist with each other,
+今もなお様々な文明が存在し
+競争や共存を行っているが
 
 39
 00:02:58,816 --> 00:03:03,794
-but together they also form a singular, global civilization.
+それらが一つの文明圏を
+成していることは間違いない
 
 40
 00:03:03,820 --> 00:03:09,900
-But this modern, globalized civilization is even more vulnerable in some ways than past empires,
+しかし現代の文明は
+過去の帝国よりも脆弱といえる
 
 41
 00:03:09,926 --> 00:03:13,760
-because we are much more deeply interconnected.
+なぜなら、より深く結びついているからだ
 
 42
 00:03:13,786 --> 00:03:20,117
-A collapse of the industrialized world literally means that the majority of people alive today would perish
+産業化された世界の滅びは
+世界中の人がほぼ死ぬことを意味する
 
 43
 00:03:20,143 --> 00:03:25,014
-since without industrial agriculture we would no longer be able to feed them.
+現代的農業がなければ
+彼らを養う方法もないからだ
 
 44
 00:03:25,046 --> 00:03:27,649
-And there is an even greater risk:
+更に大きなリスクもある
 
 45
 00:03:27,675 --> 00:03:33,460
-What if a collapse were so deeply destructive that we were unable to re-industrialize again?
+もし破壊があまりに大きく
+再び産業化できないならどうだろうか
 
 46
 00:03:33,486 --> 00:03:40,224
-What if it ruined our chances of enjoying a flourishing future as a multiplanetary species?
+そのせいで宇宙に進出するほど
+繁栄するチャンスも失うとしたら
 
 47
 00:03:40,250 --> 00:03:44,454
-A global civilizational collapse could be an existential catastrophe:
+地球規模の文明崩壊は
+真の大惨事となりえる
 
 48
 00:03:44,480 --> 00:03:48,067
-something that ruins not just the lives of everyone alive today,
+現代の人だけでなく
+将来生まれる者も含む
 
 49
 00:03:48,093 --> 00:03:51,516
-but all the future generations that could have come into being.
+全ての人の人生を台無しにしかねない
 
 50
 00:03:51,542 --> 00:03:55,441
-All the knowledge we might have discovered, the art we might have created,
+将来見出したかもしれない
+知識や芸術
 
 51
 00:03:55,466 --> 00:03:59,174
-the joys we might have experienced, would be lost.
+経験したかもしれない喜びも
+全て失われる
 
 52
 00:03:59,200 --> 00:04:02,503
-So, how likely is all of this?
+このようなことはあり得るのだろうか
 
 53
 00:04:02,529 --> 00:04:04,698
-Let’s start with some good news.
+まず良い話から始めよう
 
 54
 00:04:04,723 --> 00:04:07,680
-While civilization collapses have happened regularly,
+文明の崩壊は定期的におきているが
 
 55
 00:04:07,706 --> 00:04:11,726
-none have ever derailed the course of global civilization.
+文明全体の進歩を狂わせたことはない
 
 56
 00:04:11,752 --> 00:04:15,631
-Rome collapsed, but the Aksumite Empire or the Teotihuacans
+ローマは滅んだが
+アクスム帝国やテオティワカン
 
 57
 00:04:15,656 --> 00:04:19,373
-and of course the Byzantine Empire, carried on.
+ビザンティン帝国は存続した
 
 58
 00:04:19,399 --> 00:04:22,300
-What about sudden population crashes?
+突発的な人口減少はどうだろう
 
 59
 00:04:22,326 --> 00:04:27,617
-So far we have not seen a catastrophe that has killed much more than 10% of the global population.
+今まで世界人口の10%超を
+失うような大災害はおきていない
 
 60
 00:04:27,643 --> 00:04:31,290
-No pandemic, no natural disaster, no war.
+パンデミックでも、自然災害でも
+戦争でもだ
 
 61
 00:04:31,316 --> 00:04:35,770
-The last clear example of a rapid global population decrease was the Black Death,
+過去人口が急減を示した
+例は黒死病で
 
 62
 00:04:35,796 --> 00:04:40,857
-a pandemic of the bubonic plague in the fourteenth century that spread across the Middle East and Europe
+14世紀に西洋と中東に
+大流行した黒死病は
 
 63
 00:04:40,883 --> 00:04:46,260
-and killed a third of all Europeans and about 1/10th of the global population.
+西洋人の1/3、世界人口の1/10が
+死亡するほどだった
 
 64
 00:04:46,286 --> 00:04:51,514
-If any event was going to cause the collapse of civilization, that should have been it.
+もし文明が崩壊するのであれば
+この時おきるはずだった
 
 65
 00:04:51,540 --> 00:04:57,327
-But even the Black Death demonstrates humanity's resilience more than its fragility.
+しかし黒死病ですら
+人類の脆さよりも粘り強さを示しているのだ
 
 66
 00:04:57,353 --> 00:05:03,537
-While the old societies were massively disrupted in the short term, the intense loss of human lives and suffering
+短期的には旧社会は破壊されたが
+人類の損失と苦しみは
 
 67
 00:05:03,563 --> 00:05:09,560
-did little to negatively impact European economic and technological development in the long run.
+長期的には経済や技術の発展に
+ほぼ影響を与えなかった
 
 68
 00:05:09,586 --> 00:05:12,354
-Population size recovered within 2 centuries,
+人口は2世紀以内に回復し
 
 69
 00:05:12,380 --> 00:05:16,513
-and just 2 centuries later, the Industrial Revolution began.
+その2世紀後には
+産業革命がおきたのである
 
 70
 00:05:16,539 --> 00:05:21,753
-History is full of incredible recoveries from horrible tragedies.
+歴史には悲劇から
+驚異的な復興を遂げた例がたくさんある
 
 71
 00:05:21,779 --> 00:05:25,485
-Take the atomic bombing of Hiroshima during World War 2.
+例えば広島への原爆投下をあげよう
 
 72
 00:05:25,510 --> 00:05:32,914
-140,000 people were killed and 90% of the city was at least partially incinerated or reduced to rubble.
+14万人が死亡し、都市の90%が
+焼却されるか瓦礫と化したが
 
 73
 00:05:32,940 --> 00:05:36,543
-But against all odds, they made a remarkable recovery!
+困難にも負けず
+驚きの復興を遂げたのだ
 
 74
 00:05:36,569 --> 00:05:43,567
-Hiroshima’s population recovered within a decade, and today it is a thriving city of 1.2 million people.
+広島の人口は10年以内に回復し
+今では120万人が住む大都市となった
 
 75
 00:05:43,593 --> 00:05:47,934
-None of this made these horrible events any less horrible for those who lived through them.
+この事実も当時の人の
+慰めにはならないだろうが
 
 76
 00:05:47,960 --> 00:05:53,494
-But for us as a species, these signs of resilience are good news.
+我々人類にとって
+このような回復力は良いニュースと言える
 
 77
 00:05:53,520 --> 00:05:57,660
-Why Recovery is Likely Even in the Worst Case
+【どうして最悪の事態からも回復できるのか】
 
 78
 00:05:57,686 --> 00:06:04,727
-One thing that’s different from historic collapses is that humanity now has unprecedented destructive power:
+現代の崩壊が過去と異なる点は
+人類がかつてないほどの破壊力を持つことだ
 
 79
 00:06:04,753 --> 00:06:12,417
-Today’s nuclear arsenals are so powerful that an all-out global war could cause a nuclear winter and billions of deaths.
+もし新たな世界大戦がおきれば
+核兵器は核の冬をおこし何十億もの命を奪うだろう
 
 80
 00:06:12,443 --> 00:06:17,564
-Our knowledge of our own biology and how to manipulate it is getting so advanced
+生物学の知識とその操作は
+非常に高度化しており
 
 81
 00:06:17,590 --> 00:06:24,327
-that it is becoming possible to engineer viruses as contagious as the coronavirus and as deadly as ebola.
+危険性の高いコロナやエボラのような
+ウィルスの生成が可能になってきている
 
 82
 00:06:24,353 --> 00:06:29,800
-Increasingly the risk of global pandemics is much higher than in the past.
+パンデミックのリスクは
+過去よりずっと高くなっている
 
 83
 00:06:29,826 --> 00:06:35,986
-So we may cause a collapse ourselves and it might be much worse than the things nature has thrown at us, so far.
+よって我々は過去より酷い
+崩壊を引き起こしかねない
 
 84
 00:06:36,012 --> 00:06:41,671
-But if, say 99% of the population died, would global civilization collapse forever?
+だが仮に人口の99％が亡くなるとしたら
+文明はどうなるだろう
 
 85
 00:06:41,696 --> 00:06:44,640
-Could we recover from such a tragedy?
+なんとかなるだろうか
 
 86
 00:06:44,666 --> 00:06:48,954
-We have some reasons to be optimistic. Let’s start with food.
+楽観できる理由がある
+まず食料の話から始めよう
 
 87
 00:06:48,980 --> 00:06:55,030
-There are 1 billion agricultural workers today so, even if the global population fell to just 80 million,
+現在の農業人口は10億人であるため
+世界人口が8千万人まで減っても
 
 88
 00:06:55,056 --> 00:06:59,417
-it is virtually guaranteed that many survivors would know how to produce food.
+食料の生産方法を知る者が
+生き残るのは確実だ
 
 89
 00:06:59,443 --> 00:07:04,454
-And we don’t need to start at square one because we could still use modern high-yield crops.
+最初からやり直す必要もなく
+高収量の現代的作物も使える
 
 90
 00:07:04,480 --> 00:07:08,331
-Maize is 10 times bigger than its wild ancestor;
+トウモロコシは先祖の10倍大きく
 
 91
 00:07:08,356 --> 00:07:12,073
-ancient tomatoes were the size of today’s peas.
+古代のトマトは豆つぶくらいの大きさだった
 
 92
 00:07:12,099 --> 00:07:17,937
-After agriculture, the next step towards recovery would be rebuilding industrial capacity,
+食料の次のステップは工業の再建だろう
 
 93
 00:07:17,963 --> 00:07:21,257
-like power grids and automated manufacturing.
+電力網や自動化された製造業のことだ
 
 94
 00:07:21,283 --> 00:07:27,497
-A huge problem is that our economies of scale make it impossible to just pick up where we left off.
+しかし規模の経済が発展しているため
+失ったものを取り戻すのは難しい
 
 95
 00:07:27,523 --> 00:07:31,760
-Many of our high tech industries are only functional because of huge demand
+ハイテク産業が機能するためには膨大な需要と
 
 96
 00:07:31,786 --> 00:07:36,494
-and intensely interconnected supply chains across different continents.
+大陸を超えるサプライチェーンが必要なのだ
 
 97
 00:07:36,520 --> 00:07:42,550
-Even if our infrastructure were left unharmed, we would make huge steps backwards technologically.
+たとえインフラが無事だったとしても
+大きな後退は確実だろう
 
 98
 00:07:42,576 --> 00:07:46,240
-But then again, we are thinking in larger time frames.
+だが我々はより大きな時間軸を使う
 
 99
 00:07:46,266 --> 00:07:51,587
-Industrialization originally happened 12,000 years after the agricultural revolution.
+産業化はそもそも農業革命の
+1万2千年後におきた出来事だ
 
 100
 00:07:51,613 --> 00:07:54,657
-So if we need to start over after a massive collapse,
+もし大きな崩壊後にやり直すなら
 
 101
 00:07:54,683 --> 00:08:00,297
-it shouldn’t be that hard to re-industrialize, at least on evolutionary timescales.
+進化的スケールの時間軸においては
+それほど難しくないはずだ
 
 102
 00:08:00,323 --> 00:08:04,429
-There’s a hitch, though. The Industrial Revolution was fuelled, literally,
+だが難点もある
+産業革命は入手の易しい
 
 103
 00:08:04,455 --> 00:08:09,663
-by burning easily-accessible coal and we are still very much reliant on it.
+石炭を燃料に推進され
+我々は今も石炭に依存している
 
 104
 00:08:09,689 --> 00:08:17,327
-If we use it all up today, aside from making rapid climate change much worse, we could hinder our ability to recover from a huge crisis.
+今、石炭を使い切ると気候変動もさることながら
+将来の復興の妨げになるかもしれない
 
 105
 00:08:17,353 --> 00:08:20,150
-So we should stop using easy-to-access coal,
+だから石炭を使うのをやめ
 
 106
 00:08:20,176 --> 00:08:25,583
-so it can serve as a civilization insurance in case something bad happens.
+文明全体の保険として確保しておくべきだ
 
 107
 00:08:25,609 --> 00:08:32,250
-Another thing that makes recovery likely is that we’d probably have most of the information we need to rebuild civilization.
+復興を楽観できる他の理由は
+我々が既に必要な情報を持っていることだ
 
 108
 00:08:32,276 --> 00:08:38,906
-We would certainly lose a lot of crucial institutional knowledge, especially on hard drives that nobody could read or operate anymore.
+電子機器に記録された情報など
+多くの重要情報が失われるのは確実だが
 
 109
 00:08:38,932 --> 00:08:46,434
-But a lot of the technological, scientific, and cultural knowledge stored in the world's 2.6 million libraries, would survive the catastrophe.
+技術、科学、文化の知識がどこかの図書館で
+崩壊を免れることは想像に難くない
 
 110
 00:08:46,460 --> 00:08:54,437
-The post-collapse survivors would know what used to be possible, and they could reverse engineer some of the tools and machines they’d find.
+崩壊後の人類はかつての知識を知り
+再度作り出すことが可能なはずだ
 
 111
 00:08:54,463 --> 00:08:58,327
-In conclusion, despite the bleak prospect of catastrophic threats,
+結論は、崩壊という
+暗い見通しにもかかわらず
 
 112
 00:08:58,353 --> 00:09:02,480
-natural or created by ourselves, there is reason for optimism:
+それが自然か人為かによらず
+楽観できる理由がある
 
 113
 00:09:02,506 --> 00:09:08,440
-humankind is remarkably resilient, and even in the case of a global civilizational collapse,
+人類には驚異的な回復力があり
+地球規模の崩壊からも
 
 114
 00:09:08,466 --> 00:09:11,383
-it seems likely that we would be able to recover
+立ち直る力を秘めているようだ
 
 115
 00:09:11,409 --> 00:09:15,693
-– Even if many people were to perish or suffer immense hardship.
+たとえ多くの人が死亡し
+多難が待ち受けていて
 
 116
 00:09:15,719 --> 00:09:20,580
-Even if we lost cultural and technological achievements in the process.
+その過程で文化や技術の
+成果を失おうともだ
 
 117
 00:09:20,606 --> 00:09:25,013
-But given the stakes, the risks are still unnervingly high.
+だが現代の状況を考えると
+崩壊のリスクは依然高い
 
 118
 00:09:25,039 --> 00:09:31,279
-Nuclear war and dangerous pandemics threaten the amazing global civilization we have built.
+核戦争や危険な感染症の流行は
+今まで築いてきた地球文明を脅かしている
 
 119
 00:09:31,305 --> 00:09:37,329
-Humanity is like a teenager, speeding around blind corners, drunk, without a seat belt.
+人類は飲酒運転で
+コーナーを攻める若者のように危なっかしい
 
 120
 00:09:37,355 --> 00:09:42,831
-The good news is that it is still early enough to prepare for and to mitigate these risks.
+良い知らせは、これらの危機に備えるのに
+十分な時間があることだ
 
 121
 00:09:42,856 --> 00:09:45,713
-We just need to actually do it.
+必要なのは
+行動に移すことなのだ
 
 122
 00:09:45,739 --> 00:09:48,317
-We made this video together with Will MacAskill,
+この動画は Will MacAskill と制作しました
 
 123
 00:09:48,343 --> 00:09:53,797
-a Professor of Philosophy at Oxford and one of the founders of the effective altruism movement,
+彼はオックスフォード大学の哲学教授で
+「効果的な利他主義運動」の創始者であり
 
 124
 00:09:53,823 --> 00:09:57,360
-which is about doing the most good you can with your time and money.
+時間とお金をできる限り
+善行に使おうとしています
 
 125
 00:09:57,386 --> 00:10:01,114
-Will just published a new book called What We Owe The Future,
+Will は「What We Owe The Future」
+という本を出版したばかりで
 
 126
 00:10:01,140 --> 00:10:05,374
-which is about how YOU can positively impact the long-term future of our world.
+内容は、世界の長期的未来に対し
+好影響を与える方法についてです
 
 127
 00:10:05,400 --> 00:10:10,200
-If you like Kurzgesagt videos, the chances are high you will like it!
+もし Kurzgesagt の動画が好きであれば
+この本も気に入るでしょう
 
 128
 00:10:10,226 --> 00:10:12,924
-The book has some pretty counter intuitive arguments,
+この本には直感に反する主張があり
 
 129
 00:10:12,950 --> 00:10:17,083
-like that risks from new technology, such as AI and synthetic biology,
+例えばAIや合成生物学など
+新技術のリスクは
 
 130
 00:10:17,109 --> 00:10:19,935
-are at least as grave as those from climate change.
+少なくとも気候変動に迫ると述べ
 
 131
 00:10:19,960 --> 00:10:24,000
-Or that the world doesn’t contain too many people, but too few.
+世界の人口は多いのではなく
+少なすぎると説きます
 
 132
 00:10:24,026 --> 00:10:28,440
-And especially that everyday actions like recycling or refusing to fly
+また日々の行動における
+リサイクルや飛行機の不使用などは
 
 133
 00:10:28,466 --> 00:10:33,350
-just aren’t that big a deal compared to where you donate, or what career you pursue.
+寄付をする場所や求めるキャリアに比べれば
+影響は小さいと言うのです
 
 134
 00:10:33,376 --> 00:10:36,740
-Most importantly, it argues that, by acting wisely,
+もっとも重要な主張は
+賢く行動することで
 
 135
 00:10:36,766 --> 00:10:39,706
-YOU can help make tomorrow better than today.
+より良い明日を作ることができるということです
 
 136
 00:10:39,732 --> 00:10:46,490
-And how WE together can build a flourishing world for the thousands or millions of generations that will come after us.
+そして後に生まれる幾万の世代のために
+繁栄する世界を築くことができるのです
 
 137
 00:10:46,516 --> 00:10:52,080
-Many things we at Kurzgesagt talk about regularly are discussed here, in much greater detail.
+Kurzgesagt が普段話していることの多くが
+より詳細に説明されています
 
 138
 00:10:52,106 --> 00:10:57,536
-Check out What We Owe The Future wherever you get your books or audiobooks.
+「What We Owe The Future」を
+是非チェックしてみて下さい
 
 139
 00:10:58,880 --> 00:11:02,900
-Did we manage to unlock a new fear for you?
+この動画はあなたに
+新たな恐怖を与えましたか？
 
 140
 00:11:02,926 --> 00:11:07,573
-Let’s counter existential dread with appreciation for humanity.
+実存的な恐怖に対しては
+人類への感謝の気持で対抗しましょう
 
 141
 00:11:07,599 --> 00:11:12,890
-Look how far we’ve come as a species. What we’ve built and where we’ve gathered.
+我々は種としてどこまで到達したのでしょう
+何を築き、どこに集まったのでしょう
 
 142
 00:11:12,916 --> 00:11:18,886
-Let this new World Map Poster be a reminder of what we can achieve.
-
+この新しいポスターは
+我々が何を達成したのかを思い出させてくれるでしょう
