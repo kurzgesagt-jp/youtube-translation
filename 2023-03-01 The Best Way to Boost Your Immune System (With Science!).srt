@@ -1,560 +1,673 @@
 1
 00:00:00,553 --> 00:00:05,347
-There is this idea floating around that what doesn’t kill you, makes you stronger.
+死ぬ程の苦難は 人を強くする
+という考え方がある
 
 2
 00:00:05,373 --> 00:00:08,200
-That surviving a disease leaves you better off.
+苦労は買ってでも
+した方がいい
 
 3
 00:00:08,226 --> 00:00:11,474
-And it seems to make sense because we have all experienced this.
+これは理に適った話のように思える
 
 4
 00:00:11,500 --> 00:00:17,600
-When you go through hardship, often you come out more resilient, more ready to face a difficult situation in the future.
+苦難を乗り越えれば 人は強く
+次の困難にも 打ち勝てるようになる
 
 5
 00:00:17,626 --> 00:00:22,700
-But it turns out that sometimes, what doesn’t kill you makes you weaker.
+だが時として
+死ぬ程の苦難が 人を弱くすることもある
 
 6
 00:00:22,726 --> 00:00:26,240
-So, what happens when you get sick?
+病気になると どうなるだろう？
 
 7
 00:00:33,750 --> 00:00:36,163
-The Machinery of War
+戦争のメカニズム
 
 8
 00:00:36,189 --> 00:00:40,616
-Think of yourself as a large country, with a sizable army to defend it.
+想像しよう
+あなたは相当の軍隊を持つ大国だ
 
 9
 00:00:40,642 --> 00:00:46,040
-You are surrounded by enemies that want to take your land, your energy, your resources.
+周りには土地 エネルギー 資源を
+奪おうとする敵がいる
 
 10
 00:00:46,066 --> 00:00:52,493
-This is a matter of life and death, so your body evolved to be sensitive to damage and to the presence of enemies.
+これは死活問題なので
+体は敵に対して 過敏に反応するよう進化した
 
 11
 00:00:52,519 --> 00:00:57,750
-Because this means that an invasion might happen at any moment and that it has to act fast.
+侵略の可能性は常に存在し
+すぐ対応する必要があるからだ
 
 12
 00:00:57,776 --> 00:01:01,630
-Let us start an invasion and see what happens.
+侵略が始まったら
+どうなるか見てみよう
 
 13
 00:01:01,656 --> 00:01:08,590
-The moment your cells notice that something is off, they release an onslaught of signal proteins called cytokines.
+細胞が異変に気づくと
+サイトカインというタンパク質を大量放出する
 
 14
 00:01:08,616 --> 00:01:12,183
-They are like air raid sirens that activate all sorts of immune cells,
+サイトカインは空襲警報のように
 
 15
 00:01:12,209 --> 00:01:16,710
-that then themselves release many more cytokines, amplifying the alarm.
+免疫細胞を活性化させ
+更なるサイトカインを促す
 
 16
 00:01:16,736 --> 00:01:21,126
-Soon you are flooded with signals that trigger precautions and counter-measures.
+予防や対抗を発動させる
+信号が溢れ出すのだ
 
 17
 00:01:21,152 --> 00:01:23,714
-Mobilization is under way.
+動員が始まった
 
 18
 00:01:23,740 --> 00:01:29,250
-Your brain activates sickness behavior and reorganizes your body's priorities to defense.
+脳は体に対し 非常事態を宣言し
+防御優先の体制へ移行する
 
 19
 00:01:29,276 --> 00:01:33,343
-The first thing you notice is that your energy level drops and you get sleepy.
+まず元気が出なくて
+眠いことに気づくだろう
 
 20
 00:01:33,369 --> 00:01:38,210
-You feel apathetic, often anxious or down and you lose your appetite.
+気力がなくなり 不安や落ち込みを感じ
+食欲もなくなる
 
 21
 00:01:38,236 --> 00:01:42,153
-Your sensitivity to pain is heightened and you seek out rest.
+痛みに対して敏感になり
+休息を求める
 
 22
 00:01:42,179 --> 00:01:47,546
-All of this serves to save your energy and reroute it into your immune response.
+これらは全て エネルギーを節約し
+免疫へと送り込むためだ
 
 23
 00:01:47,572 --> 00:01:51,500
-You become a country under attack switching into a war economy,
+あなたは侵略を受け
+戦時経済へと移行した
 
 24
 00:01:51,526 --> 00:01:56,573
-because properly activating your immune system is intensely disruptive and draining.
+免疫を適切に作動させるには
+消耗が避けられないからだ
 
 25
 00:01:56,599 --> 00:02:01,019
-Just like war is expensive for a country as industry switches to building tanks,
+戦争は高くつく
+国全体が戦車を作り始めるように
 
 26
 00:02:01,045 --> 00:02:07,416
-your immune system demands huge amounts of energy, amino acids and micro elements to build its weapons.
+免疫も武器製造のため
+膨大なエネルギーやアミノ酸などを必要とする
 
 27
 00:02:07,442 --> 00:02:12,583
-Take fever: it speeds up your metabolism and makes your cells work harder and faster,
+例えば発熱は代謝を促進し
+免疫をより頑張らせ
 
 28
 00:02:12,609 --> 00:02:15,998
-while creating heat that is pretty stressful for many invaders
+侵入者を妨害するための
+防衛反応だ
 
 29
 00:02:16,023 --> 00:02:18,980
- – but it uses up a lot of calories to maintain.
+もちろん維持は高くつく
 
 30
 00:02:19,006 --> 00:02:23,063
-Then your immune system begins to clone millions of specialized immune cells
+免疫は今回の敵に対処するための
 
 31
 00:02:23,089 --> 00:02:26,414
-to respond specifically to the enemy infecting you.
+特殊な免疫細胞を大量に作り出す
 
 32
 00:02:26,440 --> 00:02:32,894
-B Cells produce millions of antibodies every second, each requiring hundreds of amino acids to construct.
+B細胞は膨大な量の抗体を作り
+それぞれが数百のアミノ酸を必要とする
 
 33
 00:02:32,920 --> 00:02:37,693
-Billions or even trillions of proteins need to be made to refresh the complement system,
+血中の地雷原となる
+補体系を生み出すには
 
 34
 00:02:37,719 --> 00:02:40,130
-a minefield inside your blood.
+何兆ものアミノ酸が必要だ
 
 35
 00:02:40,156 --> 00:02:46,042
-Cytokines, the mobilisation and information signals, also need constant refreshing.
+動員や情報伝達を担うサイトカインも
+常に更新を必要とする
 
 36
 00:02:46,068 --> 00:02:49,302
-Usually you acquire your resources by eating.
+普段は食事により資源を得ているが
 
 37
 00:02:49,328 --> 00:02:54,970
-But when you are sick, your body slows down your digestion because it needs a lot of energy you can’t spare.
+罹患時は闘病にエネルギーが必要なので
+消化すら遅くなる
 
 38
 00:02:54,996 --> 00:03:00,212
-So it reaches for the easiest source of amino acids and starts breaking down your muscles.
+そこでアミノ酸の供給のために
+筋肉が分解され始める
 
 39
 00:03:00,238 --> 00:03:05,863
-All that muscle that you worked so hard for is sacrificed to keep you alive.
+あなたが苦労して得た筋肉も
+闘病の犠牲となったのだ
 
 40
 00:03:05,889 --> 00:03:10,115
-If you are young and healthy and fit, you will make up for that quickly once you are better.
+若く健康であれば
+すぐに取り戻せるだろうが
 
 41
 00:03:10,141 --> 00:03:16,189
-But if you are old or very young, weak or suffer from chronic illness, this may be way too draining.
+高齢者 幼児 病弱などの場合
+この消耗は耐え難いかもしれない
 
 42
 00:03:16,215 --> 00:03:20,310
-Your body is literally consuming itself to keep the defense going.
+あなたの体は文字通り
+己を消耗し続けている
 
 43
 00:03:20,336 --> 00:03:23,617
-If your whole system is already strained, when you get sick,
+体の調子が悪い状況で病気になれば
 
 44
 00:03:23,643 --> 00:03:28,573
-just keeping your immune responses going can overwhelm your capacities.
+免疫の反応は
+体の能力を超えてしまうこともあるのだ
 
 45
 00:03:28,599 --> 00:03:32,500
-Your Immune System is a Jerk. Our enemies too.
+免疫システムは乱暴者だ
+敵もだが
 
 46
 00:03:32,526 --> 00:03:36,660
-Your immune system is as dangerous to you as it is to enemies.
+免疫の攻撃は
+敵にも あなたにも降りかかる
 
 47
 00:03:36,686 --> 00:03:43,103
-There is a very fragile balance between the damage caused by an infection and the collateral damage caused by immune cells.
+感染による被害と 免疫による被害の間には
+非常に危ういバランスがある
 
 48
 00:03:43,129 --> 00:03:49,643
-One of your first responders are Neutrophils – imagine crazy aggressive chimps with machine guns.
+まず好中球の出番だ
+マシンガンを持つクレイジーな猿を想像してもいい
 
 49
 00:03:49,669 --> 00:03:56,428
-If a Neutrophil encounters enemies it showers them with chemicals that cut them open but can also damage civilian cells,
+好中球が敵と遭遇すると 化学物質を浴びせ
+敵を切り裂くが
 
 50
 00:03:56,454 --> 00:04:00,860
-especially if the patient is already compromised, for example by smoking.
+既に健康を害していれば
+己の細胞も被害を受ける
 
 51
 00:04:00,886 --> 00:04:06,113
-On top of that the microorganisms that invade you often release chemicals and toxins
+体内に侵入した微生物は
+化学物質や毒素を放出し
 
 52
 00:04:06,139 --> 00:04:08,750
-that can cause significant damage and cell death.
+大ダメージとなることもある
 
 53
 00:04:08,776 --> 00:04:15,126
-So a serious infection often causes many tiny wounds, literally holes in your organs.
+よって深刻な感染症では
+臓器に小さな傷や 穴が開くこともある
 
 54
 00:04:15,152 --> 00:04:21,197
-As you can imagine it is not great to have holes and wounds in your organs, and your body rushes to close them.
+ご想像通り これらの傷はよろしくないので
+体は急いで塞ごうとする
 
 55
 00:04:21,223 --> 00:04:26,944
-Your Neutrophils and Macrophages help by releasing chemicals that signal the body to start repairs,
+好中球やマクロファージは
+修復を要請する化学物質を放出し
 
 56
 00:04:26,970 --> 00:04:30,607
-and most of the damage is quickly filled up with regrowing cells.
+殆どの傷は新たな細胞で
+すぐ埋められる
 
 57
 00:04:30,633 --> 00:04:37,690
-But others are filled with collagen, a sort of fix-all organic cement that gives your gooey tissue structural integrity.
+だが他は万能修復用セメントである
+コラーゲンで埋められることもある
 
 58
 00:04:37,716 --> 00:04:40,720
-You have seen the result on your skin as scars.
+その結果 傷跡が肌に残るのだ
 
 59
 00:04:40,746 --> 00:04:43,166
-A scar is different from the original tissue.
+傷跡は元の組織とは異なる
 
 60
 00:04:43,192 --> 00:04:47,913
-It has no functioning cells in it, it is like a sloppily applied cement patch.
+それは機能しない細胞で
+ただの詰め物だ
 
 61
 00:04:47,939 --> 00:04:50,550
-It can’t do what the original tissue was doing.
+元の細胞とは
+全く違うのだ
 
 62
 00:04:50,576 --> 00:04:54,030
-A scar on your heart makes it beat a tiny bit weaker.
+傷が心臓にあると
+鼓動がやや弱くなり
 
 63
 00:04:54,056 --> 00:04:57,403
-A scar on the lungs no longer captures oxygen.
+肺にあると
+酸素の吸収が悪くなり
 
 64
 00:04:57,429 --> 00:05:00,926
-A scar on your liver makes it a worse filter.
+肝臓なら
+フィルターの性能が落ちる
 
 65
 00:05:00,952 --> 00:05:07,919
-And so, as you go through life and survive serious disease after serious disease, the functionality of your organs may decrease.
+つまり人生の旅路にて 重病に次ぐ重病を患えば
+体の機能は低下していくのだ
 
 66
 00:05:07,945 --> 00:05:13,766
-This damage is usually small enough not to affect your quality of life – but can be permanent.
+通常これらは生活の質に影響を与えない
+だが永続的となり得る
 
 67
 00:05:13,792 --> 00:05:19,165
-Ok, this sounds depressing, but there is actually something you can do to avoid a lot of this damage
+まあ酷い話だ
+だがこれらのダメージを回避し
 
 68
 00:05:19,190 --> 00:05:21,900
-and train your immune system!
+免疫力を高める方法もある
 
 69
 00:05:21,926 --> 00:05:25,026
-The best way to train your Immune System
+免疫力を鍛える最良の方法とは
 
 70
 00:05:25,052 --> 00:05:27,120
-Your immune system is unique.
+人の免疫は他人と違う
 
 71
 00:05:27,146 --> 00:05:32,760
-Everyone has a slightly different immune system that’s stronger against some enemies and weaker against others.
+弱点と強みが人によって違う様に
+皆 違う免疫系を持っている
 
 72
 00:05:32,786 --> 00:05:38,593
-Which makes evolutionary sense, as this protects our species from being wiped out by a single infection.
+これは進化的に理に適い
+単独の感染症による絶滅を防いでいる
 
 73
 00:05:38,619 --> 00:05:45,013
-Collectively, the immune system of the human species is a spectrum: most people respond well enough to an infection,
+総じて人の免疫はスペクトラムだ
+殆どの人は感染症に上手く反応し
 
 74
 00:05:45,039 --> 00:05:49,583
-a few are super-responders and a few don't respond well and die.
+少数は超反応し
+他の少数は反応できず死に至る
 
 75
 00:05:49,609 --> 00:05:51,770
-Some people survived the black death,
+黒死病を生き延び
 
 76
 00:05:51,796 --> 00:05:56,906
-are more resistant to HIV or Corona virus or even resistant against Ebola.
+HIVやコロナに強く
+エボラに耐性がある人すらいる
 
 77
 00:05:56,932 --> 00:06:02,616
-Others are killed easily by the flu or highly vulnerable to certain bacterial infections.
+逆にインフルエンザや特定の感染症で
+死んでしまう人もいる
 
 78
 00:06:02,642 --> 00:06:05,770
-Where you are on this spectrum is impossible to predict.
+あなたがどうなのかは
+予測不能だ
 
 79
 00:06:05,796 --> 00:06:09,977
-And you also respond differently to every possible infection.
+また それぞれの感染症への
+反応も異なる
 
 80
 00:06:10,003 --> 00:06:13,510
-This is why seemingly very healthy young people died from Covid
+これが健康な若者がコロナで亡くなり
 
 81
 00:06:13,536 --> 00:06:17,836
-while for some elderly people it was more like a mild flu.
+逆に高齢者が軽症で
+済むこともある理由だ
 
 82
 00:06:17,862 --> 00:06:22,526
-The idea that you can weather all sorts of diseases if you never get a cold is wrong.
+全く風邪を引かない人でも
+他の病気にはかかるのだ
 
 83
 00:06:22,552 --> 00:06:26,673
-You never know what your immune system is good at until it is tested.
+自分の免疫の強さは
+テストをするまで不明だ
 
 84
 00:06:26,699 --> 00:06:33,000
-Getting sick is a gamble in life’s casino with your health on the line. Always.
+病気になることは 常に
+自分の健康を賭ける ギャンブルである
 
 85
 00:06:33,026 --> 00:06:38,537
-But there is something you can do: hacking one of the best features of your immune system.
+だが できることもある
+免疫をハックするのだ
 
 86
 00:06:38,563 --> 00:06:43,106
-When you survive a disease, usually you have better defenses against it afterwards –
+病気から生還すると
+病気への防御力が向上する
 
 87
 00:06:43,132 --> 00:06:47,433
-you gain memory cells that are very good at killing the specific enemy you fought that day.
+敵を上手に殺すための
+記憶細胞を得るからだ
 
 88
 00:06:47,459 --> 00:06:52,450
-So you either don’t get the disease again or the next infection is much milder.
+なので その病気にはもうかからないか
+ずっと軽く済む
 
 89
 00:06:52,476 --> 00:06:59,130
-And you can use an incredible achievement of human ingenuity that taps into this mechanism to prevent damage from disease
+この仕組みを利用した 人類の知恵の結晶が
+病気のダメージを防ぎ
 
 90
 00:06:59,156 --> 00:07:02,863
-and train your immune system: Vaccines.
+免疫を鍛えるのに利用できる
+ワクチンだ
 
 91
 00:07:02,889 --> 00:07:09,390
-Vaccines basically pretend to be a disease and train your defenses to be ready if it ever shows up for real.
+ワクチンは病気のフリをし
+万一のために 防御力を鍛えるためのものだ
 
 92
 00:07:09,416 --> 00:07:14,516
-The goal is to create the same memory cells that you would get after surviving an infection.
+感染症を生き延びたのと
+同じ記憶細胞を得るために行う
 
 93
 00:07:14,542 --> 00:07:18,857
-But if you can feel some side effects, why should you still do it?
+だが副反応の可能性もあるに
+なぜ必要なのか
 
 94
 00:07:18,883 --> 00:07:22,356
-Nature Vs Vaccine Dojo
+自然道場 対 ワクチン道場
 
 95
 00:07:22,382 --> 00:07:28,650
-You have two options to train your immune system: Vaccine Dojo and nature dojo.
+免疫を鍛えるには2つの選択がある
+ワクチン道場と自然道場だ
 
 96
 00:07:28,676 --> 00:07:33,516
-In vaccine dojo you train with paper weapons and learn to defend yourself.
+ワクチン道場は 紙製の武器を使って訓練し
+防御を学ぶ
 
 97
 00:07:33,542 --> 00:07:36,400
-Sure, you might get a black eye or a bruise.
+痣くらい作るかもしれないが
 
 98
 00:07:36,426 --> 00:07:40,840
-Sometimes after a vaccine, you get sick for a few days, but that’s generally it.
+ワクチンを打てば
+数日具合が悪くても それだけだ
 
 99
 00:07:40,866 --> 00:07:43,436
-No scars, no permanent damage.
+傷跡もなく
+後遺症もない
 
 100
 00:07:43,462 --> 00:07:48,130
-We discussed vaccine side effects in detail in another video if you want to learn more.
+ワクチンの副反応は
+過去の動画も見てほしい
 
 101
 00:07:48,156 --> 00:07:53,230
-On the other hand, getting a disease to become immune means going to a nature dojo.
+一方 病気になって免疫をつけるのは
+自然道場への入門だ
 
 102
 00:07:53,256 --> 00:07:58,266
-In nature dojo, you train with real weapons, sharp knives and swords.
+自然道場では 本物の武器
+鋭いナイフや 剣で稽古をする
 
 103
 00:07:58,292 --> 00:08:02,504
-Things might still work out, but with way more cuts and wounds.
+上手くいくかもしれないが
+傷は多く残るだろう
 
 104
 00:08:02,530 --> 00:08:08,484
-But from time to time someone will die, be it a kid from measles or an adult from influenza.
+時折 麻しんで子供や
+インフルエンザで大人が 亡くなることもある
 
 105
 00:08:08,510 --> 00:08:11,266
-Nature dojo is just way more risky.
+自然道場は より危険なのだ
 
 106
 00:08:11,292 --> 00:08:16,516
-On top of that, the immunity you get from a vaccine is often better than the natural resistance,
+その上 ワクチンは生産的な
+免疫獲得に向け設計されており
 
 107
 00:08:16,542 --> 00:08:20,820
-because they are engineered to engage your immune system in a more productive way.
+自然から得る抵抗力より
+優れていることも多い
 
 108
 00:08:20,846 --> 00:08:26,580
-Of course vaccines are not magic and sometimes they do not protect us as well as we’d like them to.
+もちろん ワクチンは魔法ではなく
+期待に沿わないこともある
 
 109
 00:08:26,606 --> 00:08:30,876
-Maybe because an enemy mutates too quickly, like the Omicron coronavirus,
+オミクロン株のように
+変異が早すぎる場合や
 
 110
 00:08:30,902 --> 00:08:36,783
-or because your specific immune system does not respond well to the vaccine and builds less of a defense.
+特定の場合 ワクチンの反応が悪く
+防御力が低下する場合などだ
 
 111
 00:08:36,809 --> 00:08:42,510
-Still, being vaccinated is one of the best tools to train your natural defenses.
+それでも ワクチン接種は
+自然な防御力を鍛える最良の方法だ
 
 112
 00:08:42,536 --> 00:08:46,959
-In the end, if we look at the stunning progress humanity has made in the last century,
+結局 前世紀に人が成した
+驚くべき進歩を見れば
 
 113
 00:08:46,985 --> 00:08:50,386
-eventually we may overcome disease for good.
+病気を永久に克服できるかもしれない
 
 114
 00:08:50,412 --> 00:08:54,780
-But until then we can do our best to take care of ourselves and others -
+それまでは 自分と周りを
+最大限 気にかけよう
 
 115
 00:08:54,806 --> 00:08:59,539
-your body and your older self will be grateful to you.
+体と未来の自分は
+その決断に感謝することだろう
 
 116
 00:09:00,300 --> 00:09:04,390
-Diseases are not the only problem humanity can address if we work together.
+人類が力を合わせるべき問題は
+病気だけではありません
 
 117
 00:09:04,416 --> 00:09:09,073
-We believe the same is true for climate change, one of the main challenges of our generation.
+我々の主要な課題である
+気候についても 同じことが言えるでしょう
 
 118
 00:09:09,099 --> 00:09:13,944
-We are very passionate about this topic and we have covered it extensively in previous videos.
+私達はこのテーマについて情熱を傾けており
+以前も動画で取り上げました
 
 119
 00:09:13,970 --> 00:09:20,486
-Humanity needs to tackle this problem on different levels of society, from governments and economies down to the individual.
+人類は政府から個人に至るまで
+社会の様々なレベルで これに取り組む必要があります
 
 120
 00:09:20,512 --> 00:09:24,990
-And there’s one way you can take action now – by working with our friends from Wren,
+そして今すぐ行動できる一つが
+今回のスポンサーである Wren による
 
 121
 00:09:25,016 --> 00:09:27,559
-who help you offset your carbon emissions.
+カーボン・オフセットです
 
 122
 00:09:27,585 --> 00:09:33,593
-By visiting wren.co and answering a few questions you can find out what your personal carbon footprint is.
+wren.co にアクセスし 質問に答えれば
+あなたのカーボン・フットプリントがわかります
 
 123
 00:09:33,619 --> 00:09:37,836
-Your first step should be reducing your footprint – but there are limits to that.
+CO2の排出は削減しなくては…
+しかしそれにも限界があります
 
 124
 00:09:37,862 --> 00:09:43,963
-Wren lets you offset the rest of your carbon footprint with a monthly subscription that supports projects that plant trees,
+Wren は植林や熱帯雨林の保護など
+CO2削減を行うプロジェクトを支援することで
 
 125
 00:09:43,989 --> 00:09:47,270
-protect rainforests, and remove carbon dioxide from the sky.
+自分のCO2排出を
+相殺することができます
 
 126
 00:09:47,296 --> 00:09:51,650
-We think it's one of many puzzle pieces that can make a real difference in the climate crisis.
+私たちは これが気候に真の変化を与える
+鍵の一つだと考えています
 
 127
 00:09:51,676 --> 00:09:56,413
-Once you sign up to make a monthly contribution you’ll get pictures and updates from the project you support,
+毎月の寄付を申し込むと
+支援したプロジェクトの写真や 最新情報が届き
 
 128
 00:09:56,439 --> 00:09:59,163
-so you can directly see the impact you are making.
+影響を直接確認することができます
 
 129
 00:09:59,189 --> 00:10:05,417
-We appreciate Wren’s focus on transparency and impact, so you can always retrace how your money is spent.
+Wren は透明性をもち 寄付金がどこに使われたのか
+いつでも辿ることができます
 
 130
 00:10:05,443 --> 00:10:09,760
-One project we find especially interesting is Refrigerant Destruction —
+我々が興味を持ったプロジェクトの一つが
+冷蔵庫の破壊についてで
 
 131
 00:10:09,786 --> 00:10:12,896
-Old refrigerators use harmful gases as a coolant.
+古い冷蔵庫は有毒なガスを冷却に使用しています
 
 132
 00:10:12,922 --> 00:10:18,964
-These gases, once released into the atmosphere, cause global warming thousands of times faster than CO2.
+これらのガスは一旦大気に放出されると
+CO2の何千倍もの速さで温暖化を引き起こします
 
 133
 00:10:18,990 --> 00:10:22,683
-Wren’s project permanently destroys containers filled with these gases—
+Wren はこれらのガスが入った容器を
+永久に破壊し
 
 134
 00:10:22,709 --> 00:10:27,156
-proving, with high certainty, that they’ll never leak and contribute to global warming.
+漏れて地球温暖化を起こさないことを
+高い確度で証明しています
 
 135
 00:10:27,182 --> 00:10:31,626
-Sign up through wren.co/kurzgesagt to start helping the planet.
+wren.co/kurzgesagt にサインアップし
+地球を助ける活動を始めましょう
 
 136
 00:10:31,652 --> 00:10:33,989
-As climate change is close to our hearts
+気候変動は身近な問題なので
 
 137
 00:10:34,015 --> 00:10:39,850
-we will personally pay for the first month of subscription for the first 200 people to sign up!
+先着200名様には
+我々が1ヶ月分の購読料を負担します
 
 138
 00:10:39,876 --> 00:10:46,047
-Continue your kurzgesagt journey into the fascinating world of the immune system and check out these products on our shop.
+免疫の魅力に迫る旅を続けるために
+ぜひショップでこれらの製品をチェックしてみてください
 
 139
 00:10:46,073 --> 00:10:51,160
-Learn more about immune cells and marvel at the battles that are fought in your body everyday.
+免疫細胞について詳しく知り
+日々体の中で繰り広げられている戦いに驚いてください
 
 140
 00:10:51,186 --> 00:10:57,426
-All of our products are designed with love and produced with care by us here at kurzgesagt.
+すべての製品は kurzgesagt が愛情を込めてデザインし
+心を込めて生産しています
 
