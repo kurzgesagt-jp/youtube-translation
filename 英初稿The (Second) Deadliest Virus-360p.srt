@@ -1,664 +1,762 @@
-﻿1
+1
 00:00:00,830 --> 00:00:05,700
-Few of the monsters that evolution created have been so successful at hurting us
+進化が生んだ怪物たち
+なかでも屈指の被害を生んだのが
 
 2
 00:00:05,700 --> 00:00:09,420
-as the variola virus, responsible for smallpox
+ヴァリオラウイルス
+天然痘の病原だ
 
 3
 00:00:09,420 --> 00:00:12,770
-The carnage it caused was so terrible and merciless 
+この悲惨で無慈悲な虐殺により
 
 4
 00:00:12,770 --> 00:00:17,460
-that it compelled humankind, for the first time,  to act truly globally.
+人類は初めて
+真にグローバルな行動を求められた
 
 5
 00:00:17,460 --> 00:00:21,510
-It was one of the   greatest wins of our species over the ancient  powers of nature,
+自然の脅威に対する
+人類最大の勝利の一つで
 
 6
 00:00:21,510 --> 00:00:23,230
-all made possible by… 
+その立役者は…
 
 7
 00:00:23,230 --> 00:00:24,750
-cows
+牛たちだった
 
 8
 00:00:33,080 --> 00:00:37,810
-Variola is a virus, a tiny machine that only  seeks to reproduce itself.
+ヴァリオラはウイルスで
+自己増殖を追求する小型マシンだ
 
 9
 00:00:37,810 --> 00:00:43,690
-Evidence of It has been found in Egyptian mummies and in writing from India and China as old as 3000 years.
+エジプトのミイラにも
+3000年前のインドや中国の文書にも痕跡がある
 
 10
 00:00:43,690 --> 00:00:48,960
-1300 years ago smallpox killed up to a third of  Japan’s population.
+1300年前
+天然痘は日本の人口の1/3を殺し
 
 11
 00:00:48,960 --> 00:00:53,260
-By the sixteen hundreds, it   was one of the major causes of death worldwide.
+1600年ごろには
+世界の主な死因の一つとなっていた
 
 12
 00:00:53,260 --> 00:00:57,140
-In late 18th century Europe, it killed 400,000 a year.
+18世紀後半のヨーロッパでは
+年に40万人が死に
 
 13
 00:00:57,140 --> 00:01:00,960
-Every third person who went blind did so because of this virus.
+失明の1/3は
+このウイルスが原因だった
 
 14
 00:01:00,960 --> 00:01:04,290
-Even in the 20th century, a hot second ago in history,
+つい最近の20世紀でも
 
 15
 00:01:04,290 --> 00:01:07,000
-it still killed at  least 300 million people.
+少なくとも3億人が死んでいる
 
 16
 00:01:07,000 --> 00:01:11,710
-Smallpox is an abusive monster that returns over and over and over again, 
+天然痘は執拗な怪物で
+何度も何度も再発しては
 
 17
 00:01:11,710 --> 00:01:15,690
-killing, maiming, and disrupting societies.
+殺し 障害を残し
+社会を崩壊させる
 
 18
 00:01:15,690 --> 00:01:19,070
-How could variola be so incredibly deadly for so long
+なぜこれほど長く猛威をふるったのか
 
 19
 00:01:19,070 --> 00:01:22,350
-and how could we have forgotten its horror so quickly?
+その恐怖がすぐに風化した理由は？
 
 20
 00:01:22,350 --> 00:01:28,040
-In 2023, there are only two laboratories left where the living virus is officially stored for research:
+2023年現在 生きたヴァリオラを
+公式に保管している研究所は二か所で
 
 21
 00:01:28,040 --> 00:01:31,480
-in Koltsovo, Russia and in Atlanta, USA
+ロシアのコルツォボ
+アメリカのアトランタだ
 
 22
 00:01:31,480 --> 00:01:33,110
-Which is certainly a good idea 
+実際 いいやり方だ
 
 23
 00:01:33,110 --> 00:01:35,710
-what could possibly go wrong?
+何か問題でも？
 
 24
 00:01:35,710 --> 00:01:41,210
-Let’s say that through an unfortunate series of events the virus got out and you got infected. 
+仮に不運の連続でウイルスが漏出し
+あなたが感染したとして
 
 25
 00:01:41,210 --> 00:01:43,300
-What would happen to you? 
+何が起きるのか
 
 26
 00:01:43,300 --> 00:01:46,160
-How Smallpox Kills 
+【天然痘はいかに人を殺すか】
 
 27
 00:01:46,160 --> 00:01:50,460
-Variola is highly infectious and catches a ride in small droplets you breathe in.
+ヴァリオラは感染力が強く
+小さな飛沫に乗って吸引され
 
 28
 00:01:50,460 --> 00:01:56,070
-Immediately it begins to infect the cells that line your throat and starts killing them to cause chaos.
+すぐに喉を覆う細胞に感染して殺し始め
+混乱を引き起こす
 
 29
 00:01:56,070 --> 00:01:57,400
-Why? 
+なんのためか？
 
 30
 00:01:57,400 --> 00:02:00,680
-To trick your body into giving it a lift.
+肉体を欺き、運搬させるためだ
 
 31
 00:02:00,680 --> 00:02:02,990
-Whenever cells in your body die a violent death
+細胞が非業の死を遂げると
 
 32
 00:02:02,990 --> 00:02:06,810
-your immune cells immediately stream to the site of infection to help out. 
+免疫細胞がすぐに感染部位へと流れてくる
 
 33
 00:02:06,810 --> 00:02:09,940
-In this case that backfires horribly.
+これが酷く裏目に出る
 
 34
 00:02:09,940 --> 00:02:14,820
-As immune cells begin cleaning up dead cells, eating viruses and killing infected cells
+免疫細胞がウイルスを食べ
+感染した細胞を殺す際
 
 35
 00:02:14,820 --> 00:02:18,040
-variola infects a crucial cell of your immune system
+ヴァリオラは重要な免疫細胞に感染する
 
 36
 00:02:18,040 --> 00:02:19,900
-Your Dendritic cells
+樹状細胞だ
 
 37
 00:02:19,900 --> 00:02:24,720
-intelligence cells that gather information and leave the battlefield to get help. 
+諜報員として戦場で情報を集め
+助けを呼びにいき
 
 38
 00:02:24,720 --> 00:02:26,590
-They enter your lymphatic system, 
+リンパ系に入る
 
 39
 00:02:26,590 --> 00:02:31,700
-a highway network that spans yourentire body and connects hundreds of immune bases.
+全身をめぐる高速道路網で
+何百という免疫の拠点をつないでいる
 
 40
 00:02:31,700 --> 00:02:37,580
-In these bases your heavy defenses are activated and should be the last place an enemy would want to invade, 
+拠点では重装の兵力が活性化しているため
+侵略者も後回しにしたいところだが
 
 41
 00:02:37,580 --> 00:02:40,340
-but Variola wants to get here.
+ヴァリオラは
+ここに行きたいのだ
 
 42
 00:02:40,340 --> 00:02:44,670
-For about 12 days, the virus quietly infects civilian and immune cells,
+約12日間 免疫細胞や
+その周囲に密かに感染し
 
 43
 00:02:44,670 --> 00:02:48,060
-jumping from cell to cell infecting more and more of them.
+細胞から細胞へ飛び移り
+感染を広げる
 
 44
 00:02:48,060 --> 00:02:53,650
-At some point a critical threshold is reached and variola starts its attack for real.
+ある時点で閾値に達し
+ヴァリオラは表立った攻撃を始める
 
 45
 00:02:53,650 --> 00:03:00,640
-Millions of viruses use the lymphatic highway to spill into your blood and organs, infecting your whole body. 
+何百万というウイルスがリンパ系を通じて
+血液や臓器にこぼれ、全身に感染する
 
 46
 00:03:00,640 --> 00:03:04,210
-Suddenly variola is everywhere. 
+気づけばそこら中にヴァリオラがいる
 
 47
 00:03:04,210 --> 00:03:08,720
-But despite this global attack, your adaptive immune system is struggling to wake up.
+全身への攻撃にもかかわらず
+獲得免疫系は動き出せない
 
 48
 00:03:08,720 --> 00:03:15,250
-Your immune cells look for and use critical transmitters called interferons to mobilize the body against viruses.
+免疫細胞は重要な伝達物質
+インターフェロンで動員をかける
 
 49
 00:03:15,250 --> 00:03:21,060
-Interferons, as the name suggests, interfere – significantly slowing down virus infections 
+インターフェロンは妨害物質として
+感染を大幅に減速させつつ
 
 50
 00:03:21,060 --> 00:03:24,670
-but also quickly activating millions of anti virus weapons.   
+何百万もの抗ウイルス兵器を
+速やかに配備させる
 
 51
 00:03:24,670 --> 00:03:28,190
-But Variola is able to deactivate interferons,
+だがヴァリオラは
+インターフェロンを不活性化し
 
 52
 00:03:28,190 --> 00:03:31,640
-which stuns the anti virus side of your defense system.
+抗ウイルスのシステムを
+麻痺させられるのだ
 
 53
 00:03:31,640 --> 00:03:33,340
-Other systems would usually help
+通常 他の助けが来る
 
 54
 00:03:33,340 --> 00:03:37,840
-like the complement system, a sort of mobile minefield that can destroy viruses
+例えば補体系は移動式の地雷原で
+ウイルスを破壊できる
 
 55
 00:03:37,840 --> 00:03:40,900
-but variola also manages to shut this down too.
+だがヴァリオラは
+これも無力化する
 
 56
 00:03:40,900 --> 00:03:44,660
-And so, with little resistance variola spreads everywhere
+こうしてほぼ無抵抗で
+ヴァリオラが拡散し
 
 57
 00:03:44,660 --> 00:03:48,190
-and infects billions of your cells all over your body
+全身の何十億という細胞に感染する
 
 58
 00:03:48,190 --> 00:03:52,140
-Among the infected are your capillaries, the smallest blood vessels in your body, 
+感染した細胞の中には
+毛細血管も含まれ
 
 59
 00:03:52,140 --> 00:03:54,140
-which die in great numbers.
+大量に死んでしまう
 
 60
 00:03:54,140 --> 00:03:59,690
-All this death activates an immune cell that you really don’t need right now but that is attracted by death:
+死の匂いに反応し
+まだ出番じゃない免疫細胞が起動する
 
 61
 00:03:59,690 --> 00:04:01,120
-the Neutrophil
+好中球だ
 
 62
 00:04:01,120 --> 00:04:06,340
-Normally an efficient killer of invaders great and small, it is not very effective against smallpox.
+本来は偉大なる小さな殺し屋だが
+天然痘にはイマイチだ
 
 63
 00:04:06,340 --> 00:04:13,060
-And even worse, Neutrophils fight by vomiting deadly chemicals, which kills even more of your cells
+最悪なことに 好中球が吐き出す致死的な化学物質は
+より多くの細胞を殺してしまう
 
 64
 00:04:13,060 --> 00:04:15,230
-On top of that, they order inflammation, 
+加えて 炎症が起きる
 
 65
 00:04:15,230 --> 00:04:18,530
-fluids streaming from your blood vessels into your tissue.
+血管から組織に液体が送り込まれるのだ
 
 66
 00:04:18,530 --> 00:04:22,480
-All over your body, as first millions, then billions of your cells die,
+身体中で まずは数百万
+やがて数十億の細胞が死に
 
 67
 00:04:22,480 --> 00:04:25,430
-you get a rash that only gets worse and worse. 
+湿疹が出ると悪化する一方だ
 
 68
 00:04:25,430 --> 00:04:29,960
-Pus and cellular junk fills it up as your body swells up with hundreds of lesions
+数百の湿疹が膿や死んだ細胞で満たされ
+全身が膨れ上がる
 
 69
 00:04:29,960 --> 00:04:33,500
-all over your skin and inside, even on your organs, 
+全身の皮膚やその内側
+臓器にまで及び
 
 70
 00:04:33,500 --> 00:04:37,100
-all filled with billions of variola viruses. 
+どれも何十億ものウイルスで満ちている
 
 71
 00:04:37,100 --> 00:04:39,440
-Now the critical phase begins.
+さて命に関わる段階だ
 
 72
 00:04:39,440 --> 00:04:42,410
-As you fight for survival, you burn up in a high fever, 
+生存をかけて戦うほど
+熱が出る
 
 73
 00:04:42,410 --> 00:04:46,980
-thousands of battlegrounds drain your blood of fluid that streams into your tissue and organs.
+何千という組織や細胞が戦場となり
+血液が流れ込む
 
 74
 00:04:46,980 --> 00:04:49,440
-Blood clotting appears all over your body 
+全身に血液凝固が現れ
 
 75
 00:04:49,440 --> 00:04:54,020
-while floods of toxins from dead cells build up and can cause organs to fail
+死んだ細胞からの毒素が溜まり
+臓器不全もありうる
 
 76
 00:04:54,020 --> 00:04:57,910
-Your lungs fill up with fluid, making it harder and harder to breathe. 
+肺には水が溜まり
+呼吸も困難になっていく
 
 77
 00:04:57,910 --> 00:04:59,640
-One of two things happens now:
+ここからは二択だ
 
 78
 00:04:59,640 --> 00:05:02,220
-Either your immune system wrestles back control 
+一つは免疫系が勝利すること
 
 79
 00:05:02,220 --> 00:05:07,680
-heavy weapons have been dispatched, killing infected cells, cleaning up the thousands of infections one by one, 
+重装の部隊が出動して感染細胞を殺し
+何千もの患部を一掃し
 
 80
 00:05:07,680 --> 00:05:09,790
-killing variola wherever it can be found 
+ヴァリオラを見つけたら殺す
 
 81
 00:05:09,790 --> 00:05:11,900
-so you can slowly begin to recover. 
+これで徐々に回復できる
 
 82
 00:05:11,900 --> 00:05:15,970
-The immune system will forever remember variola, making you immune forever. 
+免疫系はヴァリオラを永久に記憶し
+以降は対応できる
 
 83
 00:05:15,970 --> 00:05:17,130
-Or, you die,
+または 死ぬ
 
 84
 00:05:17,130 --> 00:05:22,600
-overwhelmed by the infection and your immune system's panicked reaction to the body wide infection.
+全身への感染に圧倒され
+免疫系はパニックとなる
 
 85
 00:05:22,600 --> 00:05:25,790
-About a third of people who contract smallpox don’t survive.
+天然痘患者の約1/3は
+生きのこれない
 
 86
 00:05:25,790 --> 00:05:31,660
-And if you survive, you are very likely branded by scars and  may even lose your eyesight or hearing.
+生存した場合 高確率で傷が残り
+視力や聴覚を失うことすらある
 
 87
 00:05:31,660 --> 00:05:35,010
-For thousands of years this terrible disease ravaged the world,
+数千年間 この恐ろしい病気が世界を荒らし
 
 88
 00:05:35,010 --> 00:05:38,990
-leaving death and destruction, traumatized and maimed survivors. 
+死と破壊 
+トラウマと障害を残していった
 
 89
 00:05:38,990 --> 00:05:43,190
-Until one day, humanity said: “enough”.
+ある日人類が
+「もうたくさんだ」と告げるまで
 
 90
 00:05:43,190 --> 00:05:46,070
-Why don’t we have smallpox anymore?
+【なぜ天然痘は根絶されたのか？】
 
 91
 00:05:46,070 --> 00:05:49,510
-Smallpox is one of the worst diseases  humanity has ever known. 
+知る限り 天然痘は最悪の病気の一つだ
 
 92
 00:05:49,510 --> 00:05:53,290
-A murderous, family destroying, life ruining monster. 
+致死的で 家庭を崩壊させ
+人生を台無しにする
 
 93
 00:05:53,290 --> 00:05:55,430
-There was nothing you could do for the infected
+治療の手立てはなかったが
 
 94
 00:05:55,430 --> 00:05:58,970
-but people noticed that if you survived, you were immune.
+人々は気づいた
+生存者は免疫を持っていると
 
 95
 00:05:58,970 --> 00:06:04,000
-So out of desperation, they came up with a  dangerous practice of variolation:
+切羽詰まった人々は
+人痘摂取という危険な手法に至った
 
 96
 00:06:04,000 --> 00:06:07,390
-Take scabs from an infected person that had a mild case of smallpox, 
+天然痘の軽症者から
+かさぶたを採取し
 
 97
 00:06:07,390 --> 00:06:10,760
-let them dry out and grind them to a fine powder. 
+乾燥させて微粉末にする
 
 98
 00:06:10,760 --> 00:06:15,020
-Then blow the powder up the nostril  of a patient or scratch their skin with it. 
+それを患者の鼻から吸引させるか
+皮膚にすり込んだ
 
 99
 00:06:15,020 --> 00:06:20,490
-If things went well, they only got a mild version of smallpox and gained immunity against the disease.
+うまくいくと軽症の天然痘にかかり
+免疫を獲得できた
 
 100
 00:06:20,490 --> 00:06:26,200
-Variolation probably worked because it introduced  the variola in a part of the body the virus wasn’t prepared for,
+おそらくヴァリオラの標的でない部位に
+摂取したことで
 
 101
 00:06:26,200 --> 00:06:28,620
-disabling most of its nasty tricks.
+厄介な性質も空転したのだろう
 
 102
 00:06:28,620 --> 00:06:31,050
-And because the inoculation was left to dry out,
+またサンプルの乾燥により
 
 103
 00:06:31,050 --> 00:06:34,580
-that damaged the virus so it could not cause the full disease.
+ウイルスは損傷し
+重症化させられなかった
 
 104
 00:06:34,580 --> 00:06:37,440
-Unfortunately 2-3% of all patients still died 
+それでも 患者の2-3％が死亡した
 
 105
 00:06:37,440 --> 00:06:41,600
-because they got the smallpox or suffered other diseases as a result of treatment.
+人痘摂取の結果
+天然痘や他の病気にかかったのだ
 
 106
 00:06:41,600 --> 00:06:45,830
-Still,  smallpox was such a horrible and to some degree,   unavoidable disease
+依然として天然痘は脅威であり
+完全には避けられず
 
 107
 00:06:45,830 --> 00:06:49,110
-that people took the  risk, for themselves and their children.  
+人々は自分や子どものため
+リスクを冒した
 
 108
 00:06:49,110 --> 00:06:54,160
-Variolation spread around the globe,  while Variola continued to kill millions.
+人痘摂取は世界中に広まったが
+依然として数百万人が命を落とした
 
 109
 00:06:54,160 --> 00:06:57,430
-victory over the virus, only became a real possibility
+ヴァリオラへの勝利に
+現実味が出てきたのは
 
 110
 00:06:57,430 --> 00:07:02,230
-when scientists realized that it was not necessary to variolate with the real smallpox disease,
+科学者が気づいたからだ
+本物の天然痘を接種する必要はなく
 
 111
 00:07:02,230 --> 00:07:04,900
-but much safer to use material from cowpox,
+牛痘からの材料が安全だと
 
 112
 00:07:04,900 --> 00:07:07,260
-a variant that affected, surprise,
+牛痘は変異種で
+宿主は何と…
 
 113
 00:07:07,260 --> 00:07:08,640
-cows. 
+牛だ
 
 114
 00:07:08,640 --> 00:07:14,770
-A truly revolutionary step – and  only a few years later
-this led to one of humankind's most outstanding achievements:
+これは真に革命的な一歩で
+わずか数年で人類有数の偉業に至った
 
 115
 00:07:14,770 --> 00:07:16,370
-Vaccinations.
+ワクチン接種だ
 
 116
 00:07:16,370 --> 00:07:18,040
-The innovation was simple
+シンプルな革新で
 
 117
 00:07:18,040 --> 00:07:23,490
-instead of using the real virus to train   the immune system, use a related virus, cowpox,
+免疫を鍛えるのに本物のウイルスでなく
+変異種の牛痘を用いた
 
 118
 00:07:23,490 --> 00:07:26,550
-that was only mild but also gave you immunity.
+軽症なのに免疫を得られるのだ
 
 119
 00:07:26,550 --> 00:07:31,460
-Still, it would take another 200 years, countless  individuals fighting the monster where they could, 
+それでも ワクチンが世界の隅々に届くまで
+200年を要し
 
 120
 00:07:31,460 --> 00:07:34,430
-delivering vaccines to the most remote places  on earth. 
+無数の人々が怪物と闘った
 
 121
 00:07:34,430 --> 00:07:40,080
-All the while the disease ravaged on, killing over 300 million people  in the 20th century alone. 
+この期間にも天然痘は猛威をふるい
+20世紀だけで3億人の死者を出した
 
 122
 00:07:40,080 --> 00:07:46,900
-In 1966 the World Health Organization decided  that humanity had to come together in a final, major effort. 
+1966年、WHOは最後の取り組みに
+人類の団結を求めることを決断した
 
 123
 00:07:46,900 --> 00:07:51,840
-A global "smallpox news network," based on residents in hotspots, was created 
+天然痘流行国の住民との間に
+国際的な連絡体制が作られ
 
 124
 00:07:51,840 --> 00:07:54,500
-– tackling local outbreaks of the virus.
+局地的な流行に対処した
 
 125
 00:07:54,500 --> 00:07:59,720
-Cases were encircled, vaccines given, preventing further spread. 
+患者の周辺にワクチンを提供し
+さらなる拡大を予防したのだ
 
 126
 00:07:59,720 --> 00:08:06,260
-Smallpox only infects humans, so if we stopped the human transmission chain, we would starve the virus.
+天然痘は人間にしか感染できず
+そこを封じれば行き場はない
 
 127
 00:08:06,260 --> 00:08:09,730
-The last naturally occurring infection was in 1977,
+最後の自然感染は1977年で
 
 128
 00:08:09,730 --> 00:08:13,860
-and in 1980, just shy of 200 years since the first vaccine was used, 
+そして1980年 初のワクチン接種から
+わずか200年で
 
 129
 00:08:13,860 --> 00:08:16,340
-Smallpox was declared eradicated. 
+天然痘の根絶が宣言された
 
 130
 00:08:16,340 --> 00:08:20,040
-Variola, the scourge of humanity, was dead.
+人類の災禍 ヴァリオラは死んだ
 
 131
 00:08:20,040 --> 00:08:22,070
-No more children would be killed by it, 
+もう子供たちは殺されない
 
 132
 00:08:22,070 --> 00:08:24,990
-no more mothers or brothers or uncles or cousins.
+母も 兄弟も 叔父も いとこも
 
 133
 00:08:24,990 --> 00:08:29,060
-It is hard to convey to people around today what an incredible win this was. 
+これがどれだけの偉業か
+現代人に伝えるのは難しい
 
 134
 00:08:29,060 --> 00:08:35,140
-One of the cruelest, most dangerous monsters   that has hunted us for literally millenia was slain
+最も残忍で危険で 文字通り何千年も
+私たちを狩っていた怪物が殺されたのだ
 
 135
 00:08:35,140 --> 00:08:38,800
-by us, apes with pointy needles.
+私たち 尖った針を持つサルに
 
 136
 00:08:38,800 --> 00:08:41,310
-Today, we live in a time of Enlightenment,
+現在は啓蒙の時代だ
 
 137
 00:08:41,310 --> 00:08:44,910
-None of us alive today are haunted by the Specter o smallpox.
+天然痘の亡霊におびえる現代人はいない
 
 138
 00:08:44,910 --> 00:08:47,370
-This light is not natural;
+この光は自然界のものではない
 
 139
 00:08:47,370 --> 00:08:54,040
-it was set in the sky by the sheer will of humankind wanting to be  safe from the monsters haunting us. 
+人類を狙う怪物から身を守りたいという
+純粋な想いが天に結実したのだ
 
 140
 00:08:54,040 --> 00:09:00,060
-But because we live without them, we forget  that they ever existed and that they are real.
+だが天然痘の無い世界を生きる私たちは
+過去を その実在を忘れてしまう
 
 141
 00:09:00,060 --> 00:09:04,480
-That the diseases might reawaken, or  new ones might be brewing in
+病気の再流行や
+新たな病気が発生する可能性はある
 
 142
 00:09:04,480 --> 00:09:09,820
-jungles, wet markets or laboratories,  ready to strike us once more.  
+ジャングル 多湿な市場 研究所などで
+牙を研いでいるのかも
 
 143
 00:09:09,820 --> 00:09:16,010
-We forget what an incredible gift vaccines are and how hard we had to battle to get them
+私たちはワクチンという贈り物の素晴らしさと
+そこに至るまでの困難を忘れている
 
 144
 00:09:16,010 --> 00:09:19,960
-We are still protected by the light but it is cooling each and every day, 
+まだ光に守られているが
+日ごとに光は弱まっていく
 
 145
 00:09:19,960 --> 00:09:24,880
-and we owe it to those who will come after us to make sure it doesn't go.
+後に続く世代のため
+私たちには光を絶やさない責任があるのだ
 
 146
 00:09:24,880 --> 00:09:29,360
-We killed one monster. We can do it again.
+一匹の怪物を倒したのだ
+また同じことができるはず
 
 147
 00:09:29,360 --> 00:09:32,240
-This video was supported by Open Philanthropy.
+この動画はOpen Philanthropyの支援を受けています
 
 148
 00:09:32,240 --> 00:09:36,090
-Do you want to continue learning about the fascinating world of biology?
+生物学の魅力をさらに学びたいですか？
 
 149
 00:09:36,090 --> 00:09:37,320
-We've got you.
+こちらをどうぞ
 
 150
 00:09:37,320 --> 00:09:39,550
-Let’s take a real close look at the human body.  
+実際に人体を観察しましょう
 
 151
 00:09:39,550 --> 00:09:40,830
-This is an arm.
+これが腕です
 
 152
 00:09:40,830 --> 00:09:44,910
-And this is a human cell – the microscopic stage where everything happens. 
+これが細胞 全ての生命現象は顕微鏡レベルで生じます
 
 153
 00:09:44,910 --> 00:09:50,630
-Where all the important battles are fought and where YOU   are constantly built over and over again. 
+重要な戦闘の全てが起こり
+あなたが何度も再構築される場所
 
 154
 00:09:50,630 --> 00:09:54,270
-Even though It’s the smallest unit of life, the cell is extremely complex.
+生命の最小単位なのに
+細胞は極めて複雑です
 
 155
 00:09:54,270 --> 00:09:58,080
-But don’t worry  we managed to fit everything you need to know   on a single poster
+でも心配ご無用
+必要な知識をポスター1枚に収めました
 
 156
 00:09:58,080 --> 00:10:04,460
-– and in true kurzgesagt fashion it’s easy to understand and even easier on the eyes. 
+そしてKurzgesagtの流儀で
+理解しやすく 目にも優しくなっています
 
 157
 00:10:04,460 --> 00:10:09,510
-Grasping a complex topic is much easier when it’s presented in exciting ways.
+ワクワクするような見せ方なら
+複雑なトピックも格段に把握しやすいのです
 
 158
 00:10:09,510 --> 00:10:14,070
-The poster was researched and designed  in collaboration with molecular biologist James Gurney
+調査とデザインは分子生物学者の
+James Gurneyとのコラボです
 
 159
 00:10:14,070 --> 00:10:22,590
-– so it’s expert approved  and contains all the latest cutting edge   science about organelles, their function  and their place in the cellular world. 
+細胞小器官の機能や位置づけに関する
+最先端科学の全てが詰まっており 専門家の承認済みです
 
 160
 00:10:22,590 --> 00:10:28,580
-We love bringing science into your home with our videos and we are so excited whenever we get to do it literally. 
+動画を通じ 科学をご自宅に届けるのが大好きで
+文字通りの配送となると大興奮です
 
 161
 00:10:28,580 --> 00:10:31,950
-This is why we take hundreds of hours to create our science posters
+だから科学ポスターの制作に何百時間も費やせます
 
 162
 00:10:31,950 --> 00:10:36,060
-– all researched with care and crafted with love by us here at kurzgesagt.
+いずれもkurzgesagtが丹念に調査し
+愛情を込めて制作しています
 
 163
 00:10:36,060 --> 00:10:38,060
-We love having such a curious audience
+好奇心に溢れた視聴者が大好きで
 
 164
 00:10:38,060 --> 00:10:45,820
-and we want to inspire you and all   the birbs in your life to learn all about  biology, space, humans and life itself. 
+皆さんや周囲の鳥たちに生物学 宇宙 人類
+そして人生を学ぼうと思ってほしいのです
 
 165
 00:10:45,820 --> 00:10:51,970
-Get the human cell poster now exclusively on the kurzgesagt shop and support the kurzgesagt vision
+kurzgesagt公式ショップで限定販売の
+人間の細胞ポスターを入手し
 
 166
 00:10:51,970 --> 00:10:54,720
-of sparking curiosity.
+好奇心の刺激という理念をサポートしましょう
+
