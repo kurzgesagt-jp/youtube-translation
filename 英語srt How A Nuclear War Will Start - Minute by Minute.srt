@@ -1,0 +1,494 @@
+﻿1
+00:00:00,780 --> 00:00:06,010
+Mr. President! Nuclear missiles will strike our country in 14 minutes.
+
+2
+00:00:06,010 --> 00:00:09,010
+I know it’s your first day in office so I’m going to walk you through it,
+
+3
+00:00:09,010 --> 00:00:12,930
+but you’re the only one who can authorize our nuclear retaliation in response 
+
+4
+00:00:12,930 --> 00:00:15,960
+and you’ve only got a few minutes to make a decision! 
+
+5
+00:00:15,960 --> 00:00:19,600
+As you know tensions have escalated rapidly in the past few days.
+
+6
+00:00:19,600 --> 00:00:24,160
+Today’s joint allied aerial defense exercise began just minutes before we detected the launch. 
+
+7
+00:00:24,160 --> 00:00:26,420
+A simple misunderstanding maybe.
+
+8
+00:00:26,420 --> 00:00:31,270
+We assume the sudden attack is meant to neutralize as many of our nuclear forces as possible. 
+
+9
+00:00:31,270 --> 00:00:35,330
+But that doesn’t matter now – missiles are in the air and we can’t shoot all of them down.
+
+10
+00:00:35,330 --> 00:00:40,950
+Why? Because Intercontinental ballistic missiles are basically rockets launched into space 
+
+11
+00:00:40,950 --> 00:00:46,150
+before re-entering the atmosphere over their target and releasing many different warheads.
+
+12
+00:00:46,150 --> 00:00:49,330
+Higher and faster than anything you can send after them.
+
+13
+00:00:49,330 --> 00:00:52,780
+We need to get you to the bunker! 
+
+14
+00:00:55,550 --> 00:01:02,140
+Here is what we know: Four minutes ago our new infrared monitoring satellites detected one hundred twelve bursts 
+
+15
+00:01:02,140 --> 00:01:05,650
+consistent with ICBM launches from the enemy’s inner territories.
+
+16
+00:01:05,650 --> 00:01:10,090
+For some reason only 20 of their 80 underground nuclear silos seem to have fired,
+
+17
+00:01:10,090 --> 00:01:15,880
+so we suspect most of them were transporter-erector launchers, you know: trucks with big missiles on them. 
+
+18
+00:01:15,880 --> 00:01:23,060
+It’s unclear why they didn’t use all their silos – they might just not work after more than thirty years or they might be keeping them in reserve.
+
+19
+00:01:23,060 --> 00:01:25,980
+The fog of war is keeping many things unclear! 
+
+20
+00:01:25,980 --> 00:01:33,680
+Aerospace Command thinks the ICBMs are targeting our nuclear command centers,　silos, and major airforce and navy bases,
+
+21
+00:01:33,680 --> 00:01:36,570
+ending this war before we have a chance to act!
+
+22
+00:01:36,570 --> 00:01:41,750
+The enemy’s strategic doctrine prioritizes military targets and our nuclear weapon   systems, 
+
+23
+00:01:41,750 --> 00:01:45,570
+but their secondary targets are our industry and infrastructure –
+
+24
+00:01:45,570 --> 00:01:48,870
+
+25
+00:01:48,870 --> 00:01:53,450
+All located near or in major population centers. 
+
+26
+00:01:53,450 --> 00:01:56,740
+We won’t know the exact casualty count for a few weeks. 
+
+27
+00:01:56,740 --> 00:01:59,790
+Deaths from the blast and burns may be a few million today.
+
+28
+00:01:59,790 --> 00:02:04,060
+It’s morning rush hour and there’s not much to be done for people stuck in traffic. 
+
+29
+00:02:04,060 --> 00:02:06,740
+People in major metro areas can’t really evacuate, 
+
+30
+00:02:06,740 --> 00:02:11,280
+but emergency broadcasts are being sent out to shelter in place and away from windows. 
+
+31
+00:02:11,280 --> 00:02:16,640
+Radiation exposure for intact population centers is highly dependent on the weather over the next week.
+
+32
+00:02:16,640 --> 00:02:20,370
+We might be looking at dozens of millions of deaths by the end of the month.
+
+33
+00:02:20,370 --> 00:02:23,020
+For the next few minutes we can still respond, 
+
+34
+00:02:23,020 --> 00:02:26,260
+but – You need to decide!
+
+35
+00:02:26,260 --> 00:02:29,960
+We’ve got 1500 warheads across our silos, bombers, and submarines. 
+
+36
+00:02:29,960 --> 00:02:34,010
+The 400 in silos need to be launched now before they get taken out.
+
+37
+00:02:34,010 --> 00:02:38,920
+46 nuclear capable bombers on high alert can be ready to take off in 2 minutes 
+
+38
+00:02:38,920 --> 00:02:43,970
+though we need to transmit the order now to get them out of the blast radius if you want to consider using them.
+
+39
+00:02:43,970 --> 00:02:47,280
+Of our 14 nuclear submarines, 5 are presently at sea. 
+
+40
+00:02:47,280 --> 00:02:53,700
+While they’re submerged they’re undetectable, so that’s our back-up for a nuclear retaliation if we lose our silos and bombers. 
+
+41
+00:02:53,700 --> 00:02:58,350
+We could try to use them to bomb out their remaining silo fields before they can launch them. 
+
+42
+00:02:58,350 --> 00:03:04,260
+The sooner you commit to it, the better the chance we have of preventing a further exchange after our retaliation.
+
+43
+00:03:04,470 --> 00:03:05,970
+Updates!
+
+44
+00:03:05,970 --> 00:03:12,310
+We have radar confirmation that the enemy ICBMs have completed their burn and deployed their warheads.
+
+45
+00:03:12,310 --> 00:03:18,020
+Our best guess is that each missile will deploy at least 6 re-entry vehicles, about 600 in total, 
+
+46
+00:03:18,020 --> 00:03:22,950
+which is the part that carries a warhead back into the atmosphere during its terminal descent onto the target 
+
+47
+00:03:22,950 --> 00:03:28,600
+and with many more decoys on top of that, inflatable balloons meant to waste any anti-missiles
+
+48
+00:03:28,600 --> 00:03:32,350
+We’re now tracking nearly 4000 potential targets.
+
+49
+00:03:32,350 --> 00:03:37,220
+Our anti-ballistic missiles have been launched and will begin their intercept in another minute.
+
+50
+00:03:37,220 --> 00:03:42,310
+We’ll do our best to protect the capital, although there really is no defense. 
+
+51
+00:03:42,310 --> 00:03:47,740
+Wait… confirming a partial radar blackout, our systems seem to be glitchy.
+
+52
+00:03:47,740 --> 00:03:53,460
+The enemy must have anticipated we’d launch our interceptors and pre-detonated a few warheads at high altitude. 
+
+53
+00:03:53,460 --> 00:03:56,700
+That ionizes the atmosphere and creates radar interference.
+
+54
+00:03:56,700 --> 00:04:01,110
+Our interceptors should still operate okay, they’ve had a 55% success rate in tests
+
+55
+00:04:01,110 --> 00:04:05,040
+but never with this many decoys or with radar interference this intense. 
+
+56
+00:04:05,040 --> 00:04:08,980
+We might shoot down 50 objects, but there’s no guarantee they’re warheads.
+
+57
+00:04:08,980 --> 00:04:12,050
+It looks like most bombs are going to get through. 
+
+58
+00:04:12,050 --> 00:04:14,340
+This is our last chance to counterattack.
+
+59
+00:04:14,340 --> 00:04:17,640
+We’re out of time. Our silo launch sequence takes 5 minutes. 
+
+60
+00:04:17,640 --> 00:04:23,480
+We have to transmit and confirm a launch order and the missile needs time to clear the blast radius of the incoming bomb. 
+
+61
+00:04:23,480 --> 00:04:28,690
+This is a lot to take in, but the war plan is made, you just need to enter the launch authorization codes
+
+62
+00:04:28,690 --> 00:04:30,960
+and push this button to transmit them! 
+
+63
+00:04:30,960 --> 00:04:33,630
+You can’t do anything else to save more of our people. 
+
+64
+00:04:33,630 --> 00:04:37,510
+If you don’t launch now then this war will be over before it even begins 
+
+65
+00:04:37,510 --> 00:04:41,530
+you understand this is our one chance, right? 
+
+66
+00:04:41,530 --> 00:04:48,640
+The effect? Enemy civilian casualties are hard to estimate, but should be similar to ours – a few million right away, 
+
+67
+00:04:48,640 --> 00:04:51,530
+perhaps a few tens of million by the end of the month.
+
+68
+00:04:51,530 --> 00:04:55,630
+the total fallout from their attacks and ours might trigger a nuclear winter, 
+
+69
+00:04:55,630 --> 00:04:57,910
+potentially killing billions around the world,
+
+70
+00:04:57,910 --> 00:05:00,820
+but that might happen even if we don’t retaliate. 
+
+71
+00:05:00,820 --> 00:05:05,310
+I’m sure you have questions but you have to give orders without expecting answers right now. 
+
+72
+00:05:05,310 --> 00:05:10,980
+With an attack of this scale there’s no guarantee communications or assets will be intact in a few minutes. 
+
+73
+00:05:10,980 --> 00:05:14,270
+We’re out of time, we need a decision Sir.
+
+74
+00:05:14,270 --> 00:05:18,140
+Can we launch? 
+
+75
+00:05:19,870 --> 00:05:22,870
+Nuclear wars aren’t regular wars. 
+
+76
+00:05:22,870 --> 00:05:28,590
+They only last minutes, and in times of crisis, small conflicts can rapidly spiral out of control.
+
+77
+00:05:28,590 --> 00:05:33,330
+Anything from small communication lags to sensor errors to just uncertainty and the fog of war
+
+78
+00:05:33,330 --> 00:05:38,090
+mean that no leader will ever have a complete idea of what’s happening as a crisis unfolds.
+
+79
+00:05:38,090 --> 00:05:45,750
+When tensions are high, accidents or misunderstandings can steer leaders even those with good intentions to launch a nuclear attack. 
+
+80
+00:05:45,750 --> 00:05:48,250
+Confused and with incomplete information,
+
+81
+00:05:48,250 --> 00:05:49,590
+a single person
+
+82
+00:05:49,590 --> 00:05:53,030
+– yes, it's really just ONE single person who decides – 
+
+83
+00:05:53,030 --> 00:06:00,220
+can literally make civilization ending decisions killing hundreds of millions of people in the time it takes to watch a YouTube video.
+
+84
+00:06:00,220 --> 00:06:04,860
+This story is fiction with a very close to that several times
+
+85
+00:06:04,860 --> 00:06:11,010
+In 1995 Russian radar detected a submarine launched missile and their nuclear forces went on full alert, 
+
+86
+00:06:11,010 --> 00:06:14,720
+except it was actually a scientific rocket to study auroras.
+
+87
+00:06:14,720 --> 00:06:20,460
+In 1979, US computers reported a full scale Soviet attack with only minutes to respond – 
+
+88
+00:06:20,460 --> 00:06:24,320
+except it was a training tape being incorrectly loaded into a computer.
+
+89
+00:06:24,320 --> 00:06:30,140
+In 1983, the Soviet satellite alert system showed five ICBMs launched from the US.
+
+90
+00:06:30,140 --> 00:06:34,250
+But it was a false alarm caused by sunlight reflected on clouds.
+
+91
+00:06:34,250 --> 00:06:39,200
+During the Cuban Missile Crisis, a Soviet submarine with no contact to Moscow for several days
+
+92
+00:06:39,200 --> 00:06:43,680
+concluded that nuclear war had begun and decided to launch a nuclear torpedo. 
+
+93
+00:06:43,680 --> 00:06:47,000
+Luckily the authorization of three officers was required. 
+
+94
+00:06:47,000 --> 00:06:50,500
+One of them, Vasily Arkhipov, opposed it. 
+
+95
+00:06:50,500 --> 00:06:52,110
+But what if he hadn’t?
+
+96
+00:06:52,110 --> 00:06:56,440
+Any safeguard can fail, no matter how carefully designed it might be. 
+
+97
+00:06:56,440 --> 00:07:00,540
+and decisions are being made right now to build you weapons and missile systems.
+
+98
+00:07:00,540 --> 00:07:03,570
+that commit the world to another century of nuclear stalemate,
+
+99
+00:07:03,570 --> 00:07:07,840
+complicated further by China's emergence as a new nuclear superpower.
+
+100
+00:07:07,840 --> 00:07:11,650
+Simply accepting that the existence of nuclear weapons is inevitable 
+
+101
+00:07:11,650 --> 00:07:14,650
+might mean their use is inevitable
+
+102
+00:07:14,650 --> 00:07:16,930
+But the world doesn’t have to be this way. 
+
+103
+00:07:16,930 --> 00:07:19,940
+Even incremental steps, taking apart one bomb at a time, 
+
+104
+00:07:19,940 --> 00:07:22,870
+will eventually result in a world with none. 
+
+105
+00:07:22,870 --> 00:07:27,060
+During the Cold War, the world had over 70,000 nuclear weapons –
+
+106
+00:07:27,060 --> 00:07:31,850
+through arms reduction treaties, that number is now about 12,500.
+
+107
+00:07:31,850 --> 00:07:36,560
+Progress is not guaranteed, but it’s also not impossible.
+
+108
+00:07:36,560 --> 00:07:42,220
+Governments and militaries are not separate from their nations, they’re part of them, just like you.
+
+109
+00:07:42,220 --> 00:07:47,700
+You have the power to make demands of your leaders and often this begins with just being aware of an issue. 
+
+110
+00:07:47,700 --> 00:07:54,140
+If you want to learn more, we've compiled a number of resources for you in the video description and our sources. 
+
+111
+00:07:54,140 --> 00:07:56,890
+This video was supported by Open Philanthropy. 
+
+112
+00:07:56,890 --> 00:08:02,950
+Did you know that there are countless more kurzgesagt videos that we upload on TikTok, Youtube Shorts and Instagram Reels?
+
+113
+00:08:02,950 --> 00:08:06,740
+Byte-sized information, animated facts and inspiring thought experiments.
+
+114
+00:08:06,740 --> 00:08:09,960
+After all, you also need videos you can watch quickly in a bathroom break! 
+
+115
+00:08:09,960 --> 00:08:13,020
+Our longer, more in depth videos are happening here on Youtube
+
+116
+00:08:13,020 --> 00:08:16,640
+Short form is a completely different challenge that we are trying to do as well as possible
+
+117
+00:08:16,640 --> 00:08:18,420
+ – check them out if you are curious! 
+
+118
+00:08:18,420 --> 00:08:22,190
+And if you want to discuss and share your thoughts about Science with other like-minded people,
+
+119
+00:08:22,190 --> 00:08:25,700
+why don’t you check out our Discord community with over 80,000 birbs?
+
+120
+00:08:25,700 --> 00:08:31,000
+We have channels where you can chat about STEM topics, participate in events and the “academic question of the week” 
+
+121
+00:08:31,000 --> 00:08:32,580
+and we have the best emotes!
+
+122
+00:08:32,580 --> 00:08:35,180
+After all, we want to spark your curiousity,
+
+123
+00:08:35,180 --> 00:08:37,830
+but it’s always more fun to be curious together!
+
+124
+00:08:37,830 --> 00:08:39,370
+See you over there!
