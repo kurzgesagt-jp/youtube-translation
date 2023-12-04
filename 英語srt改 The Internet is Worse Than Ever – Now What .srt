@@ -1,0 +1,623 @@
+﻿1
+00:00:00,260 --> 00:00:05,830
+In 2022 nearly half of Americans expected  a civil war in the next few years,
+
+2
+00:00:05,830 --> 00:00:10,000
+one in five now believes political violence is justified.
+
+3
+00:00:10,000 --> 00:00:12,680
+And it's not just the US but around the world.
+
+4
+00:00:12,680 --> 00:00:16,380
+People increasingly see themselves as part of opposing teams.
+
+5
+00:00:16,380 --> 00:00:21,120
+There are many different reasons for this, but one gets blamed a lot: social media.
+
+6
+00:00:21,120 --> 00:00:25,320
+social media divides us makes us more extreme and less empathetic,
+
+7
+00:00:25,320 --> 00:00:28,130
+it riles us up or sucks us into doom scrolling,
+
+8
+00:00:28,130 --> 00:00:30,470
+making us stressed and depressed.
+
+9
+00:00:30,470 --> 00:00:34,420
+It feels like we need to touch grass and escape to the real world.
+
+10
+00:00:34,420 --> 00:00:39,640
+New research shows that we might have largely misinterpreted why this is the case.
+
+11
+00:00:39,640 --> 00:00:45,060
+It turns out that the social media  internet may uniquely undermine the way our brains work
+
+12
+00:00:45,060 --> 00:00:47,160
+but not in the way you think.
+
+13
+00:00:47,160 --> 00:00:50,050
+The Myth of the Filter Bubble
+
+14
+00:00:50,050 --> 00:00:52,490
+You've probably heard about online filter bubbles:
+
+15
+00:00:52,490 --> 00:00:56,660
+Algorithms give you exactly what you want, or what they think you want.
+
+16
+00:00:56,660 --> 00:00:59,930
+You only see information that shows you opinions that agree with yours,
+
+17
+00:00:59,930 --> 00:01:03,470
+while dissenting opinions or information are filtered out.
+
+18
+00:01:03,470 --> 00:01:06,410
+Since you only see content close to   your worldview,
+
+19
+00:01:06,410 --> 00:01:10,850
+more extreme and toxic opinions  suddenly seem less extreme.
+
+20
+00:01:10,850 --> 00:01:17,360
+You are trapped in a radicalising filter bubble and your view of the world becomes narrower and more extreme.
+
+21
+00:01:17,360 --> 00:01:19,240
+But is that true?
+
+22
+00:01:19,240 --> 00:01:22,520
+Extreme filter bubbles seem to be rather rare
+
+23
+00:01:22,520 --> 00:01:27,540
+Studies that investigated what people actually look at online or are shown by search engines,
+
+24
+00:01:27,540 --> 00:01:32,440
+found little evidence that you are ideologically isolated. It is the exact opposite:
+
+25
+00:01:32,440 --> 00:01:37,200
+Online you are constantly confronted with opinions and world views that are not your own.
+
+26
+00:01:37,200 --> 00:01:45,010
+It turns out the place where you are the most  ideologically
+isolated is your real life, in the real world, with real people.
+
+27
+00:01:45,010 --> 00:01:51,620
+Your real world interactions with your friends, family, colleagues and neighbors are much less diverse than your online bubble.
+
+28
+00:01:51,620 --> 00:01:56,000
+The filter bubble exists  in your real life, not online.
+
+29
+00:01:56,000 --> 00:02:00,420
+Ok wait. Online filter bubbles have been  the prevailing explanation
+
+30
+00:02:00,420 --> 00:02:04,560
+as to why we’ve all started hating each other more over the  last two decades.
+
+31
+00:02:04,560 --> 00:02:10,480
+If that's not the case, shouldn’t the internet open our minds and  make us more empathetic with each other?
+
+32
+00:02:10,480 --> 00:02:13,950
+Unfortunately your brain is stupid.
+
+33
+00:02:13,950 --> 00:02:16,170
+Your Brain is Stupid
+
+34
+00:02:16,170 --> 00:02:20,370
+Human brains didn’t evolve to understand the true nature of reality,
+
+35
+00:02:20,370 --> 00:02:24,170
+but to navigate and maintain social structures.
+
+36
+00:02:24,170 --> 00:02:27,310
+Our ancestors desperately  needed each other to survive,
+
+37
+00:02:27,310 --> 00:02:30,530
+so our brains   had to make sure we cooperated.
+
+38
+00:02:30,530 --> 00:02:36,950
+That's why social  isolation or exclusion feels so horrible, because   it was actually life threatening.
+
+39
+00:02:36,950 --> 00:02:39,620
+A tribe that  worked together survived,
+
+40
+00:02:39,620 --> 00:02:42,460
+a divided tribe died.
+
+41
+00:02:42,460 --> 00:02:45,920
+The way communities worked for  thousands of years is that, sure,
+
+42
+00:02:45,920 --> 00:02:52,570
+you may have disliked a neighbour, but because you lived close to each other, you also rooted for the same sports club or saw them at the church.
+
+43
+00:02:52,570 --> 00:02:56,590
+You both thought that the people from the other village were idiots.
+
+44
+00:02:56,590 --> 00:03:02,780
+Being physically  close made you familiar and created similarities   that bridged the gap of different world views
+
+45
+00:03:02,780 --> 00:03:04,860
+so you didn’t murder each other.
+
+46
+00:03:04,860 --> 00:03:11,780
+And your world view was probably not that different in the first place  because it was formed by the same local culture.
+
+47
+00:03:11,780 --> 00:03:14,240
+When our brains evolved, this was enough.
+
+48
+00:03:14,240 --> 00:03:16,830
+Whoever  was around, was similar to us.
+
+49
+00:03:16,830 --> 00:03:19,020
+We liked what was   similar to us
+
+50
+00:03:19,020 --> 00:03:23,350
+– this kept us aligned enough  to work together despite our differences.
+
+51
+00:03:23,350 --> 00:03:29,340
+As humanity moved on from small tribes to towns  and cities, from chiefdoms to kingdoms to nations,
+
+52
+00:03:29,340 --> 00:03:34,520
+our brains and our communities had to adapt to  more diverse sets of neighbours.
+
+53
+00:03:34,520 --> 00:03:39,510
+We began to meet   on the town square or in universities  where we argued and screamed at each   other
+
+54
+00:03:39,510 --> 00:03:43,440
+– but in the grand scheme of things  communities were still relatively isolated,
+
+55
+00:03:43,440 --> 00:03:47,110
+we were still pretty similar and  aligned with the people around us.
+
+56
+00:03:47,110 --> 00:03:50,720
+Conflict and disagreement are not  a bad thing per se.
+
+57
+00:03:50,720 --> 00:03:54,580
+Tension over   how we should live can create new  and wonderful things.
+
+58
+00:03:54,580 --> 00:03:57,970
+Our values,   norms and taboos are always evolving
+
+59
+00:03:57,970 --> 00:04:02,060
+and whatever we think is normal today,   will not be normal in the future.
+
+60
+00:04:02,060 --> 00:04:05,260
+But we also  need social glue to hold our societies together,
+
+61
+00:04:05,260 --> 00:04:10,970
+because our brains don’t care about the meta level of humanity but about being safe in a tribe.
+
+62
+00:04:10,970 --> 00:04:16,830
+Until about 20 years ago  we did something truly new,   that hit our brains like a freight train:
+
+63
+00:04:16,830 --> 00:04:20,710
+the  social media internet, the digital town square.
+
+64
+00:04:20,710 --> 00:04:23,030
+Don’t You Dare Disagree With Me
+
+65
+00:04:23,030 --> 00:04:24,870
+– Social Sorting
+
+66
+00:04:24,870 --> 00:04:31,440
+In a nutshell: Our brains are not able  to process the amount of disagreement we   encounter on the social internet.
+
+67
+00:04:31,440 --> 00:04:36,040
+The very  mechanisms that made it possible for our   ancestors to work together in the first place
+
+68
+00:04:36,040 --> 00:04:39,440
+are derailed in ways we were not prepared for.
+
+69
+00:04:39,440 --> 00:04:45,650
+Whether you want it to or not, your brain  sorts people by world views and opinions,   into teams.
+
+70
+00:04:45,650 --> 00:04:48,880
+This is not simply tribalism,   it goes further.
+
+71
+00:04:48,880 --> 00:04:52,420
+Researchers have  called this process social sorting.
+
+72
+00:04:52,420 --> 00:04:58,820
+On the digital town square you encounter people  that express opinions or share information   that clash with your worldview.
+
+73
+00:04:58,820 --> 00:05:02,780
+But unlike your neighbour, they don't root for your local sports club.
+
+74
+00:05:02,780 --> 00:05:06,810
+You are missing the local social glue your  brain needs to align with them.
+
+75
+00:05:06,810 --> 00:05:13,100
+For your brain,   the disagreement between yourself and them  becomes a central part of their identity.
+
+76
+00:05:13,100 --> 00:05:18,240
+And this makes it less likely that  you will seriously consider their   position or opinion in the future.
+
+77
+00:05:18,240 --> 00:05:23,350
+If you hear bad things about them,   your brain is much more likely  to believe it uncritically.
+
+78
+00:05:23,350 --> 00:05:26,320
+On the flipside, there are people who  share your world view
+
+79
+00:05:26,320 --> 00:05:30,440
+and are maybe   even more similar to you than many people  in your real life.
+
+80
+00:05:30,440 --> 00:05:34,450
+Which makes your brain   like them a lot and kind of hyper align with  them.
+
+81
+00:05:34,450 --> 00:05:38,100
+People who think like you are probably   good people because you are a good person
+
+82
+00:05:38,100 --> 00:05:41,320
+and  whatever social group you belong to is good!
+
+83
+00:05:41,320 --> 00:05:44,160
+So your brain is more likely to believe their  opinions.
+
+84
+00:05:44,160 --> 00:05:49,770
+If you hear bad things about them,   your brain is much more likely  to dismiss it uncritically.
+
+85
+00:05:49,770 --> 00:05:55,560
+The engagement driven social internet makes it  worse
+because it wants to keep you online as   long as possible.
+
+86
+00:05:55,560 --> 00:06:00,100
+And the most engaging emotion
+is, unfortunately: Anger.
+
+87
+00:06:00,100 --> 00:06:03,890
+The more angry you get,   the more likely you are to share and engage,
+
+88
+00:06:03,890 --> 00:06:08,680
+and this leads to social media amplifying the   most extreme and controversial opinions.
+
+89
+00:06:08,680 --> 00:06:13,990
+It  optimises not only to show us disagreement,   but the worst disagreement possible.
+
+90
+00:06:13,990 --> 00:06:16,940
+And because  your stupid brain is sorting people into teams,
+
+91
+00:06:16,940 --> 00:06:22,500
+whatever the worst opinions are, it assigns the  same opinions to everybody on the other team.
+
+92
+00:06:22,500 --> 00:06:25,300
+What is striking and new about online polarisation
+
+93
+00:06:25,324 --> 00:06:28,470
+ is that all the aspects of our lives that make   us individuals,
+
+94
+00:06:28,470 --> 00:06:35,250
+our lifestyle choices, the  comedians or shows we watch, our religion,   sense of fashion and so on are condensed.
+
+95
+00:06:35,250 --> 00:06:40,050
+making it seem that they are parts of   opposing and mutually exclusive identities.
+
+96
+00:06:40,050 --> 00:06:45,240
+This simplifies and distorts disagreements about how we should run society so much
+
+97
+00:06:45,240 --> 00:06:51,370
+that  it often seems as if the people on the other   team are actively, willfully making the  world worse.
+
+98
+00:06:51,370 --> 00:06:56,780
+That they are almost evil, beyond convincing with rationality, facts or civil discussion.
+
+99
+00:06:56,780 --> 00:07:03,370
+While you are of course on the correct   team, it may be hard to process that you may  seem like that to people on the other team.
+
+100
+00:07:03,370 --> 00:07:08,990
+On a societal level this is dissolving the  social glue that is the foundation of our   democracies.
+
+101
+00:07:08,990 --> 00:07:13,060
+If we think our neighbours  are evil, how can we live together?
+
+102
+00:07:13,060 --> 00:07:19,360
+This is especially bad in the US, where the  two party system makes it extra easy to think   of people in terms of teams
+
+103
+00:07:19,360 --> 00:07:23,360
+– negative opinion  about the other party has reached record highs.
+
+104
+00:07:23,360 --> 00:07:27,130
+Ok. Is there something we can learn  from this?
+
+105
+00:07:27,130 --> 00:07:29,420
+Is there something we can do?
+
+106
+00:07:29,420 --> 00:07:32,070
+Something more positive – Opinion Part
+
+107
+00:07:33,070 --> 00:07:38,300
+In the end, It is important to be  aware of what social media does to   your brain.
+
+108
+00:07:38,300 --> 00:07:41,220
+It's easier to change  yourself than to change the world,
+
+109
+00:07:41,220 --> 00:07:44,610
+so you can self examine why you believe the  things you believe
+
+110
+00:07:44,610 --> 00:07:51,330
+and whether you dismiss   or believe information based on who the  person is who is stating that information.
+
+111
+00:07:51,330 --> 00:07:53,800
+The internet comes with a lot of  ups and downs
+
+112
+00:07:53,800 --> 00:07:57,790
+and just like we   had to adapt from living in small tribes  to living in cities,
+
+113
+00:07:57,790 --> 00:08:02,730
+we need to adapt to   the information age where we have access to  billions of people.
+
+114
+00:08:02,730 --> 00:08:09,400
+Evolution is too slow,   so we need to find models that work with  what our brains are able to tolerate.
+
+115
+00:08:09,400 --> 00:08:14,270
+One model that seemed to work well was the pre  social media internet old people might remember:
+
+116
+00:08:14,270 --> 00:08:17,320
+Bulletin boards, forums, blogs.
+
+117
+00:08:17,320 --> 00:08:19,820
+The  main difference to today was twofold:
+
+118
+00:08:19,820 --> 00:08:23,900
+For one there were no algorithms fighting to  keep you online at anycost
+
+119
+00:08:23,900 --> 00:08:29,450
+– at some point   you were done with the internet for the  day, as mind blowing as this may sound.
+
+120
+00:08:29,450 --> 00:08:35,210
+But more importantly: The old internet  was very fractured, split into thousands   of different communities,
+
+121
+00:08:35,210 --> 00:08:38,930
+like small villages  gathering around shared beliefs and interests.
+
+122
+00:08:38,930 --> 00:08:44,360
+These villages were separated from each  other by digital rivers or mountains.
+
+123
+00:08:44,360 --> 00:08:49,320
+These communities worked because they mirrored  real life much more than social media:
+
+124
+00:08:49,320 --> 00:08:52,250
+Each village had its own culture and set of rules.
+
+125
+00:08:52,250 --> 00:08:58,630
+Maybe one community was into rough humour and soft   moderation, another had strict rules and banned  easily.
+
+126
+00:08:58,630 --> 00:09:05,060
+If you didn’t play by the village rules,   you would be banned – or
+you could just go and  move to another village that suited you better.
+
+127
+00:09:05,085 --> 00:09:12,300
+So instead of all of us gathering in one  place, overwhelming our brains at a town   square that in the end
+
+128
+00:09:12,300 --> 00:09:16,480
+just leads to us  going insane, one solution to achieve less social sorting may be extremely simple:
+
+129
+00:09:16,480 --> 00:09:19,200
+go back to smaller online communities.
+
+130
+00:09:19,200 --> 00:09:24,930
+Because what our stupid brains don’t realize is that
+we are actually all on the same team:   Humanity,
+
+131
+00:09:24,930 --> 00:09:30,680
+on a wet rock speeding through space  in a universe that doesn’t think about us.
+
+132
+00:09:30,680 --> 00:09:32,780
+We are all in this together
+
+133
+00:09:32,818 --> 00:09:36,420
+– but until our  brains adjust
+to being able to deal with
+
+134
+00:09:36,420 --> 00:09:40,020
+that,   we might be better off
+being a tiny bit separated.
+
+135
+00:09:43,680 --> 00:09:49,590
+One of the worst things about the media we  consume is that most news organizations tend   to cater to one team,
+
+136
+00:09:49,590 --> 00:09:51,780
+making you  feel you are on the correct side.
+
+137
+00:09:51,780 --> 00:09:56,570
+Ground News, the sponsor of this video, is  trying to make these biases more transparent
+
+138
+00:09:56,570 --> 00:10:00,810
+by giving you tools that help you think  critically about the information you   consume
+
+139
+00:10:00,810 --> 00:10:03,440
+– a mission we wholeheartedly  support.
+
+140
+00:10:03,440 --> 00:10:07,230
+Ground News gathers related   articles from around the world in one  place
+
+141
+00:10:07,230 --> 00:10:10,530
+so you can compare how different   outlets and sides cover them.
+
+142
+00:10:10,530 --> 00:10:17,790
+They provide  context about the source of the information,   if they have a political bias, how reliable  their reporting is and who owns them.
+
+143
+00:10:17,790 --> 00:10:22,430
+This makes the news less stressful and makes you  understand the world much better.
+
+144
+00:10:22,430 --> 00:10:26,330
+If you want to check them out go to ground.news/nutshell
+
+145
+00:10:26,330 --> 00:10:30,780
+If you sign up through this link,   you’ll get 30% off their unlimited access  plan.
+
+146
+00:10:30,780 --> 00:10:37,260
+A subscription supports Kurzgesagt   and Ground News, so they can continue  to build more media literacy tools.
+
+147
+00:10:37,260 --> 00:10:39,470
+Our favorite tool has a personal background:
+
+148
+00:10:39,470 --> 00:10:45,760
+in 2018 kurzgesagt founder Philipp, who wrote   this video, was going through chemotherapy  and was intensely bored
+
+149
+00:10:45,760 --> 00:10:52,190
+– so he ended up   reading all the big German newspapers,  even the ones he hated, front to back,   every single day.
+
+150
+00:10:52,190 --> 00:10:58,130
+Aside from the obvious biases,  what was the most shocking were the stories   each side did not talk about.
+
+151
+00:10:58,130 --> 00:11:02,460
+Both sides ignored  things that are inconvenient to their world views.
+
+152
+00:11:02,460 --> 00:11:06,590
+The Ground News Blind spot feed highlights this  exact thing
+
+153
+00:11:06,590 --> 00:11:12,130
+showing you news stories that are   heavily covered by one side of the political  spectrum and ignored by the other.
+
+154
+00:11:12,130 --> 00:11:17,690
+So check them out at ground.news/nutshell  to make sure you’re seeing the full picture.
+
