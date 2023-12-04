@@ -1,623 +1,736 @@
-﻿1
-00:00:00,260 --> 00:00:05,830
-In 2022 nearly half of Americans expected  a civil war in the next few years,
+1
+00:00:00,235 --> 00:00:05,805
+2022年 アメリカ人の約半数が
+数年以内の内戦を予測していた
 
 2
 00:00:05,830 --> 00:00:10,000
-one in five now believes political violence is justified.
+今や5人に1人が
+政治的暴力は正当化できると考えている
 
 3
 00:00:10,000 --> 00:00:12,680
-And it's not just the US but around the world.
+アメリカだけでなく
+世界中でだ
 
 4
 00:00:12,680 --> 00:00:16,380
-People increasingly see themselves as part of opposing teams.
+対立する集団の一方に自分がいると
+考えだした
 
 5
 00:00:16,380 --> 00:00:21,120
-There are many different reasons for this, but one gets blamed a lot: social media.
+理由は様々だが
+よく非難されるのがSNSだ
 
 6
 00:00:21,120 --> 00:00:25,320
-social media divides us makes us more extreme and less empathetic,
+SNSは私たちを分断させ
+過激化させ 共感を弱め
 
 7
 00:00:25,320 --> 00:00:28,130
-it riles us up or sucks us into doom scrolling,
+破滅のスクロールへといざない
 
 8
 00:00:28,130 --> 00:00:30,470
-making us stressed and depressed.
+苛立たせ 憂鬱にさせる
 
 9
 00:00:30,470 --> 00:00:34,420
-It feels like we need to touch grass and escape to the real world.
+家を出て現実世界に逃れる必要があると感じる
 
 10
 00:00:34,420 --> 00:00:39,640
-New research shows that we might have largely misinterpreted why this is the case.
+こうなる原因は大いに誤解されていると
+最新の研究で示唆された
 
 11
 00:00:39,640 --> 00:00:45,060
-It turns out that the social media  internet may uniquely undermine the way our brains work
+脳の働きに対し
+SNS特有の悪影響がありそうなのだが
 
 12
 00:00:45,060 --> 00:00:47,160
-but not in the way you think.
+あなたの想像とは違う形だ
 
 13
 00:00:47,160 --> 00:00:50,050
-The Myth of the Filter Bubble
+【フィルターバブルという神話】
 
 14
 00:00:50,050 --> 00:00:52,490
-You've probably heard about online filter bubbles:
+フィルターバブルは有名だ
 
 15
 00:00:52,490 --> 00:00:56,660
-Algorithms give you exactly what you want, or what they think you want.
+アルゴリズムがあなたの望むものを
+予測して提供する
 
 16
 00:00:56,660 --> 00:00:59,930
-You only see information that shows you opinions that agree with yours,
+あなたの意見に沿った
+情報だけが表示され
 
 17
 00:00:59,930 --> 00:01:03,470
-while dissenting opinions or information are filtered out.
+反対意見や情報は
+フィルタリングされる
 
 18
 00:01:03,470 --> 00:01:06,410
-Since you only see content close to   your worldview,
+自分の世界観に近い内容しか見ないため
 
 19
 00:01:06,410 --> 00:01:10,850
-more extreme and toxic opinions  suddenly seem less extreme.
+過激で有害な意見も
+あまり極端には見えなくなる
 
 20
 00:01:10,850 --> 00:01:17,360
-You are trapped in a radicalising filter bubble and your view of the world becomes narrower and more extreme.
+先鋭化するフィルターバブルに捉えられ
+あなたの世界観は狭く 極端なものになる
 
 21
 00:01:17,360 --> 00:01:19,240
-But is that true?
+本当だろうか？
 
 22
 00:01:19,240 --> 00:01:22,520
-Extreme filter bubbles seem to be rather rare
+極端なフィルターバブルは
+実は珍しいようだ
 
 23
 00:01:22,520 --> 00:01:27,540
-Studies that investigated what people actually look at online or are shown by search engines,
+実際のアクセスや検索内容を調査した研究では
 
 24
 00:01:27,540 --> 00:01:32,440
-found little evidence that you are ideologically isolated. It is the exact opposite:
+イデオロギー的な隔離の証拠はほとんどなく
+むしろ正反対だった
 
 25
 00:01:32,440 --> 00:01:37,200
-Online you are constantly confronted with opinions and world views that are not your own.
+ネット上では 常に自分と異なる意見や
+世界観に直面する
 
 26
 00:01:37,200 --> 00:01:45,010
-It turns out the place where you are the most  ideologically
-isolated is your real life, in the real world, with real people.
+最もイデオロギー的に隔離されているのは
+むしろ現実世界での他者との生活だとわかった
 
 27
 00:01:45,010 --> 00:01:51,620
-Your real world interactions with your friends, family, colleagues and neighbors are much less diverse than your online bubble.
+実際に交流する友人 家族 同僚 隣人は
+オンラインの泡の中より多様性が低いのだ
 
 28
 00:01:51,620 --> 00:01:56,000
-The filter bubble exists  in your real life, not online.
+フィルターバブルはネット上でなく
+あなたの現実にある
 
 29
 00:01:56,000 --> 00:02:00,420
-Ok wait. Online filter bubbles have been  the prevailing explanation
+ちょっと待って
+ここ20年で憎しみあうようになった理由は
 
 30
 00:02:00,420 --> 00:02:04,560
-as to why we’ve all started hating each other more over the  last two decades.
+主にフィルターバブルで
+説明してきたじゃないか
 
 31
 00:02:04,560 --> 00:02:10,480
-If that's not the case, shouldn’t the internet open our minds and  make us more empathetic with each other?
+違うなら インターネットは
+私たちの心を開き共感力を高めるのだろうか？
 
 32
 00:02:10,480 --> 00:02:13,950
-Unfortunately your brain is stupid.
+残念ながら あなたの脳は愚かだ
 
 33
 00:02:13,950 --> 00:02:16,170
-Your Brain is Stupid
+【あなたの脳は愚か】
 
 34
 00:02:16,170 --> 00:02:20,370
-Human brains didn’t evolve to understand the true nature of reality,
+人類の脳は世界のありのままを
+理解するためでなく
 
 35
 00:02:20,370 --> 00:02:24,170
-but to navigate and maintain social structures.
+社会構造を作り
+維持するよう進化した
 
 36
 00:02:24,170 --> 00:02:27,310
-Our ancestors desperately  needed each other to survive,
+祖先の生存には
+他者が切実に必要だった
 
 37
 00:02:27,310 --> 00:02:30,530
-so our brains   had to make sure we cooperated.
+脳には協調を促す必要があった
 
 38
 00:02:30,530 --> 00:02:36,950
-That's why social  isolation or exclusion feels so horrible, because   it was actually life threatening.
+これが社会的孤立を恐ろしく感じる理由で
+生存が実際に脅かされていたのだ
 
 39
 00:02:36,950 --> 00:02:39,620
-A tribe that  worked together survived,
+協調する部族は存続し
 
 40
 00:02:39,620 --> 00:02:42,460
-a divided tribe died.
+分断した部族は滅んだ
 
 41
 00:02:42,460 --> 00:02:45,920
-The way communities worked for  thousands of years is that, sure,
+数千年にわたり
+共同体はこのように機能した
 
 42
 00:02:45,920 --> 00:02:52,570
-you may have disliked a neighbour, but because you lived close to each other, you also rooted for the same sports club or saw them at the church.
+嫌いな隣人でも 同じスポーツクラブを応援していたり
+教会で会ったりする
 
 43
 00:02:52,570 --> 00:02:56,590
-You both thought that the people from the other village were idiots.
+どちらも 他の村の人間を
+バカだと思っている
 
 44
 00:02:56,590 --> 00:03:02,780
-Being physically  close made you familiar and created similarities   that bridged the gap of different world views
+物理的に近いことで親近感が湧き
+共通点が世界観の違いを埋める
 
 45
 00:03:02,780 --> 00:03:04,860
-so you didn’t murder each other.
+だから殺し合わない
 
 46
 00:03:04,860 --> 00:03:11,780
-And your world view was probably not that different in the first place  because it was formed by the same local culture.
+そもそも同じ地域の文化で育っているため
+世界観の違いも大きくは無いかも
 
 47
 00:03:11,780 --> 00:03:14,240
-When our brains evolved, this was enough.
+まずはこれで十分だった
 
 48
 00:03:14,240 --> 00:03:16,830
-Whoever  was around, was similar to us.
+周囲の誰もが
+自分と似ていた
 
 49
 00:03:16,830 --> 00:03:19,020
-We liked what was   similar to us
+自分と似ている人が好きだ
 
 50
 00:03:19,020 --> 00:03:23,350
-– this kept us aligned enough  to work together despite our differences.
+おかげで 個々人の違いはあれど
+協力しあえた
 
 51
 00:03:23,350 --> 00:03:29,340
-As humanity moved on from small tribes to towns  and cities, from chiefdoms to kingdoms to nations,
+人類が小さな部族から町や都市へ
+首長国から王国 そして国家に移行すると
 
 52
 00:03:29,340 --> 00:03:34,520
-our brains and our communities had to adapt to  more diverse sets of neighbours.
+私たちの脳と共同体は
+より多様な隣人への適応を迫られた
 
 53
 00:03:34,520 --> 00:03:39,510
-We began to meet   on the town square or in universities  where we argued and screamed at each   other
+町の広場や大学で会い
+議論したり演説したりするようになった
 
 54
 00:03:39,510 --> 00:03:43,440
-– but in the grand scheme of things  communities were still relatively isolated,
+だが大局的にみれば
+まだ相対的には隔離されていて
 
 55
 00:03:43,440 --> 00:03:47,110
-we were still pretty similar and  aligned with the people around us.
+まだ同質性は高く
+周囲と足並みもそろっていた
 
 56
 00:03:47,110 --> 00:03:50,720
-Conflict and disagreement are not  a bad thing per se.
+対立や意見の相違自体は
+悪いことではない
 
 57
 00:03:50,720 --> 00:03:54,580
-Tension over   how we should live can create new  and wonderful things.
+生き方を問うことは
+新たな意義を創造しうる
 
 58
 00:03:54,580 --> 00:03:57,970
-Our values,   norms and taboos are always evolving
+私たちの価値観 規範 タブーは
+進化を続け
 
 59
 00:03:57,970 --> 00:04:02,060
-and whatever we think is normal today,   will not be normal in the future.
+現在の普通は
+未来には普通でなくなっている
 
 60
 00:04:02,060 --> 00:04:05,260
-But we also  need social glue to hold our societies together,
+だが同時に
+社会を結束させる材料も必要だ
 
 61
 00:04:05,260 --> 00:04:10,970
-because our brains don’t care about the meta level of humanity but about being safe in a tribe.
+私たちの脳は人類全体ではなく
+部族の中での安全を気にかけていた
 
 62
 00:04:10,970 --> 00:04:16,830
-Until about 20 years ago  we did something truly new,   that hit our brains like a freight train:
+革新的なサービスが突如として
+脳を直撃する20年ほど前までは
 
 63
 00:04:16,830 --> 00:04:20,710
-the  social media internet, the digital town square.
+SNSというデジタルな街角だ
 
 64
 00:04:20,710 --> 00:04:23,030
-Don’t You Dare Disagree With Me
+【反論するな】
 
 65
 00:04:23,030 --> 00:04:24,870
-– Social Sorting
+-社会的選別-
 
 66
 00:04:24,870 --> 00:04:31,440
-In a nutshell: Our brains are not able  to process the amount of disagreement we   encounter on the social internet.
+要するに 私たちの脳は
+SNS上で遭遇する意見の違いを処理できないのだ
 
 67
 00:04:31,440 --> 00:04:36,040
-The very  mechanisms that made it possible for our   ancestors to work together in the first place
+私たちの祖先をまずは協調させた
+メカニズムが
 
 68
 00:04:36,040 --> 00:04:39,440
-are derailed in ways we were not prepared for.
+予期せぬ方向に作用している
 
 69
 00:04:39,440 --> 00:04:45,650
-Whether you want it to or not, your brain  sorts people by world views and opinions,   into teams.
+望むと望まざるとにかかわらず
+脳は世界観と意見で人々を分類する
 
 70
 00:04:45,650 --> 00:04:48,880
-This is not simply tribalism,   it goes further.
+単なる部族主義ではなく
+それ以上にだ
 
 71
 00:04:48,880 --> 00:04:52,420
-Researchers have  called this process social sorting.
+研究者はこれを社会的選別と呼ぶ
 
 72
 00:04:52,420 --> 00:04:58,820
-On the digital town square you encounter people  that express opinions or share information   that clash with your worldview.
+デジタルの街角では あなたの世界観に沿わない
+意見や情報の発信者と出会う
 
 73
 00:04:58,820 --> 00:05:02,780
-But unlike your neighbour, they don't root for your local sports club.
+ここでは 共に応援する
+スポーツクラブもない
 
 74
 00:05:02,780 --> 00:05:06,810
-You are missing the local social glue your  brain needs to align with them.
+協調するための材料が
+見当たらないのだ
 
 75
 00:05:06,810 --> 00:05:13,100
-For your brain,   the disagreement between yourself and them  becomes a central part of their identity.
+あなたの脳は　意見の違いを中心に据えて
+相手を認識してしまう
 
 76
 00:05:13,100 --> 00:05:18,240
-And this makes it less likely that  you will seriously consider their   position or opinion in the future.
+すると 相手の立場や意見を
+真摯に受け止めづらくなる
 
 77
 00:05:18,240 --> 00:05:23,350
-If you hear bad things about them,   your brain is much more likely  to believe it uncritically.
+相手の悪評を聞いたとき
+無批判に信用する可能性も高くなる
 
 78
 00:05:23,350 --> 00:05:26,320
-On the flipside, there are people who  share your world view
+逆に あなたと世界観を共有しており
 
 79
 00:05:26,320 --> 00:05:30,440
-and are maybe   even more similar to you than many people  in your real life.
+実生活もあなたに近い人々が
+いるかもしれない
 
 80
 00:05:30,440 --> 00:05:34,450
-Which makes your brain   like them a lot and kind of hyper align with  them.
+脳は彼らを好きになり
+一種のシンクロ状態になる
 
 81
 00:05:34,450 --> 00:05:38,100
-People who think like you are probably   good people because you are a good person
+考え方が合うなら
+自分と同様いい人だろう
 
 82
 00:05:38,100 --> 00:05:41,320
-and  whatever social group you belong to is good!
+自分が属する集団も
+同様にいい集団だ
 
 83
 00:05:41,320 --> 00:05:44,160
-So your brain is more likely to believe their  opinions.
+脳は彼らの意見を
+信じやすくなり
 
 84
 00:05:44,160 --> 00:05:49,770
-If you hear bad things about them,   your brain is much more likely  to dismiss it uncritically.
+彼らへの批判は
+根拠もなく否定しやすくなる
 
 85
 00:05:49,770 --> 00:05:55,560
-The engagement driven social internet makes it  worse
-because it wants to keep you online as   long as possible.
+SNSは反応を求めてあなたを引き留め続け
+事態は悪化する
 
 86
 00:05:55,560 --> 00:06:00,100
-And the most engaging emotion
-is, unfortunately: Anger.
+そして残念ながら
+最も反応をもらえる感情は…怒りだ
 
 87
 00:06:00,100 --> 00:06:03,890
-The more angry you get,   the more likely you are to share and engage,
+あなたが怒るほど
+シェアや反応が返ってくる
 
 88
 00:06:03,890 --> 00:06:08,680
-and this leads to social media amplifying the   most extreme and controversial opinions.
+こうしてSNSは
+過激で論争的な意見を増幅させていく
 
 89
 00:06:08,680 --> 00:06:13,990
-It  optimises not only to show us disagreement,   but the worst disagreement possible.
+論争はありのままではなく
+最悪の形にして示される
 
 90
 00:06:13,990 --> 00:06:16,940
-And because  your stupid brain is sorting people into teams,
+愚かな脳は人々を
+チーム分けし
 
 91
 00:06:16,940 --> 00:06:22,500
-whatever the worst opinions are, it assigns the  same opinions to everybody on the other team.
+チーム内で最悪の意見を
+そのチームの総意と見なしてしまう
 
 92
 00:06:22,500 --> 00:06:25,300
-What is striking and new about online polarisation
+ネット上での二極化に特有なのは
 
 93
 00:06:25,324 --> 00:06:28,470
- is that all the aspects of our lives that make   us individuals,
+個人的な生活すらも
+関連づけられることだ
 
 94
 00:06:28,470 --> 00:06:35,250
-our lifestyle choices, the  comedians or shows we watch, our religion,   sense of fashion and so on are condensed.
+つまりライフスタイル 好きな芸人 宗教
+ファッション などが一括りにされ
 
 95
 00:06:35,250 --> 00:06:40,050
-making it seem that they are parts of   opposing and mutually exclusive identities.
+対立的で排他的な立場の
+一部であるかのように扱われるのだ
 
 96
 00:06:40,050 --> 00:06:45,240
-This simplifies and distorts disagreements about how we should run society so much
+これが社会の方針についての意見対立を
+単純化し 歪曲する
 
 97
 00:06:45,240 --> 00:06:51,370
-that  it often seems as if the people on the other   team are actively, willfully making the  world worse.
+他の集団は故意に世界を悪化させようと
+活発に動いているように見える
 
 98
 00:06:51,370 --> 00:06:56,780
-That they are almost evil, beyond convincing with rationality, facts or civil discussion.
+合理性やファクト 市民的議論で
+説得できない邪悪な存在だ
 
 99
 00:06:56,780 --> 00:07:03,370
-While you are of course on the correct   team, it may be hard to process that you may  seem like that to people on the other team.
+一方あなたは正しい側のはずなので
+相手から同様に扱われると処理できない
 
 100
 00:07:03,370 --> 00:07:08,990
-On a societal level this is dissolving the  social glue that is the foundation of our   democracies.
+これは民主主義の基盤となる
+社会的架け橋を台無しにする
 
 101
 00:07:08,990 --> 00:07:13,060
-If we think our neighbours  are evil, how can we live together?
+隣人を邪悪だと思っているのに
+共存しろというのか
 
 102
 00:07:13,060 --> 00:07:19,360
-This is especially bad in the US, where the  two party system makes it extra easy to think   of people in terms of teams
+特に酷いのが二大政党制のアメリカで
+もともと人々を分類しがちだ
 
 103
 00:07:19,360 --> 00:07:23,360
-– negative opinion  about the other party has reached record highs.
+対立集団への否定的意見は
+過去最高を記録した
 
 104
 00:07:23,360 --> 00:07:27,130
-Ok. Is there something we can learn  from this?
+さて
+ここから何を学ぼうか
 
 105
 00:07:27,130 --> 00:07:29,420
-Is there something we can do?
+できることはあるだろうか
 
 106
 00:07:29,420 --> 00:07:32,070
-Something more positive – Opinion Part
+【もっと前向きに】
+意見パート
 
 107
 00:07:33,070 --> 00:07:38,300
-In the end, It is important to be  aware of what social media does to   your brain.
+結局 私たちの脳にSNSが及ぼす作用を
+意識しておくことが肝心だ
 
 108
 00:07:38,300 --> 00:07:41,220
-It's easier to change  yourself than to change the world,
+世界よりも自分を
+変える方が容易だ
 
 109
 00:07:41,220 --> 00:07:44,610
-so you can self examine why you believe the  things you believe
+自分で検証しよう
+「それを信じる理由は何か」
 
 110
 00:07:44,610 --> 00:07:51,330
-and whether you dismiss   or believe information based on who the  person is who is stating that information.
+「発信者がどちら側なのか」に基づいて
+情報の信頼性を判断していないかを
 
 111
 00:07:51,330 --> 00:07:53,800
-The internet comes with a lot of  ups and downs
+ネットは浮き沈みが激しい
 
 112
 00:07:53,800 --> 00:07:57,790
-and just like we   had to adapt from living in small tribes  to living in cities,
+小さな部族から都市での生活に
+適応を迫られたように
 
 113
 00:07:57,790 --> 00:08:02,730
-we need to adapt to   the information age where we have access to  billions of people.
+数十億人にアクセスできる
+情報化の時代に適応する必要がある
 
 114
 00:08:02,730 --> 00:08:09,400
-Evolution is too slow,   so we need to find models that work with  what our brains are able to tolerate.
+すぐに進化はできないので 私たちの脳が許容できる
+有用なモデルを見出す必要がある
 
 115
 00:08:09,400 --> 00:08:14,270
-One model that seemed to work well was the pre  social media internet old people might remember:
+有用そうなモデルの一つが
+SNS以前のインターネットだ
 
 116
 00:08:14,270 --> 00:08:17,320
-Bulletin boards, forums, blogs.
+掲示板 フォーラム ブログ
 
 117
 00:08:17,320 --> 00:08:19,820
-The  main difference to today was twofold:
+現在との違いは主に2つで
 
 118
 00:08:19,820 --> 00:08:23,900
-For one there were no algorithms fighting to  keep you online at anycost
+一つは接続を維持させる
+アルゴリズムが無いことだ
 
 119
 00:08:23,900 --> 00:08:29,450
-– at some point   you were done with the internet for the  day, as mind blowing as this may sound.
+驚くなかれ
+一日のインターネットに終わりがあったのだ
 
 120
 00:08:29,450 --> 00:08:35,210
-But more importantly: The old internet  was very fractured, split into thousands   of different communities,
+だがより重要な点は
+何千もの異なる集団に分かれていたことだ
 
 121
 00:08:35,210 --> 00:08:38,930
-like small villages  gathering around shared beliefs and interests.
+信念や興味で集った
+小さな村のように
 
 122
 00:08:38,930 --> 00:08:44,360
-These villages were separated from each  other by digital rivers or mountains.
+これらの村々は
+デジタルの川や山によって隔離されていた
 
 123
 00:08:44,360 --> 00:08:49,320
-These communities worked because they mirrored  real life much more than social media:
+これらが機能したのは
+SNSよりも現実の生活と似ていたからだ
 
 124
 00:08:49,320 --> 00:08:52,250
-Each village had its own culture and set of rules.
+どの村も独自の文化とルールがあった
 
 125
 00:08:52,250 --> 00:08:58,630
-Maybe one community was into rough humour and soft   moderation, another had strict rules and banned  easily.
+荒っぽいユーモアと少しの節度を好む村も
+ルールが厳格ですぐに追放する村もあった
 
 126
 00:08:58,630 --> 00:09:05,060
-If you didn’t play by the village rules,   you would be banned – or
-you could just go and  move to another village that suited you better.
+村のルールを破れば追放されたし
+自分にあった村に移ることもできた
 
 127
-00:09:05,085 --> 00:09:12,300
-So instead of all of us gathering in one  place, overwhelming our brains at a town   square that in the end
+00:09:05,060 --> 00:09:12,300
+わざわざ全員で集まって脳を酷使しても
+結局は発狂してしまうなら
 
 128
 00:09:12,300 --> 00:09:16,480
-just leads to us  going insane, one solution to achieve less social sorting may be extremely simple:
+社会的選別を抑制する解決策は
+驚くほどシンプルだ
 
 129
 00:09:16,480 --> 00:09:19,200
-go back to smaller online communities.
+小さなオンラインの輪に帰ればいい
 
 130
 00:09:19,200 --> 00:09:24,930
-Because what our stupid brains don’t realize is that
-we are actually all on the same team:   Humanity,
+愚かな脳は気づいていないが
+実は全員が同じチームに属している
 
 131
 00:09:24,930 --> 00:09:30,680
-on a wet rock speeding through space  in a universe that doesn’t think about us.
+宇宙を駆ける湿った岩石に暮らす
+「人類」という孤立したチームだ
 
 132
 00:09:30,680 --> 00:09:32,780
-We are all in this together
+私たち全員が構成員だ
 
 133
-00:09:32,818 --> 00:09:36,420
-– but until our  brains adjust
-to being able to deal with
+00:09:32,780 --> 00:09:36,420
+だが この現実に脳が対応できるまでは
 
 134
 00:09:36,420 --> 00:09:40,020
-that,   we might be better off
-being a tiny bit separated.
+小さな集団どうしで
+離れているべきなのかも
 
 135
 00:09:43,680 --> 00:09:49,590
-One of the worst things about the media we  consume is that most news organizations tend   to cater to one team,
+日々消費しているメディアのほとんどは
+最悪なことに特定の陣営に迎合して
 
 136
 00:09:49,590 --> 00:09:51,780
-making you  feel you are on the correct side.
+「正しい側にいる」と思わせます
 
 137
 00:09:51,780 --> 00:09:56,570
-Ground News, the sponsor of this video, is  trying to make these biases more transparent
+本動画のスポンサー Ground News は
+この偏向の可視化に挑戦しています
 
 138
 00:09:56,570 --> 00:10:00,810
-by giving you tools that help you think  critically about the information you   consume
+消費する情報への
+批判的思考を促すツールによって
 
 139
 00:10:00,810 --> 00:10:03,440
-– a mission we wholeheartedly  support.
+この挑戦を
+心から応援しています
 
 140
 00:10:03,440 --> 00:10:07,230
-Ground News gathers related   articles from around the world in one  place
+Ground News は世界中の関連記事を
+一か所に集め
 
 141
 00:10:07,230 --> 00:10:10,530
-so you can compare how different   outlets and sides cover them.
+メディアや報道機関ごとの
+違いを比較できます
 
 142
 00:10:10,530 --> 00:10:17,790
-They provide  context about the source of the information,   if they have a political bias, how reliable  their reporting is and who owns them.
+情報源 政治的バイアスの有無
+報道の信頼性 責任者などの文脈が得られます
 
 143
 00:10:17,790 --> 00:10:22,430
-This makes the news less stressful and makes you  understand the world much better.
+ニュースからのストレスが減り
+世界をよりよく理解できます
 
 144
 00:10:22,430 --> 00:10:26,330
-If you want to check them out go to ground.news/nutshell
+ご興味があれば
+ground.news/nutshell へどうぞ
 
 145
 00:10:26,330 --> 00:10:30,780
-If you sign up through this link,   you’ll get 30% off their unlimited access  plan.
+このリンクから登録すれば
+無制限アクセスプランが3割引きです
 
 146
 00:10:30,780 --> 00:10:37,260
-A subscription supports Kurzgesagt   and Ground News, so they can continue  to build more media literacy tools.
+登録は Kurzgesagt と Ground News を助け
+メディアリテラシーのツール開発を継続させます
 
 147
 00:10:37,260 --> 00:10:39,470
-Our favorite tool has a personal background:
+個人的な背景もあります
 
 148
 00:10:39,470 --> 00:10:45,760
-in 2018 kurzgesagt founder Philipp, who wrote   this video, was going through chemotherapy  and was intensely bored
+2018年 Kurzgesagt 創始者でこの動画の作者の
+フィリップは化学療法で極めて退屈でした
 
 149
 00:10:45,760 --> 00:10:52,190
-– so he ended up   reading all the big German newspapers,  even the ones he hated, front to back,   every single day.
+だから毎日 ドイツ大手の新聞を全て
+嫌いなものまで 隅々まで読んでいました
 
 150
 00:10:52,190 --> 00:10:58,130
-Aside from the obvious biases,  what was the most shocking were the stories   each side did not talk about.
+明らかな偏向はさておき
+最も衝撃的だったのは 黙殺される内容でした
 
 151
 00:10:58,130 --> 00:11:02,460
-Both sides ignored  things that are inconvenient to their world views.
+報道機関の立場に合わせ
+不都合な情報が無視されていました
 
 152
 00:11:02,460 --> 00:11:06,590
-The Ground News Blind spot feed highlights this  exact thing
+Ground News の Blindspot は
+まさにこれを強調し
 
 153
 00:11:06,590 --> 00:11:12,130
-showing you news stories that are   heavily covered by one side of the political  spectrum and ignored by the other.
+一方が大きく報道するのに
+もう一方が無視しているニュースを示します
 
 154
 00:11:12,130 --> 00:11:17,690
-So check them out at ground.news/nutshell  to make sure you’re seeing the full picture.
+ground.news/nutshell をチェックして
+全体像をご確認ください
 
